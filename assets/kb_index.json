@@ -1,0 +1,5435 @@
+{
+"_meta": {
+"space_id": "7656740046485064660",
+"built_at": "2026-08-31",
+"topics": 49,
+"nodes": 1319,
+"topic_tokens": {
+"A1 长期主义与复利": "FoTnwBW4FiRL0CkEWgscqQdgnoh",
+"A2 波动与下跌应对": "ZSyqwNs5Fi0d8KkzKVHciJ4enFb",
+"A3 投资心理与常见误区": "TyKKwQt1ai4ZsOkVvUwc8vVZnGf",
+"A4 抗通胀与人力资产": "KN7IwntoGiEsOvkovRYc48SJnNd",
+"A5 常见误区辨析": "KZeKwizJTi6V9YkKh9OcaJEInde",
+"B1 估值指标与方法": "HsUmwpjkviyg1nkmYEucy1SOnxf",
+"B2 螺丝钉星级与牛熊信号": "BmwFweDd0iWcEBkWFPHcosSknDb",
+"B3 牛熊市与市场周期": "A5xZw8C6Gi6wyWk8KDic2yiNnkg",
+"B4 利率·宏观·汇率": "MID2wKfAliR1eCkQWpdcq9rqnbc",
+"B5 政策与制度": "TgrXwBmYwiRp6Sk4X9WcLzhVnfd",
+"B6 热点事件解读": "T07bwsYMSiqxE2k3UADcEh6cnod",
+"B7 市场结构与投资者行为": "BYMrwRkHfiKqOkkk0F2cDBkTnhh",
+"C1 指数基金基础": "Lfl4wfKmcip9iukMwF7cWIA6n5T",
+"C2 宽基指数": "OxJCwUxL9i54dvk3Hy3c1OK3nQf",
+"C3 红利与策略指数": "GEMkwEPj7i3w2QkR8ZYcskrVn6y",
+"C4 行业与主题指数": "ITANw5JgwieKZrkZb4scujzGnVc",
+"C5 海外与全球品种": "EW9LwVA9GiDE0rkGfpmcwJZHnWf",
+"C6 主动基金": "Mdi5wPeesis6I7kArPncxJtcnOe",
+"C7 指数增强基金": "Jkgvwf1feiHNsRkRSdpcnnZlnFe",
+"C8 债券与固收": "Awb1wHZ8ZiLLaMkfztEcalGhnSh",
+"C9 货币与现金管理": "Ji7uwKWtyicpMGk0iuEcuQKcnxe",
+"C10 商品与另类": "VxWkwBfbdi2VfWkGrBTca9BxnGb",
+"C11 保险": "XtWswltDli9q0Fk9VjmcajDUnRc",
+"C12 私募与高净值产品": "PHuFwhfKNiNp99kdo6McSEgonyb",
+"C13 基金通用知识": "Olf8wteltiNVFxkmKUsctJLbngd",
+"D1 定投方法": "IElzw7dpBid1FrkC3clc3055nDc",
+"D2 低估买入与估值投资": "PYzmwMSmNiF5u5kNajyc5dwqnjd",
+"D3 止盈方法": "AQeWwSpZdi1UjnkYE4icp0gOnEb",
+"D4 资产配置与再平衡": "TipBw7treiI8D0kEEBYclbeinvf",
+"D5 风格搭配": "HrwewA8Pei6UYSkEnq7cOjxKnAh",
+"D6 波动利用技巧": "G05DwubyWiq79skC8OMcaUiYnGb",
+"D7 现金流策略": "YoCZw0i8ciadZakTfN6cKf1RnWS",
+"D8 选基方法论": "VZKcwQDDtiMzjrk51CtcAVP9nVf",
+"E1 养老规划": "RW9swycjWiMyP8kQOWbc3oOBnEd",
+"E2 税务与社保": "Z8pgwL7s1iOgq7kA7V3c5CzRnff",
+"E3 家庭资产配置": "IpYZwOTTSiUxMMkoggEctIbsnWc",
+"E4 短期与应急资金": "WI8Kwz8T5iK4JokqqEMcsrKTnzg",
+"E5 子女教育与人生大事": "MWh1woctsiVDO6kaesZcddqUn9f",
+"F1 估值表与信号板": "JDuCwDu59i2Cg1kQpcUcVE0YnLf",
+"F2 投顾组合介绍与运作": "DRUVwqWb3imRKDkMLfMcrcFinMf",
+"F3 投顾行业与制度": "FS5Aw2tvTiuK6Wk1E02c4BbvnKV",
+"F4 学院·课程·书籍": "CKyOwOpj4iVUkJkBf0bcU6M8nCg",
+"F3 投顾组合介绍与运作": "WDJYwf4yoi9qTqk61hGcJnSAn5g",
+"F5 学院、课程与社群服务": "Q2zSwJarpiHwPWkBWbdcqkBhngh",
+"F6 书籍与出版动态": "FNojwTtQminYQkkvoRkczrBYnfh",
+"G1 投资大师与理念": "FbslwKAvYi2hwakLh1Rc6D08nge",
+"G2 基金经理精讲": "MsRfwDb36is9cokDvfBcdgLunUW",
+"G3 历史事件与市场复盘": "SoCowyZoOieHcRkjXKtcaGzGnxf",
+"G4 带你读书": "Wwg2wQXsIiA6KRkztMTccTR8nWd"
+}
+},
+"topics": {
+"A1 长期主义与复利": [
+{
+"t": "KVU1wQEnDi0COSkzmNUcLAT7nod",
+"n": "股市里到底赚什么钱（盈利为主、估值为辅）"
+},
+{
+"t": "QGo0wiRqgiSpq8k3mt3cgtm6nQc",
+"n": "盈利增长是指数长期上涨的底气（主人与小狗、买指数就是买国运）"
+},
+{
+"t": "YNi0w4Q0DiHtCnk4MekcIWoinWe",
+"n": "复利的威力与时间的累积（10%不是每年10%、闪电劈下来要在场）"
+},
+{
+"t": "HHY5wLRXvionVgkLXuQcyFCcnNh",
+"n": "股票为什么是长期收益最高的资产类别"
+},
+{
+"t": "R7pQwceM2ipPRGkue7oc5BWpnNe",
+"n": "长期投资为什么难坚持，如何坚持"
+},
+{
+"t": "H0e8wVAZsifKbzkN9F1cByjJneg",
+"n": "为什么明知市场长期上涨，遇到波动还是会恐慌？——人类大脑的警报机制"
+},
+{
+"t": "HjHUwFIhBizVDBk4A9BcONk6nDy",
+"n": "长期投资需要乐观主义信念（悲观本能与理性乐观、熊市底部证伪\"这次彻底完了\"）"
+},
+{
+"t": "CZ6qwZTiNilor2kLWTCcWAitnVh",
+"n": "人生方向选择：找长坡厚雪、以复利思维择业尝试"
+},
+{
+"t": "VWcBw7LrVi05nQk6BCUcSbHAn1c",
+"n": "交易思维转生意思思维:买组合=买一篮子公司,以盈利分红推动长期上涨"
+},
+{
+"t": "XJAKwwTa9iKMhGkcaIycGSD1nkc",
+"n": "止盈后现金不如稳健品种及巴菲特长寿复利与家庭投资传承"
+},
+{
+"t": "PIfZwAvDJi4dcBkF9Z6cTydanKh",
+"n": "春节前直播暂停通知"
+},
+{
+"t": "CWtBwDDqviijefkDVhTcZoL0nKb",
+"n": "分红的理解：经营所得而非本金返还（生意思维而非交易思维）"
+},
+{
+"t": "YwISw19wgijiSOkhMJkcpngunOg",
+"n": "365天组合等基金类产品年化收益率是复利口径,区别于债券/储蓄常见的单利展示"
+},
+{
+"t": "MyDhwKvPairU8MkuUyCcZWNBnUg",
+"n": "交易思维转生意思维：买股票就是买公司，看盈利增长而非股价涨跌"
+},
+{
+"t": "MP04w48Efib1ZNk2Vo8c7oOHnBf",
+"n": "11岁至成年阶段孩子已具备抽象数学能力和社会认知，能理解复利逻辑与价值投资基础理念（买股票就是买公司、价格围绕价值波动）"
+},
+{
+"t": "Pw8qwVTYziqiDsk1YZvcLLZ3npb",
+"n": "股票类资产的收益拆解公式（约翰·博格公式：估值×盈利+分红）"
+},
+{
+"t": "Z52IwrS67iWXzlkXKBgcjaF8ngf",
+"n": "熊市底部点数逐轮抬升的原因（理性资金真金白银支撑），而非以牛市顶点判断指数涨跌"
+},
+{
+"t": "FnZywFzE8idqpQkzUiFcinuin80",
+"n": "单利与复利的区别及长期稳定复利为何比波动更快增值"
+},
+{
+"t": "MCGNwY93NiQhLxkXv6ncKFqzn9g",
+"n": "戴维斯家族与巴菲特案例：财商教育与投资要趁早"
+},
+{
+"t": "U42KwgkA2iXEGUkcIG3cGQFJnHg",
+"n": "第三阶段（7-11岁）：通过银行存单、货币基金等低波动品种建立单利与\"钱能生钱\"认知"
+},
+{
+"t": "L3kzwufE4io4vRkEamfcv1u8nwf",
+"n": "巴菲特打卡理论:一生重大投资决策次数有限,类比做生意周期性,估值不同阶段该出手时出手、不便宜时止盈耐心等待"
+},
+{
+"t": "CCXqwqmc0iRTYtkYfXbcxc3rnze",
+"n": "指数长期上涨的动力"
+},
+{
+"t": "W6t5wIJ2oiTgv6kAXXPcsTHlncc",
+"n": "下跌不等于风险：真正的风险是本金永久性损失"
+},
+{
+"t": "Utfzwlm8yi1IcKkVYmocxzXLnkd",
+"n": "下跌波动不是风险，永久损失才是真正的投资风险"
+},
+{
+"t": "X8I4wcEc4ikq9GkDoejcE6wln1d",
+"n": "普通投资者的投资优势"
+},
+{
+"t": "H3zdwRn5ziTrSxk0GMrc0Kfqnjb",
+"n": "资金投资期限决定品种选择:红利/月薪宝/365波动依次减小,及国家队ETF持仓观察方法"
+},
+{
+"t": "KXnjw8kBJi2ZN4kOYIfcXvyZnfg",
+"n": "高净值投资者线上线下活动安排"
+},
+{
+"t": "M0n9w5BHWiaa1HkYYtFcmx5bnjN",
+"n": "融资融券与杠杆投资：为何多数普通投资者不适合使用"
+},
+{
+"t": "ZhqgwjcGKiR2bjkgEHCcqaoVnkg",
+"n": "巴菲特积分卡20次机会与3~5年利率周期的对应关系:为什么投资机会、五星级、利率周期本质是一回事"
+},
+{
+"t": "PVJnw4GSpibS3kk2jTCc8Bn7nLd",
+"n": "螺丝钉星级对应指数点数的推算方法：从盈利增速反推下一次五星的中证全指点位（5000点出头）"
+},
+{
+"t": "H8pLwSQNUiSCDBkXj0scnVZ5ngg",
+"n": "主动优选长期投资者的整体盈亏比例与坚持策略的关系"
+},
+{
+"t": "PVQVw6FAlimv0ekmN6KcNNACnvg",
+"n": "品种大涨≠稳赚：成本随上涨抬升导致亏钱（韩国案例）"
+},
+{
+"t": "DnpowcX7Si7NMkkqM3PchmZ4n2d",
+"n": "主动优选基金的风格是否有定期披露"
+},
+{
+"t": "KeFewHGr7iKCjkkY9dpc1w81nRf",
+"n": "存量资金五星投入与新增收入定投的双轨策略"
+},
+{
+"t": "GdzkwABDti8iOSkfI0xcQH89noe",
+"n": "品种年化收益率与个人买入成本的关系（估值决定收益率，年化越高往往成本越高）"
+}
+],
+"A2 波动与下跌应对": [
+{
+"t": "DKDjwzRwLiJF2JkNw1Ic02E1n3c",
+"n": "市场为什么会波动，波动是风险还是机会"
+},
+{
+"t": "TBLpwX5jkij88mk6h9gcvCZcnNh",
+"n": "下跌时该怎么办：越跌越买与加仓补仓的原则"
+},
+{
+"t": "ON6awLRF0iwg70kbW3ncgnHDnHg",
+"n": "浮亏时如何拿得住（心理建设、微笑曲线）"
+},
+{
+"t": "H4crwohGNiHyyWkzskCcffVJnLh",
+"n": "如何降低组合的波动风险（分散配置、买够只数）"
+},
+{
+"t": "GXVbwaSr6ievkBkjZKecoRuMnub",
+"n": "为什么市场下跌是有底的（5星级之后下跌空间有限）"
+},
+{
+"t": "LuoQw0tx8ih0rJk7GHicLrNsnhf",
+"n": "波动率指标怎么看、不同品种波动有多大"
+},
+{
+"t": "Umauw5wwLikNSqkNvsQcCsYenlg",
+"n": "为什么A股长期波动在下降"
+},
+{
+"t": "ZIoFwN1priY6mXkX3iocF9Konrb",
+"n": "不同资产（债券/港股/黄金/小盘）的波动特征"
+},
+{
+"t": "GKXkwksixiRTylkR0ABcgvFWnKd",
+"n": "用\"钱放家里能不能睡着觉\"测试自己的风险承受力,来判断适合股票投资(少数人)还是基金定投(多数人,约1:3比例)"
+},
+{
+"t": "RsAUwJuxpi3rmrkvtaPcAop8nVd",
+"n": "黄金与虚拟货币对流动性的敏感性特征"
+},
+{
+"t": "ZNxxwYRBHinG17kMEfucRA9rn3q",
+"n": "永远都有低估买入和高估止盈的机会，不必因错过而焦虑一笔买入"
+},
+{
+"t": "SyKlw5Z5Di80PakI1qLc26Xnn8b",
+"n": "红利/纯债浮亏用股息率(利息)倒推填坑时间的经验公式，不建议做波段降成本"
+},
+{
+"t": "BzCLwN5Kyiv2C1kkiG3crX1Vnce",
+"n": "全天候策略：如何用股、债、黄金三类资产实现极简分散？"
+},
+{
+"t": "TlEowN7y4i6vZfkWwaHcuwvDnHf",
+"n": "快熊比慢熊更让投资者能接受（以2015年、2018年贸易摩擦引发的快速熊市为例）"
+},
+{
+"t": "Ovtxw3kVgiImuGksQmkcKK0pnsd",
+"n": "波动率的定义、特点及品种/组合应用"
+},
+{
+"t": "XWAuwHQapiap3Kk2l1QcVOWYnQg",
+"n": "活动开场与背景介绍"
+},
+{
+"t": "DkcBwlJCyi3a78kUs4GcG6ejnQb",
+"n": "为何要用长期不用的闲钱投资：两类可惜的割肉离场情形"
+},
+{
+"t": "Ha5Nw4htZicFhjkxj1acCpBNnze",
+"n": "风格轮动的跷跷板效应（成长强势时如何看待手中\"雪包\"品种）"
+},
+{
+"t": "UpPhwLzhbimhxxkZzrhcbV4Kn5c",
+"n": "假设市场完全理性会怎样——市场情绪化波动的本质与指数基金核心收益来源"
+},
+{
+"t": "NX2swu6vqizuZjkXLDfcRZ5lnXd",
+"n": "螺丝钉2016年中国版全天候策略回测（纯A股ETF+人民币债券+黄金,不含美股）及加美股/可转债/REITs/美元债后的优化效果"
+},
+{
+"t": "HpNEwE6fqieLq0k9ET4cJy8Enld",
+"n": "牛市是否结束难判断：看基本面盈利增长与估值高低决定止盈还是持有"
+},
+{
+"t": "YRcLwWqr8iDtELkcgqWcbSLunso",
+"n": "止盈后市场继续波动是否算损失、长期持有vs高估止盈的年化对比"
+},
+{
+"t": "V28jwUnjciAbm6kEoCmcFPACnne",
+"n": "融资盘规模致爆仓踩踏风险(区别于衍生品爆仓机制)，但基本面强于上轮熊市"
+},
+{
+"t": "ViIFwx6xFi2LNakCXFGcDXQPnNc",
+"n": "成长风格(恒生科技/科创板)与价值风格(红利)品种的正常波动幅度参照对比"
+},
+{
+"t": "UJDRwgYcjisRZ3kQjMbcUmNQnrf",
+"n": "单个行业15%~20%比例上限的计算口径是总资产还是股票部分"
+},
+{
+"t": "SxGCwzJ7oi8umXkNfz2cfnPLnCe",
+"n": "油价上涨对通胀、降息节奏及各类资产的短期影响"
+},
+{
+"t": "UYb0wy0ZuiyuLkkeugccxsFGnke",
+"n": "全天候策略的起源与风险平价理念（哈里布朗四分法、商品资产无现金流特性）"
+},
+{
+"t": "VJM1wtUETitvemkygdqcB7r9nAc",
+"n": "老年人保险配置思路（防癌组合与标准级组合）"
+},
+{
+"t": "CBdvwxAlbiEvgNktDtxccl49nZc",
+"n": "重疾险问题产品是否要退保重买的两步判断法"
+},
+{
+"t": "IZ0Ww21RGi7fEbksdv6cpDhWnle",
+"n": "市场波动时如何检查持仓并应对（止盈/FOF调仓）"
+},
+{
+"t": "PiF2wMwZiiAxuRkHmvicJiJAntc",
+"n": "保险配置的两大误区:先大人后孩子、保额买够而非保项目齐全"
+},
+{
+"t": "Oh3KwaCdDiC6zokn6C2cVze1n0e",
+"n": "A股波动从暴涨暴跌走向慢牛的具体机制：养老金定投计划与央行救市资金托底"
+},
+{
+"t": "PaOzwviXtinOAvkOCI9cAgO4nRu",
+"n": "红利涨跌感知与实际数据的偏差:主观感觉易出错,应结合真实涨跌数据判断而非凭感觉"
+},
+{
+"t": "VV4mwJY9qiZzSzkBR9MchIk7nNg",
+"n": "最大回撤自测法：查历史最大回撤与熊市持续时间，自问能否扛住"
+},
+{
+"t": "ZBq4w5HhEifocgkyW0icOoBZnlf",
+"n": "本轮油价上涨引发的市场波动与去年关税危机回撤对比（A股最大回撤11% vs 去年19%），说明当前调整幅度可控"
+},
+{
+"t": "IWaCw9qrminov2kePbscqgPlnPc",
+"n": "熊市底部提升是核心收益来源,牛市大涨是意外红包的投资心态"
+},
+{
+"t": "DvSEwyyi3iKbYkk5OxCcl3DSn4g",
+"n": "身价过亿创业者3年内负债千万案例：财富积累靠机会与杠杆，守财难在风险意识缺失，需提前用保险等做兜底防范极端风险"
+},
+{
+"t": "TuTbwxpUsiGKAyknyO9cYEVLnde",
+"n": "个股破产风险与分散化所需股票数量(麦基尔研究:2/20/50只股票风险倍数对比)"
+},
+{
+"t": "AihGw7mjIifY3xkMg2wcNiGkntm",
+"n": "不同品种的风险等级与风险管理"
+},
+{
+"t": "Ni6Iwz3Vbi28Lbk0oJfcUqGQn2c",
+"n": "下跌的底线与安全边际"
+},
+{
+"t": "JefSwIveoi8H34kd90Fc84Tenjg",
+"n": "涨跌与机会认知"
+},
+{
+"t": "JP3SwfGtniZxlckreWCcCV0sn9e",
+"n": "真正的投资风险：本金永久性损失（借钱/杠杆/用钱期限错配）"
+},
+{
+"t": "OySvwZBiyisS3Xk7Bmtcp1qqnZf",
+"n": "让下跌变成机会的三个前提条件"
+},
+{
+"t": "Oac6wv6TmiQVqQkGapCcvPc1nGh",
+"n": "杠杆爆仓熊市特征：跌幅迅猛但持续时间短，不同于基本面差导致的长熊市"
+},
+{
+"t": "SiBww6L19iyvdHkURsvcgbtCngd",
+"n": "杠杆爆仓导致市场快速崩跌的机制与历史剧本"
+},
+{
+"t": "WvhLw7BftiXQeakImqKcq9f9nBo",
+"n": "牛市中后期杠杆资金风险未释放与剧烈波动特征"
+},
+{
+"t": "WS9MwOtXlilVyTkP5Wtco2fnnHb",
+"n": "杠杆爆仓如何引发连锁下跌（韩股/A股案例）"
+},
+{
+"t": "LhRGwL2fMiKZACki35ec2UvDnre",
+"n": "杠杆风险释放过程中的操作策略：止盈高估品种、定投低估品种、等待宽基回低估再发车"
+},
+{
+"t": "EHVZw31bRiMJ2ukX2YDcg5S2ndp",
+"n": "科创创业估值偏高、历史最大回撤深、仅跌20%不足以回到低估"
+},
+{
+"t": "ECmiwBcUwiSOu3kRpXNcRrJZnVf",
+"n": "牛市中后期规则化操作：低估买入/正常持有/高估止盈，无需因波动调整策略"
+}
+],
+"A3 投资心理与常见误区": [
+{
+"t": "YGB6wm9dRizJroknY8Zc0EnHntD",
+"n": "为什么少看账户能增加投资幸福感"
+},
+{
+"t": "HxH1wzI6ci2mI0kkrLLcSXGInvh",
+"n": "三根大阳线改变三观、踏空焦虑等情绪陷阱"
+},
+{
+"t": "XTk0ww2UwiEHM2kacBkcBfoLnVg",
+"n": "投资中的本土效应等认知偏差"
+},
+{
+"t": "SuLdwnAyUi8u0Zkb8rIc4bUKn4f",
+"n": "方法与心态，哪个更重要"
+},
+{
+"t": "C5SwwHevpiCJPMkgrmacOKJAnwg",
+"n": "追涨杀跌与处置效应（回本就想卖、损失厌恶）"
+},
+{
+"t": "FziUwTa5si0WI2kaDf9cSWV8nqc",
+"n": "可得性偏差：媒体负面报道如何放大投资者的风险恐惧感知"
+},
+{
+"t": "UfSXwDWY2iXhU1k2ux1cmpM8nEf",
+"n": "追涨杀跌的量化代价有多大？错过几个关键交易日意味着什么？"
+},
+{
+"t": "DPUdwMohni45jnkkrCocxvP9nSh",
+"n": "基金业的冠军魔咒现象"
+},
+{
+"t": "NKpnwre7aiaZ46kSkqmcxQhHnEH",
+"n": "规则纪律代替情绪判断的代价量化（信息过载导致的行为损失）"
+},
+{
+"t": "PCHNwh360i2tjxk0wipcEl3anzd",
+"n": "损失厌恶导致的年化收益损耗（2%-3%/年，30年侵蚀近半财富）"
+},
+{
+"t": "XC0jw7jm1ijpM6k9vOmcuQC4nLd",
+"n": "消费是即时满足、投资需耐心等待,没耐心的人就会选择消费甚至借钱消费而放弃长期投资"
+},
+{
+"t": "KIDlwXo1LiR4r9krrvgc3H2Vnac",
+"n": "港股科技这轮涨幅其实不低，投资者不满的本质是波动大、拿不住，而非涨跌本身（以中小盘、行业指数及美股个人投资者占比下降为佐证）"
+},
+{
+"t": "FP45wFoBfi1HIxkTMXWcqCuDnvb",
+"n": "基金风险问卷(R1-R5)分级过于粗糙,同为R4的红利低波与创业板波动可能相差近一倍,真实风险承受力需靠投资时间拉长自我认知(未来或可用AI辅助识别),新手宜从红利等低波动品种入手"
+},
+{
+"t": "Ab2Ywbk1Ei7haAknpBicBB2knmh",
+"n": "套利类短期策略本应稳赚小钱,但人性贪婪易使投资者由套利转向追涨杀跌(以2015年分级基金套利、白银基金套利变味致连续跌停为例),对比定投/资产配置等可长期容纳资金的策略"
+},
+{
+"t": "LZGmwKvUQibfHskF3uVcaMxzngb",
+"n": "5星机会的把握、私募FOF止盈策略(调仓+分红)"
+},
+{
+"t": "CSE3wy88kieeyZkxhJFc6gJZnTg",
+"n": "追涨杀跌与频繁交易导致亏损的具体机制（加仓拉高成本案例、追涨杀跌循环）"
+},
+{
+"t": "Enocwv5WqiqGjtkFw2UczBRCnNb",
+"n": "不应该卖出的三种错误情况(不知估值卖出/追热门品种卖出/浮亏恐慌卖出)"
+},
+{
+"t": "LmnGwcNRdiaCLYkNWFtcPLSmnwe",
+"n": "用估值指标制定买卖规则并写下来，避免主观判断被情绪左右"
+},
+{
+"t": "WwNMwm5DWiIcN8kh96KcnhJMnce",
+"n": "战胜情绪三法则：不做主观贵贱判断改用数字指标、放弃精准抄底逃顶改用分批操作、提前定规则代替临场情绪决策"
+},
+{
+"t": "GOQzw7Q7eijJzEkNMYUcqUWVnXe",
+"n": "新手/大学生为何应尽早开始投资实践（哪怕金额小，实践积累经验优于等毕业后再开始）"
+},
+{
+"t": "VUCjw1FPRiGu7TkhEocc3RTQnec",
+"n": "杠杆与追涨的教训"
+},
+{
+"t": "JYuEwOrGziyZg5kBdG5cHxkmn6c",
+"n": "A系列指数（A50/A100/A500等）体系"
+},
+{
+"t": "Cn8JwSccei6RAfklsjxc05csnmf",
+"n": "融资融券规模变化反映追涨上杠杆行为"
+}
+],
+"A4 抗通胀与人力资产": [
+{
+"t": "MPEdwWL1HiaTMWk9XFQcr1Exnqg",
+"n": "钱为什么越来越不值钱（通货膨胀及其衡量）"
+},
+{
+"t": "OOBbwwbfJiC13Pka6vjcWDEqnhg",
+"n": "人力资产：抗通胀小能手，赚钱与攒钱两种能力"
+},
+{
+"t": "NqoNwe9u0ihrN7kcWs4cduT4nMh",
+"n": "跑赢通货膨胀的几种资产与方法"
+},
+{
+"t": "TCrcw43pmiMaG3kLimxcUoPfnwd",
+"n": "储蓄率与家庭财富规划"
+},
+{
+"t": "SrDjwb6hNimDsvkYm0fcZ7HDnZe",
+"n": "人生重大决策：高考、城市选择与婚姻如何改变人生轨迹"
+},
+{
+"t": "DF0TwJ6ABiPs2zkrnO6c2Bhdn1e",
+"n": "孩子理财教育启蒙的四个年龄阶段划分"
+},
+{
+"t": "GMCcwLUeeihzDQkbZapc0FMZnJg",
+"n": "定投的本质是人力资产定期转化为金融资产,需为下一轮熊市底部预留持续加大投入的能力(区别于分批建仓)"
+},
+{
+"t": "W3QHw4YpiigsOZkuD4zcQghxnxb",
+"n": "52周存钱法与专用银行卡定期攒钱法：从小额起步、逐周/逐月强制转存实现无痛储蓄"
+},
+{
+"t": "Eh4hwGWdBiSXwjkSubEceEB1nbd",
+"n": "增额终身寿险用于婚前资产隔离"
+},
+{
+"t": "YKE3wahHyir0b4kIkNtcKTuTnKb",
+"n": "谈恋爱是结婚前的\"模拟考\"，是大学阶段值得做好的人生大事"
+},
+{
+"t": "IkBlwjDALiK0xHkUirickkQhnYb",
+"n": "大学选专业不重要,重要是掌握学习与逻辑思考的方法论(以螺丝钉物理专业经历为例)"
+},
+{
+"t": "LKFxw43jGiekTfkvRGYcBE8onMe",
+"n": "大学专业知识遗忘但逻辑思维能力保留并迁移到投资与写作"
+},
+{
+"t": "AIiTwl3yNi8oYnkk0JWcGs1Nnqb",
+"n": "个人消费预算的方法与意义"
+},
+{
+"t": "I84Nw4IoJioDVYkDVWccW5qbnLa",
+"n": "记账习惯与其长期收益"
+},
+{
+"t": "QBgtw8i1yiNbZWkMIQsc62xpnud",
+"n": "大学是培养投资理财意识与消费习惯的关键期,理财能力终身通用且比专业知识更重要"
+},
+{
+"t": "U7m4wtOBSiZSONk8gy8cWtddnCd",
+"n": "近几年物价涨幅很小甚至曾轻微通缩，跑赢通胀门槛很低（对比房价更明显）"
+}
+],
+"A5 常见误区辨析": [
+{
+"t": "LYkPw3wezim2TzkMg36ci1Bwnih",
+"n": "AI辅助投资的应用边界与局限"
+},
+{
+"t": "I9IZwImYzimykXkWdcAcIFkNnwh",
+"n": "不必强行预测精确拐点时间，耐心等待概率性事件兑现"
+},
+{
+"t": "HWwywVA9Wi9VeGkqbwFcKvavnZf",
+"n": "消费升级陷阱与生命标签消费评估法"
+}
+],
+"B1 估值指标与方法": [
+{
+"t": "FE2ewK5Biiy9kNkfii9caFp6nzM",
+"n": "市盈率与盈利收益率（含适用条件）"
+},
+{
+"t": "FupjwvltaijRYmkRtllcBiRenOd",
+"n": "市净率与股息率"
+},
+{
+"t": "RAiawbBEuikESbkJ9O3clBiunvd",
+"n": "估值百分位怎么用"
+},
+{
+"t": "Pav5w0qGWiESHqkVTvUcPUmtnTd",
+"n": "股债性价比指标怎么用"
+},
+{
+"t": "U1pwwM7MSiH6gjkyjdqcQMbFnJO",
+"n": "波动率指标的用法"
+},
+{
+"t": "DlitwaUdHi4uSrkKiCwcoptdn8M",
+"n": "如何判断单个指数贵不贵、市场整体贵不贵"
+},
+{
+"t": "FDwZwv4HliKaSCkmZPbcOWTZn1V",
+"n": "股息率换仓判断标准（含前提条件与阈值）"
+},
+{
+"t": "VjSRwNJ8RiWYjCkIrkycjnZVnjr",
+"n": "估值的本质是什么？西瓜比价类比与低估/正常/高估三档决策"
+},
+{
+"t": "Uqe9wsaXIiSMjVkT9MzcVAzDnKb",
+"n": "市盈率的盈利波动陷阱与希勒市盈率（低市盈率陷阱、标普500危机高市盈率案例）"
+},
+{
+"t": "ORtYwTQVsiU4kAkrYevcGZGfnuA",
+"n": "同为低估品种,后续涨跌分化取决于基本面强弱(基本面强的率先上涨甚至转向高估,基本面温和的涨幅温和)"
+},
+{
+"t": "DpdNwDzvziCWAzkVCMtcmuZfnBB",
+"n": "螺丝钉估值数据来源的三阶段演变（官网→金融终端→自建估值表系统）"
+},
+{
+"t": "ZT69wrzekiqtZJkBhM7cEOGDn8b",
+"n": "红利指数估值数据为何与金融终端不同：总市值加权vs股息率加权口径差异"
+},
+{
+"t": "Tv5BwNrPEi3oWqkd5KXcgPIvnyb",
+"n": "红利股息率天花板判断与存款替代策略（存款搬家/\"存款加\"）"
+},
+{
+"t": "DRB6wVlI7ilNzDkpThtcIc92nbJ",
+"n": "社会平均估值观:买卖定价游戏得出市盈率合理区间(8~15倍)及与沪深300/红利估值对照"
+},
+{
+"t": "Hsy7wRW3RifYMKkE37kcQsS0nye",
+"n": "红利类品种估值指标的选择与使用顺序（股息率、盈利收益率为主，市净率为辅）"
+},
+{
+"t": "L36dwN9JDiIy3YkMFxucIpTMnpg",
+"n": "分红比例提升的原因与\"分红市\"特征（分红总额超融资额）"
+},
+{
+"t": "QnSqwuNqqi79pak7nu9cR5b2nJh",
+"n": "中证全指当前估值处于历史什么位置（对比2018/2022-2024底部与2015/2007峰值）"
+},
+{
+"t": "Pl9AwTVopiWKczkye43c7y0dneg",
+"n": "市盈率、市净率、盈利收益率、股息率分别适用什么场景（及螺丝钉估值数据的计算口径)"
+},
+{
+"t": "UcPhwwGJwiDNAikpVOHcGpTqnNe",
+"n": "指数收益公式(估值×盈利+分红):行业指数买入不能只看估值百分位，还要看盈利增长趋势(红利vs消费对比)"
+},
+{
+"t": "XQJAwN2UtiJuvkk2UpKcbc6xnUd",
+"n": "为什么不同数据源（总市值加权vs股息率加权）算出的红利类策略指数估值百分位不一致"
+},
+{
+"t": "Cu6PwAQXDig4S9k9iHGcTJeYnEd",
+"n": "策略指数(中证A500、红利)总市值加权估值失真的原因与自建估值系统"
+},
+{
+"t": "KHdswutiOiMXGlk98pjcMe5Un5f",
+"n": "不同资产类别如何先选定估值方法、再确定高低估阈值？"
+},
+{
+"t": "I4dUwHH8JiNUikkVGd9cKU1anMe",
+"n": "用\"买卖公司报价法\"测算市盈率合理区间(8~15倍)及其与沪深300/中证红利历史估值波动范围的对应关系"
+},
+{
+"t": "Pka1wsFp2iRUOBk37VpcJD8wnIc",
+"n": "住宅房产用租金收益率对比国债/房贷利率衡量估值合理性,及当前一线城市房产熊市已持续约8年的现状"
+},
+{
+"t": "TNc6wQmIHitdfCklC1qcRUp6njN",
+"n": "美股现在估值处于什么水平（与全球非美市场对比）"
+},
+{
+"t": "Bj7Hwyx78iTs4VkAFJTcmrizn9c",
+"n": "红利指数分红比例提高：股息率与盈利增速的此消彼长及长期收益拆解"
+},
+{
+"t": "TANYwnnSSiecoBkDIEWcbTMenJc",
+"n": "红利/策略指数为何常被平台错误标注高估(总市值加权与策略/股息率加权的计算差异)"
+},
+{
+"t": "OuBhwvVAJiw6bJkENc2cN3MGnic",
+"n": "估值时间百分位是什么意思、市盈率分位数与市净率分位数为何会出现偏差"
+},
+{
+"t": "WkVCwkulEig5IDkhFYmcLWDMnJf",
+"n": "中证红利市盈率为何出现8倍与10倍两种说法——总市值加权 vs 真实持仓的数据陷阱"
+},
+{
+"t": "OL3wwo6Ysiv7IPkgOfIcs3JJnPd",
+"n": "每日估值数据的滞后性、盘中估算方法及对止盈时机的参考意义"
+},
+{
+"t": "MJdmwwApsivqIBkrffyc7adYnpf",
+"n": "红利指数当前估值特征(市盈率偏高、市净率偏低成因)与保险机构股息率vs预定利率对比逻辑"
+},
+{
+"t": "KPxTw0qF0igm8pk7ipxcBZaHnSa",
+"n": "基金分红为何会超过股息率(打新/指数增强/未分配分红滞后释放)"
+},
+{
+"t": "CFKQwY54FiUDjikEAvxcearcncb",
+"n": "常见估值指标有哪些、普通投资者该重点关注哪几个"
+},
+{
+"t": "ObKmwvjPhiTnIOk1B12cy56MnZe",
+"n": "相对收益与绝对收益的区别、各自适用阶段及私募基金两类策略对比"
+},
+{
+"t": "JOCDw5McmiA0jkkc6OEcguMVnSd",
+"n": "红利指数股息率对比存款、国债、房地产租金收益率,凸显其现金流收益率在人民币资产中的优势地位"
+},
+{
+"t": "VRQJwANSFiufI6kBmEucr1QHntc",
+"n": "红利调仓股票市盈率低但市净率高的原因（ROE与市盈率、市净率的数值关系）"
+},
+{
+"t": "MmlKwnGk4iFFvnk0iChcBKcbnWW",
+"n": "指数基金估值测算方法(以\"公司报价游戏\"类比)、历史数据参考价值及均值回归的适用范围"
+},
+{
+"t": "DVhMwH6hgiB7ENkOeoVcxJJSnYf",
+"n": "估值的作用边界"
+},
+{
+"t": "BfiDwOsDcio6o0kaqbicwrclnbh",
+"n": "盈利收益率与股息率的数学关系（分红比例为桥接：盈利收益率×分红比例=股息率）"
+},
+{
+"t": "KjAZwN42di0FDYkRw9ocYz4tnKg",
+"n": "结构性熊市中低杠杆低估值品种（红利/消费/医药/港股）抗跌，医药基本面24年底已现拐点、消费靠高股息支撑但拐点未现，芯片存储光模块基本面强但杠杆放大波动"
+},
+{
+"t": "Plqdw35B9i2bzJkROzMcYN4lnjd",
+"n": "如何判断平台估值数据是否用总市值加权(用中证红利与A500/A50市盈率对比验证)"
+}
+],
+"B2 螺丝钉星级与牛熊信号": [
+{
+"t": "CvcTwg4Z7iuknRkfKYdccGSGnUf",
+"n": "什么是螺丝钉星级、各星级含义"
+},
+{
+"t": "IdR3wzlUXiGj0CkKX8bcoapSnhb",
+"n": "5星级为什么出现、多久出现一次、还会不会有"
+},
+{
+"t": "KFDDwwYlfiVt4ukCWQ0csFnqnNb",
+"n": "不同星级该如何投资（买入节奏、股债比例）"
+},
+{
+"t": "LULJw9EOxiD84XkoeI3cbheDnZN",
+"n": "只在5星级投资是否可行"
+},
+{
+"t": "RqjnwKccNi02IhkjeENcPjrBn9e",
+"n": "牛熊信号板/今天几星等工具怎么用"
+},
+{
+"t": "CUa3wXWfLiS5VQkbQVLcMFXnnzc",
+"n": "过去十多年星级历史回顾：各星级（1~5星）分别出现在哪些时间段"
+},
+{
+"t": "G4Dhw45Qgip93FkK3T2cPj4Jnhc",
+"n": "牛熊信号板汇总定量定性指标反映市场估值，在\"今天几星\"小程序查看"
+},
+{
+"t": "S3swwzQnKiGtzgkamD1cusuRnyb",
+"n": "星级指标主要基于宽基指数编制，与红利等策略指数关系不大（红利偏价值风格，长期能跑赢宽基但存在风格轮动）"
+},
+{
+"t": "SvFFwmBJgiYVMTkfUYjc3zcFnjf",
+"n": "三点几星低估品种能否大比例投资：定投可行但需控制金额，跌市中低估品种也会补跌"
+},
+{
+"t": "VXQWwTGujiEhjkkCq2BcaQYTngc",
+"n": "4星与3星临界区间的申购开关反复案例(2025年一季度)"
+},
+{
+"t": "WtIFw92ABiuMu0k28JYcj41wnng",
+"n": "股债房商四大资产类别的估值指标与星级体系总览"
+},
+{
+"t": "LGqSwghMhiW7eGkWkDlcQ7WGnJb",
+"n": "定性指标的作用及使用方式（申购量等辅助信号案例）"
+},
+{
+"t": "DlVtw4vFBiPjjgkYMiIcwF69n3c",
+"n": "存量资金按「100-年龄」分配股债比例,结合星级买入节奏(5星级投入最多、反弹后递减)"
+},
+{
+"t": "DB4NwGVyJitQtlkbi8wcDmqSnbE",
+"n": "5星级资产配置：按\"100-年龄\"法则确定股债比例，5星级可进一步提高股票比例至80%-90%"
+},
+{
+"t": "FxfPwlgqBigvsZkY3nBcpDSWnuf",
+"n": "私募基金追加投入的门槛、汇款方式与成交净值规则"
+},
+{
+"t": "GdkMwZVt7isJ9JktKz5c545Snme",
+"n": "红利指数当前估值判断：3点几星如何看待下跌与三大收益来源支撑长期上涨"
+},
+{
+"t": "QS7uwWrT6iT7x1kk9iCc3fjunzf",
+"n": "不同星级对应的组合切换策略（5星股票组合→月薪宝→3点几星转债券基金组合的顺序与逻辑）"
+},
+{
+"t": "EFHxwtBOJiQpbokBUW5cdBbynmf",
+"n": "不同星级对应的投资策略总体框架（5星以上投股票基金、4星以上减投转稳健、3星以上暂停并止盈转稳健、等待下次下跌）"
+},
+{
+"t": "YdipwoVJdil4L2kesv3cPIb6nPb",
+"n": "4.0星附近如何配置：小额资金定投股票基金，较多资金配置稳健策略(月薪宝固收+/全天候)，等回到5点几星再提高股票配置比例"
+},
+{
+"t": "UwVmwUhkUiMV7tkso1KcsNfqn9f",
+"n": "不同星级买入股票基金的历史平均年化收益与最大回撤规律（2012-2023回测）"
+},
+{
+"t": "EUUswjyL9i8yjykHMSZcLXsnnzx",
+"n": "星级的适用范围及与中证全指的最强相关性（含全指编制规则、投资工具发展史）"
+},
+{
+"t": "UU9mwyQUYiblPYkGodecq7HSnRh",
+"n": "不同星级对应的历史牛市顶部位置与最大回撤风险（2007/2015/2017/2021案例对比）"
+},
+{
+"t": "AyZowilepirfJBkCeL1cMqponIa",
+"n": "星级指标覆盖范围（大类资产）与未来细分至一类库指数的规划"
+},
+{
+"t": "FC1dwv6IciW8NVkUoJCcSQ7gnub",
+"n": "黄金基金/单个指数何时做星级及未来星级买卖策略规划"
+},
+{
+"t": "SQumwLbhYiilR3kwj3rcjUk3nUb",
+"n": "3点几星暂停申购后何时重新打开（需回升至4~5星）及单日申购破百亿等牛市中后期信号不代表尾声将至"
+},
+{
+"t": "A3nXwG94DiT6KokY2fdcFzi8nSb",
+"n": "星级指标怎么用（各星级投资操作)及未来发展方向(覆盖大类资产+细分指数星级规划)"
+},
+{
+"t": "Odb6w8yaFi96xokwUkdcYEbDnGh",
+"n": "星级水平与低估品种数量的对应关系"
+},
+{
+"t": "E356wXLDTi77IGkCHnucv85Vngt",
+"n": "当前市场已涨至4.1星附近,今年为何难再现5点几星机会(绿化率对比前两年下降)"
+},
+{
+"t": "Pw0SwpPvXiOZtDkV65qcJvHbnfP",
+"n": "螺丝钉星级对应点位为何逐轮抬升及更新频率跟随财报周期"
+},
+{
+"t": "ZSriwy2GoicQjRkOGuLc6DFlndg",
+"n": "牛市顶点无法预测，不要预设必须涨到某星级才操作，应按低估买入高估卖出、盈利增长终将推动上涨的规律行事"
+},
+{
+"t": "WSRlwqCiYiafVhk7dn3cPJxand9",
+"n": "牛市中后期三点几星定投与5点几星集中加仓时机——以主动优选/指数增强规模升降为例"
+},
+{
+"t": "ADqFwCrmcimUwekDlolcvDX6nCd",
+"n": "不同星级该如何投资（定投还是一次性大比例投入低估品种）"
+},
+{
+"t": "IVC8wKs37i39vdklkj0cisXBnhf",
+"n": "星级涨跌的驱动因素（资金面+基本面）与历史一两星大牛市的出现条件"
+},
+{
+"t": "Y3FrwPkGYit34bk7bzGcXruSnQf",
+"n": "根据星级自动调整的资产配置设想:从稳健策略到股票类资产再到止盈回流的星级联动策略(可定制专户)"
+},
+{
+"t": "GqOtwWKDbilrpVkjot3cIxjlnsb",
+"n": "细分行业星级评估的推进顺序（先易后难）与保守型投资者按星级分批加仓策略"
+},
+{
+"t": "TzC5wT6buiuZxokqVtwckOrAnBe",
+"n": "螺丝钉星级指标是什么、如何使用（不同星级对应的估值区间与牛熊阶段特征）"
+},
+{
+"t": "VN2tw4rEgixJo7kb0oicLF0wnae",
+"n": "星级指标为什么用中证全指作为参考指数？（星级计算中也包含部分港股成分）"
+},
+{
+"t": "KSvWwQFpZimqfGkzL8mck0CtnSh",
+"n": "五星级与四星级投资方法对比（100-年龄仓位比例、定投金额降幅、风格分散布局）"
+},
+{
+"t": "MLUDwLfNwiITsXklltAckUq2nvd",
+"n": "星级指标从资产大类向策略指数细分品类(红利类、A系列)扩展的规划"
+},
+{
+"t": "Fyv4wbgVNiCsfikV4VWcJ6pLnwf",
+"n": "星级指标反映市场整体估值水平，但因风格轮动每轮牛熊领涨品种不同，同样星级对应的具体低估/高估品种也不同，需结合单个指数估值表判断"
+},
+{
+"t": "USopwiSe0i3S8ZkG4CSc4f3dnrc",
+"n": "等5星级再投资是否可行——星级出现的不可预测性与逆势加仓的执行难度"
+},
+{
+"t": "SwtKwW9dviY56lk5LC3c1THfnIc",
+"n": "5星/4.5星级历史持续时长规律及按星级递减的买入节奏(5星最多、4.5星减少、4星更减)"
+},
+{
+"t": "BmyKwAHq0i4B5qkeTzhcyxjNnqe",
+"n": "历次5星级出现的历史规律(时间占比、点位抬升)及不同星级买入后24个月收益回测"
+},
+{
+"t": "FpG8w9rJJiUkJUkXX4Ucfknqnab",
+"n": "不同星级买入并持有1年的盈利概率与平均收益率回测（2003-2021，5星到1星逐级对比）"
+},
+{
+"t": "G0Niw0HfaiD5a1kRB1gc7GsunCb",
+"n": "螺丝钉星级定义(1~5星综合估值指标)及各星级下股票基金FOF/债券基金FOF的配置比例调整策略"
+},
+{
+"t": "Bzqkwwlo3itxO0kKxIIcebJsnEe",
+"n": "全球股票市场星级走势与当前估值水平（2018/2020/2022低估阶段对比、2025年4月4.1-4.2星到2026年7月2.9星的回升轨迹）"
+},
+{
+"t": "Sk7dwadHzi50TBkqhYmcYOKRnEc",
+"n": "全球股票市场星级历史走势与当前估值水平"
+},
+{
+"t": "CB6fwGJHWizw6zkOwbRccOs4nbh",
+"n": "估值表图例与投资星级定义说明"
+},
+{
+"t": "GkZOwIs0hi8XFkkFS4gcuYuXnyy",
+"n": "红利类品种与全指/宽基相关性趋势变化（今年2-3月后减弱）"
+},
+{
+"t": "CC5mwpM79itpNOkXCrIcYvkZngf",
+"n": "红利指数星级历史走势与历史低估阶段分析（12-14年、18年最低及23-24年因风格轮动未现极端低估）"
+}
+],
+"B3 牛熊市与市场周期": [
+{
+"t": "W6XCwJjCqiehs4k8iBAcqlzmnqZ",
+"n": "为什么会有牛市和熊市（基本面+资金面）"
+},
+{
+"t": "SqtAwLf6Yi6lXjkFKlIcfTpnnbe",
+"n": "如何判断熊市底部、底部信号"
+},
+{
+"t": "RA0Uwt3H7iiZrJkPhIfcp9rOnit",
+"n": "A股牛市的特征、结构性牛市是常态"
+},
+{
+"t": "Q0EEwaUrmiEGBPkzasecqd4An9c",
+"n": "熊市有多长、历史上的几轮牛熊市复盘"
+},
+{
+"t": "RFmewZKkFiBjW3kWWBfcEoQkngl",
+"n": "A股与美股牛熊市的区别"
+},
+{
+"t": "ASQLwZMSpiGP9JkSGmUcK1vQnid",
+"n": "牛市里容易犯的错误与该做的事"
+},
+{
+"t": "VcKAwOorFi0TQPkxXlpc2I75nic",
+"n": "熊市底部如何坚持（心态与底气）"
+},
+{
+"t": "OY7owfkhniUZjykczVecwIEenph",
+"n": "本轮牛市与历史各轮牛市的涨幅对比及风格轮动特征"
+},
+{
+"t": "VXLvwc60CixEBGkZENsc0M68nMe",
+"n": "总结：已进入中后期需坚持跌买涨卖策略"
+},
+{
+"t": "VIlSwK8GpiKVkAkfjcWcwBJynEe",
+"n": "牛市中后期（3点几星阶段）一般持续多久"
+},
+{
+"t": "DjW5w46W2idyOKkQYk8cFurynhn",
+"n": "当前牛市所处阶段判断(未破20%回调但现中后期信号)"
+},
+{
+"t": "Q35cwCBJ4iKNgUkjlXFcncvBnMg",
+"n": "牛市后期风格能否复刻2013-2017切换至大盘价值红利——取决于基本面盈利增速"
+},
+{
+"t": "Cg3Jw8ykTim7KXk6FdGcQ6Wdnbd",
+"n": "牛市中后期信号：指数基金规模缩水与ETF净流出反映机构分批止盈"
+},
+{
+"t": "DscuwAIU1iDJnKkZ813cAREhnzc",
+"n": "本轮牛市（2024年9月起）涨幅超过上一轮了吗？目前处于牛市哪个阶段？"
+},
+{
+"t": "Ci4Xw72bkiBk9ekH43RcJYtHnHb",
+"n": "A股牛熊周而复始的原理(估值×盈利公式)及资金面/基本面/情绪面三大成因"
+},
+{
+"t": "N7k5wUlNNiPHq9kGyixcIgHYnxe",
+"n": "换手率驱动风格轮动加速的原理与频率"
+},
+{
+"t": "XCVGwY1UEiIpNcka4hkcF0xgnTf",
+"n": "2015年股灾停盘机制、千股停盘现象与三波下跌复盘"
+},
+{
+"t": "PTWXwNAnLiVrPdkSsZ8cdqXengd",
+"n": "明年三大关键信号（美联储降息节奏/盈利同比增速/估值）及降息加息周期3-5年一轮"
+},
+{
+"t": "RIpUwuO5Iipx6LkGKKpc3zcwn9b",
+"n": "红利表现低迷的原因(成长风格吸收资金)"
+},
+{
+"t": "VJlBwOLsFiX9QfkOeUGcLEFPnBd",
+"n": "本轮牛市是否结束的判断标准与上涨归因（估值提升40%+盈利增长10%）"
+},
+{
+"t": "LQ6jwALs5ivVVVkQH23cMCOHnLf",
+"n": "牛市中后期的定量信号:单日申购规模、两融余额、交易拥挤度创新高"
+},
+{
+"t": "WHc3wfyqIi1CXokZsZLcM8Vdncg",
+"n": "指数创新高但个股普遍未创新高——指数与个股涨跌分化现象"
+},
+{
+"t": "Za8ywmPwiixYAokddCQcqLgfnXe",
+"n": "牛市上涨过程中出现波动回撤是正常现象(本轮回撤次数与幅度统计)"
+},
+{
+"t": "NfWAwlIqUiESk4kQdRac1Bkvnhg",
+"n": "三梯队品种分类法：景气/温和复苏/低迷(按盈利增速划分品种周期阶段)"
+},
+{
+"t": "UKh9wpuDtiWhCKkMbeIcdwCSnOS",
+"n": "利率周期与基本面强弱叠加驱动牛熊市，下一次五点几星熊市的触发条件"
+},
+{
+"t": "ZPS1wXZzJiL18skpmuXcZR0Lnve",
+"n": "分析牛熊涨跌的三个维度：估值、资金面、基本面"
+},
+{
+"t": "XSgYwWjZViGWVxkKqtmcjUdUndb",
+"n": "牛市中后期风格轮动加速的机制（资金虹吸效应）"
+},
+{
+"t": "KgNMw0cl2iXoWok6Nf0cmcbDnKw",
+"n": "不同轮次牛市领涨品种不同(本轮中小盘/科创,上轮消费)"
+},
+{
+"t": "GbTWwfhfKiR2i5kuF2dcgjQdngh",
+"n": "中证500到高估的时点判断与指数增强止盈操作（参考中证800市盈率）"
+},
+{
+"t": "IsU6woZ6siiQYckVdTEcpfeGnIf",
+"n": "美联储政策与上市公司盈利变化均为渐进式，给投资者留出观察时间窗口"
+},
+{
+"t": "X8RSwSo9siwDG1kTddscD6Yxnwf",
+"n": "本轮牛市各阶段星级演变与螺丝钉申购/止盈操作节奏"
+},
+{
+"t": "RfHYwIwGvi3eBLkK4Gccqgf9nfU",
+"n": "房地产退潮与新旧动能切换下的盈利增长展望（25-26年）"
+},
+{
+"t": "RjiOw47XBiQslkkV9yJcx8Jgntf",
+"n": "全球资产波动复盘（股票/黄金/白银同涨同跌案例）"
+},
+{
+"t": "VBURw4YS2iFEZYkARgmcPT9hnRf",
+"n": "换手率天花板决定牛市疯狂能否持续（结合外部条件降息/基本面判断能维持多久）"
+},
+{
+"t": "SfWewEJ74iR6HRkeUyjcNniSnzg",
+"n": "2008年4万亿计划刺激股市房地产联动"
+},
+{
+"t": "EvuwwPPxKi5JiTkSBjMcjL5qnId",
+"n": "这一轮成长风格牛市与2014-2017年剧本对比：三波轮动（证券→小盘成长/科创板→价值红利）及科创板当前高估状态"
+},
+{
+"t": "U6spwzgbMieYAKkgo0YcbWPjn8c",
+"n": "过去十多年出现的低估买入阶段与牛市上涨阶段全景（三次5星买点+历次结构性牛市)"
+},
+{
+"t": "I27RwYsZaiF8M1kUwRecio3Wnuh",
+"n": "熊市底部比牛市顶部更坚实，是十年维度指数点位持续抬高的底层逻辑"
+},
+{
+"t": "VszqwwwrOiju3Wk79tocPaAbn3g",
+"n": "投资跟随估值周期做操作:低估买入(4-5星)→正常持有→高估止盈,牛熊市周而复始(以22年至今为例)"
+},
+{
+"t": "QxhSwNYMTirUO3krWVacDBnJnDb",
+"n": "牛市中后期的信号有哪些（政策刺激退出、基本面复苏、单日百亿申购、国家队ETF止盈）"
+},
+{
+"t": "LURlwxcjRiuIWtkk7jMcD1MXnvg",
+"n": "指数基金从6万亿缩至5万亿与国家队的分批止盈"
+},
+{
+"t": "VKtFw5To8iOgHQkTgWicE8NPnhc",
+"n": "如何判断A股当前处于基本面复苏+流动性充裕阶段（对应止盈/风格轮动机会）"
+},
+{
+"t": "Y5ALwJoHZitCc1kBfGic4QplnNc",
+"n": "2024年9月A股港股大涨的两大动力（美联储降息信号+国家队/机构救市政策）"
+},
+{
+"t": "T112wvnPqis4sxkF5uuc0WM2nVc",
+"n": "本轮牛市持续的两大驱动:美联储降息周期(全球流动性充裕)与国内经济复苏"
+},
+{
+"t": "VrIGwhRusiV2tSkZ4Quce71knu1",
+"n": "历史上牛市与牛市间隔时间不固定,无法预测下一轮牛市何时到来"
+},
+{
+"t": "COBFwXKQYipUcJkJsLkcOvzWnIe",
+"n": "本轮牛市不同品种三层梯队表现对比"
+},
+{
+"t": "BIW4wS4yviSnpckJXr1c4FnCnMb",
+"n": "牛市中后期巨无霸IPO为何是顶部信号？新股收益为何跑输指数？"
+},
+{
+"t": "KPLCwM1fHifrFPk0HFfcfcYCnwc",
+"n": "本轮牛市是否会像2013-2017年一样出现红利价值+地产消费的\"第三波\"行情？"
+},
+{
+"t": "MJl0wZeFoifFW9khWo0cTGZmnNf",
+"n": "盈利增速对应的周期阶段分类标准（低迷/复苏/景气）"
+},
+{
+"t": "LlHMwBNOiiM1ILkFQ3Kccf0anDd",
+"n": "A股从普涨型演变为结构性牛市的历史原因(股票数量与市值增长)"
+}
+],
+"B4 利率·宏观·汇率": [
+{
+"t": "GKJgwHUWoiy4q3k6Y4ncmRgdnYb",
+"n": "利率如何影响不同资产（债券、红利、股票）"
+},
+{
+"t": "UuxOwslGHiQprFkDzTCcexvkndf",
+"n": "降息加息对我们投资的影响"
+},
+{
+"t": "AOk3wpAQeiHxEzkKh46cCcWxnqt",
+"n": "汇率波动对投资（港股、美债）的影响"
+},
+{
+"t": "Xtzow4ZKbidvY9kL1nDcrn6hnMc",
+"n": "经济周期与经济低迷对投资的影响"
+},
+{
+"t": "DEUbwwUoWivV1ekSEkGcJT8ynSe",
+"n": "美债收益率/美元降息的影响"
+},
+{
+"t": "IiJjwGt04iWgzTkRxpgcDRThnWd",
+"n": "螺丝钉如何通过组合暂停/开放申购管理投资者行为（择时管理组合规模）"
+},
+{
+"t": "ZxQswBTiOikgQvkGMvHc6Q8Cnog",
+"n": "低利率推动\"存款搬家\"：资金如何依次流入纯债、固收+和红利资产"
+},
+{
+"t": "EXAQwIOKhiVdPikylYdcDEitnPd",
+"n": "油价暴涨难改变美联储加息节奏,利率周期平均3~5年一轮(本轮降息24年9月开启,未来两三年或进入加息准备)"
+},
+{
+"t": "HHEWwks84i00t4k2fIocUegynsb",
+"n": "科创板两轮由低估转向高估(2020-2021、当前)均发生在美元降息、市场流动性充裕阶段"
+},
+{
+"t": "AsQTw3dOdiYsCpktdvrcgAlTnah",
+"n": "居民房地产杠杆尚未消化完是人民币维持低利率的核心原因，对比日本80年代房产泡沫破裂后经历零利率、杠杆消化后利率回升的历史路径"
+},
+{
+"t": "DgXkwk8ogifIDlkQcT9cMIn9nId",
+"n": "全社会与居民资产结构对比及存款资金流向路径（22-24年纯债牛市→固收+）"
+},
+{
+"t": "QRabwCVCWixWhRkT1LrcwCawnSI",
+"n": "产业升级带来贫富分化、消费承压呈口红效应，下半年利率仍有下调空间"
+},
+{
+"t": "Nzacw47DQiCTdfk5Etrc7C0Rnuc",
+"n": "红利股息率与债券利率差值决定投资价值（2%阈值、2013年案例与两种历史低迷情形）"
+},
+{
+"t": "AqdwwaNQMiHM48kSUgNc6sQBn1r",
+"n": "全社会及居民家庭资产结构：房地产、存款、股票、债券的规模与占比变化"
+},
+{
+"t": "KxXSwYpb1iNpHukuGOlctbAXn6d",
+"n": "缩表/紧缩预期下各类资产及成长风格的传导顺序"
+},
+{
+"t": "QrbOwRmxZiqbY3kdgrgcTmL7nXe",
+"n": "这轮牛市（2024年底至今）的两大驱动:美元降息周期与A股上市公司盈利复苏"
+},
+{
+"t": "QBZuwNBh2iSxLdkV5GvcCMtenDc",
+"n": "美联储加息/降息周期具有连续性，不必猜测转向、公布后跟随即可"
+},
+{
+"t": "MJNPwtmvPigT9ikERfJcWpcgnye",
+"n": "利率与利息的区别:利率是百分比、利息是本金乘以利率算出的具体金额(如1万元×3%=300元利息)"
+},
+{
+"t": "RJ1Lwnc95iQzwekXhRecx58fnBX",
+"n": "内债（地方债）偏高、化债压力大是利率长期下行的重要原因"
+},
+{
+"t": "BZ4lwuQEyiczX9kLnKac7lshn4g",
+"n": "美元流动性收紧预期如何影响黄金/虚拟货币/小盘股等美元敏感资产"
+},
+{
+"t": "SraUwa7iQijQ7fkgD2acurAanIb",
+"n": "降息周期→美元贬值→人民币汇率升值,是近期A股、港股上涨的重要宏观驱动因素"
+},
+{
+"t": "Zt6CwKMdDi7wjQkkpDIc7NI7nuY",
+"n": "存款利率下行下的稳健「存款+」策略选择"
+},
+{
+"t": "Ou7gw2DITiF0ySkgEUtcseOYnCh",
+"n": "油价上涨如何通过通胀预期影响美联储降息节奏，进而波动全球股市"
+},
+{
+"t": "ZP6dwf2vMiJOTUkOs4PclUAKnti",
+"n": "美联储缩表对流动性敏感资产（黄金/虚拟货币/小盘成长）的影响"
+},
+{
+"t": "M0rBw4yVxiFSVbk12bkcU6XgnTL",
+"n": "红利基金的劣势:利率上行削弱吸引力、且风格弹性小易跑输成长牛市"
+},
+{
+"t": "MUF5wNXEbiGrfBkFmQYcvnULnec",
+"n": "十年期国债收益率与长期通胀率同为2~3的\"巧合\"关系"
+},
+{
+"t": "SvV7wU0hwi4gVIk6cOTcCnV2nCg",
+"n": "美元债务的解决方式（降息借新还旧致贬值）及加息/降息周期与低估买入高估止盈机会的对应关系"
+},
+{
+"t": "We7tw0AfWiRT36kY3wPc2ZSOnsg",
+"n": "红利指数规模增长的历史趋势与驱动因素"
+},
+{
+"t": "ADhewM5gKizFmWk5Xf7cekXUntf",
+"n": "机构为何配置红利：现金流比较与股息率-国债利率利差判断法（含中美对比）"
+},
+{
+"t": "QeCYwTqnEiBcTvkInL4cAGRnnWf",
+"n": "黄金与美元流动性的跷跷板关系（黄金大幅回调作为流动性收紧先行信号）"
+},
+{
+"t": "Fnk5woVhYiKgTckSDzBcNOe3nrh",
+"n": "利率汇率周期为何比股票牛熊周期短——流动性宽松终会结束"
+},
+{
+"t": "BlxXwmWRZiklYBkt44Vc7neinfb",
+"n": "外汇市场为何是全球规模最大的金融市场？（股票、债券、外汇市场规模对比）"
+},
+{
+"t": "RGbNwBG3biMWqxkjqZ9c6FErnKe",
+"n": "为什么存款利率会陆续下调（大中小银行梯次调降+LPR联动逻辑）"
+},
+{
+"t": "JbpkwJmqFia3jykIZ9Yc83KDnhr",
+"n": "保险产品预定利率下调的历史沿革与影响"
+},
+{
+"t": "Mq89wcAtMiWFqNkwnIccWdj3nZd",
+"n": "保险预定利率下调的影响与逻辑"
+},
+{
+"t": "TzgowHCzOi1xchk5beKcwS6JnTb",
+"n": "利率持续下行导致大额存单转让套利、可转债打新、LOF基金套利等无风险/低风险套利机会逐渐消失的原因与机制"
+},
+{
+"t": "ACCYwulmAi2xy1kQUIGccLkCnih",
+"n": "人口红利转型：从数量红利转向工程师红利，资源国/制造业国/消费国分工与中国产业升级路径"
+},
+{
+"t": "QnZvw2qf7iQk0gkaKMEc7bnTnph",
+"n": "美联储换届与缩表政策对流动性的影响"
+},
+{
+"t": "HnB1wnIrWixDo7kI05pcwTvXnwd",
+"n": "美元降息周期中，为何非美元市场（A股、港股、日韩、欧洲）涨幅普遍超过美股？"
+},
+{
+"t": "CVPbwkL58iTj6kkcDxRcyhP4nWf",
+"n": "美联储降息节奏放缓时，前期涨幅较大的小盘股/小国家资产为何波动加剧"
+},
+{
+"t": "Yq6cwLvBOihYE4kijWMcgKmwnTb",
+"n": "小微盘股（中证2000/北证50）对美元流动性收紧的敏感反应及回撤幅度"
+},
+{
+"t": "ADfcwPG4KiPb6ckQYstcYbi5nrb",
+"n": "美联储降息节奏拉长如何为投资者创造多次低估买入机会（对比2020年快速降息后牛市速涨速结束）"
+},
+{
+"t": "N15owt6UgidJslk96xycmxRjnIM",
+"n": "关税/石油危机/美联储换届等短期事件引发降息周期存续担忧及市场波动，加息/降息周期一旦确立通常会延续"
+},
+{
+"t": "ZRgFwWew1iANJFkpFEecKn5cnvv",
+"n": "待人工"
+},
+{
+"t": "KaYDwDamaiW9cIkAuyDcppWvnUf",
+"n": "美联储加息/降息周期与A股港股牛熊市的历史对应规律"
+},
+{
+"t": "G9A9wUCO2ivCJJk9FvlcEDDznbe",
+"n": "降息周期驱动小盘成长风格狂欢，加息周期需警惕大幅回撤（以科创板为例）"
+},
+{
+"t": "T6lVwzEI9i7HMNkIfCrcyRPJnmd",
+"n": "美国通胀走高致美联储暂停降息、加息预期升温，中美利差扩大令人民币汇率承压"
+},
+{
+"t": "TBNowiQcQizPRzkykE4c94Oungg",
+"n": "美元利率周期长度规律与2026-2027年降息预期对非美资产（含港股）的影响"
+},
+{
+"t": "NEFKwh09GiJbyXkETWmc2gmvnEd",
+"n": "降息周期下小资产（小金属/小国家/小盘股）暴涨的风险与投资应对（不追高，等下一轮低估机会）"
+},
+{
+"t": "CO3YwaGrRi2Apwk2dmXchB94nbc",
+"n": "低利率时代的成因：经济新常态、房地产降温与政府债务高企"
+}
+],
+"B5 政策与制度": [
+{
+"t": "K7Oyw39JQiGHzNkIBvTcbSz9njh",
+"n": "注册制、全面注册制的影响"
+},
+{
+"t": "YbAXws2NxizBopkZ601cO6mon5h",
+"n": "新国九条、退市新规的影响"
+},
+{
+"t": "UfQMwCFaWiOZTTkbZc6c1g9OndE",
+"n": "印花税、减持等政策的影响"
+},
+{
+"t": "WQAXwZK9Cic8RFkEjktcOSNNnLb",
+"n": "鼓励分红政策对红利品种的影响"
+},
+{
+"t": "FHMAwpx84it1UokGnMEcu7QZnTd",
+"n": "A股分红激励政策与分红金额、分红比例、分红市特征"
+},
+{
+"t": "I8KGwlvJLiFGaJkotMdc7kPxnbb",
+"n": "公募基金业绩比较基准一类库二类库制度的建立及其对指数选择的参考意义"
+},
+{
+"t": "WeJRwE5qHiXv6BkjDaNcSa2Sn0b",
+"n": "全面注册制对股票基金/FOF策略是利好(中小盘股供给增加,超额收益空间变大)"
+},
+{
+"t": "Sghvw7lXbivAVOk0Tw3cmiJZn2d",
+"n": "保险公司下调指数风险因子的含义及具体品种调整（沪深300/红利低波100/科创综指）"
+},
+{
+"t": "HHh6wodYgitjjIkT42Ac5Lrqnnf",
+"n": "2024年9月存量房贷利率下调至LPR-30BP、一线城市限购放松政策细则解读"
+}
+],
+"B6 热点事件解读": [
+{
+"t": "Gl1iwVunHirw37kZpb9c1aGAned",
+"n": "中东地区冲突对油价的短期扰动机制（供需自我调节使涨跌难持续）及对组合与上市公司经营基本无长期影响的评估"
+},
+{
+"t": "WF3Zw4kB8iCUdokDItycMqYqnze",
+"n": "中东地区冲突推升原油创历史最大单周涨幅、全球股市大幅波动行情复盘"
+},
+{
+"t": "UcoIwUsZYiwF4Eky68CcMa26n7g",
+"n": "关税政策引发全球市场波动，不同风格品种受影响程度不同"
+},
+{
+"t": "RedRwIw3RiUJcpkhB0Zce8iRnsh",
+"n": "市场成熟度与波动率下降的关系"
+},
+{
+"t": "LTStw0Vu5irnpwkEeNxcTYGknZd",
+"n": "成长与价值风格轮动的原因及应对方式"
+}
+],
+"B7 市场结构与投资者行为": [
+{
+"t": "FttkwWNYDiG7L2kT7qsc42O9nSb",
+"n": "单日波动幅度分级标准(3%/5%/9%)及有经验投资者偏好高波动的原因"
+},
+{
+"t": "TzYVwCLGFiLxPykd63wcXGdXn4d",
+"n": "判断A股真实表现应看中证全指/万得全A而非上证指数（结构性牛市下宽基与个股表现背离）"
+},
+{
+"t": "SDwcwNJQAilCNRkAX2XcPoQ3nnc",
+"n": "A股投资者结构：散户为啥难赚钱"
+},
+{
+"t": "Z1VnwIu2xinZsRkuDuTcjLiOnWf",
+"n": "资金面、外资动向对市场的影响"
+},
+{
+"t": "VJstwsfhFiuIjGk3ISNcBOhon9d",
+"n": "场内基金折溢价的成因与判断"
+},
+{
+"t": "UoESwnXZWiCqNekMeIxcr44Sn7d",
+"n": "市场成熟度与波动率下降的关系"
+},
+{
+"t": "YPThwPvhKi99MukC2iNc3LN0nUg",
+"n": "散户个股换手率普遍超1000%，年持股仅一个多月，不足以扛过回调或熊市，故不宜频繁交易"
+},
+{
+"t": "SpZcwXxBgixzn5kxwjRcPZernOh",
+"n": "牛市临近高估阶段，投资者不仅不谨慎反而更狂热追涨、加杠杆入场（开户数与涨幅正相关、融资额创新高是危险信号）"
+},
+{
+"t": "Z7ORwAGAUizOwqk0FV5cJlXynHd",
+"n": "自媒体与算法放大热点效应,导致风格轮动速度比以往更快、A股成交额飙升至3-4万亿"
+},
+{
+"t": "J9ifwi2Xbi22vmkv1rZcQBr6n9b",
+"n": "国家队\"雪中送炭\"式逆向买卖指数基金(五星附近买入、三星附近止盈),与牛市中后期追涨资金涌入领涨板块(如白酒、2015小盘)引发市场波动的资金来源机制"
+},
+{
+"t": "D5YiwgJ0Oi8LDTk6fZxccXZlnNg",
+"n": "股票市场长期收益来自少数优质公司(全球普遍现象)"
+},
+{
+"t": "CoLOw3HvriPsArkVoigcsNDnnWf",
+"n": "澄清\"国家队卖出=散户接盘\"的误解(投资自愿论)与国家队股票资产的长期持有结构(仅卖出约一成多ETF仓位,国有六大行等长期不动)"
+},
+{
+"t": "W1uEwnPI1ihH7YkS0bVcZMu6ntb",
+"n": "风格分化下的应对：不追涨杀跌，理解国家队/机构分批止盈的合理性"
+},
+{
+"t": "I3bbwj1OCi3obWk8jLzcRq19nec",
+"n": "换手率过高导致交易费用侵蚀收益，使散户跑输持仓总和等于指数的理论收益"
+},
+{
+"t": "CRNTwr7WjifdNYkkxuxcmzSrnz9",
+"n": "风格分化现象"
+},
+{
+"t": "PpBvwj4mliGyzDkXct1cE7RAnqN",
+"n": "牛市资金行为指标"
+},
+{
+"t": "KTtAwWmUbiKkMmkYqJvclXr5nCh",
+"n": "牛市中后期信号：星级持平前高、宽基估值80-90%分位、国家队大比例卖出ETF、两融规模近3万亿创新高"
+},
+{
+"t": "Z0SHw8LZDi14JikKbB6cZ4dLnyd",
+"n": "国家队资金\"无限子弹\"式买入力度与熊市底部极端低估概率的关系"
+},
+{
+"t": "LR75wS3RQif1rckhMk5cI5ORnth",
+"n": "熊市底部投资者恐慌情绪(担心六星七星、再也涨不起来)及螺丝钉团队每轮牛熊市持续优化产品功能(限购、阈值表、AI工具开发)"
+},
+{
+"t": "KVeGwzoBBin3N7kQBBWc3hhKnrC",
+"n": "国家队\"拖而不举\"质疑的回应：买入节奏契合价值投资逻辑，且因资金规模巨大只能选容量足够的宽基指数（300/500/1000），带动指数基金规模从不足万亿升至五万亿"
+},
+{
+"t": "O7GPw3P2KikLy2kVd09cwgCxntb",
+"n": "2024年5.9星极端低估后国家队再贷款支撑政策对熊市买入的影响"
+}
+],
+"C1 指数基金基础": [
+{
+"t": "O7niwTjq2ivew2kf7pxca8n0ny2",
+"n": "什么是指数、什么是指数基金"
+},
+{
+"t": "Oe98wGIaEic6JNkJqgccL7WEnWh",
+"n": "指数基金的六大优点"
+},
+{
+"t": "ZX2qw3pp4i5FQZkCLv9cBNFrn3d",
+"n": "指数怎么分类（宽基/策略/行业）、指数体系"
+},
+{
+"t": "F8b9wXpHXiRO3DkoBQBcPMoynte",
+"n": "场内场外、ETF与联接基金的区别"
+},
+{
+"t": "QIrpww38XiOYb6k5i85cCcRGnBc",
+"n": "指数调仓、跟踪误差是怎么回事"
+},
+{
+"t": "UjPOwPV5kiU5sZkRgYlctCqInaf",
+"n": "螺丝钉指数地图怎么用"
+},
+{
+"t": "NpjVwiAOhiSOFrk1jR5crG3gnpe",
+"n": "螺丝钉个人投资历程：从个股价值投资到指数基金的三阶段演变"
+},
+{
+"t": "FXVQwxxwJiknS6kRN6gcSCIsnIQ",
+"n": "A股指数四大类划分（宽基/策略/行业/主题）"
+},
+{
+"t": "CR6Kw12NFiukTikTMC9caJsCnad",
+"n": "涨指数不涨个股时如何应对"
+},
+{
+"t": "CdMSwjFOUiJ3IikCU3Qc8TZVntg",
+"n": "指数基金规模与品种数量为何近几年增长这么快(从万亿到5.5万亿、中证A500等新品种)"
+},
+{
+"t": "F4m6werKMi7kDEkQRABcdqQWn3d",
+"n": "主动投资与被动指数投资两种思路的对比及全球指数化演变"
+},
+{
+"t": "ShBIwr4ULiMeKukLMtkconPGnEe",
+"n": "个股可能破产退市而指数长期存在,这是钉大从个股价值投资转向指数基金定投的核心原因(解决了下跌时敢不敢越跌越买的后顾之忧)"
+},
+{
+"t": "CAtEwSoSmifEblkTp2ucEoLgnHg",
+"n": "追踪同一指数的不同基金公司产品差异很小,呈现\"龙头效应\"集中现象,未来基金公司/指数基金将随券商合并潮走向合并"
+},
+{
+"t": "Y1g0wz0RJimsVnkHjkRc2YK2n4e",
+"n": "场内基金（ETF）分红只能选现金分红,没有分红再投入选项"
+},
+{
+"t": "EDeAwx4xEiBUDjkYrNKc0Bxinqh",
+"n": "指数基金调仓由基金经理后台完成，无需投资者操作"
+},
+{
+"t": "T0nbwRILXiq526kKYt9cSBTmnYb",
+"n": "指数调仓分哪两种类型？各有什么特点？"
+},
+{
+"t": "XwgAwsIm8i2NgikEfLCcOz3unwc",
+"n": "不同指数的调仓频率规律(半年/年度/季度/月度对比)"
+},
+{
+"t": "FIiewfXfCizhPrkngWBcgNyinQg",
+"n": "A股财富集中度：1990-2022年前25家公司创造几乎全部财富，其余公司整体收益趋近于零"
+},
+{
+"t": "ZMgwwjcf1iUKWLk5OEZcqh8Hnrg",
+"n": "中证指数公司是什么？为何A股主流宽基指数背后多是中证系？"
+},
+{
+"t": "JZsDweVj2iu0Y4kzM9ncnqxnnac",
+"n": "指数基金因低成本、透明、无杠杆风险而适合普通投资者入门"
+},
+{
+"t": "SYmXwrmhvir6QpkmImfcbRlpnuf",
+"n": "指数调仓机制"
+},
+{
+"t": "TciZwfjTmiZ7DFkEaT2cLAW3nku",
+"n": "指数基金为何不担心风格漂移：规则不变持续、指数自带低买高卖、牛市中后期追涨杀跌不影响止盈逻辑"
+},
+{
+"t": "KPHLwbDNqiGODckdgwlctMvCnzP",
+"n": "先发优势与低费率优势的时间赛跑：为什么费率高的上证红利仍有很多人买（对比红利低波费率下降案例）"
+},
+{
+"t": "LKajwsCKZiDI5ok3KLkcocAzn6c",
+"n": "宽基指数调仓追涨杀跌的止盈应对策略"
+},
+{
+"t": "EkVBwfcw9i3mPIkPJAGc4zCCnch",
+"n": "指数调仓中各宽基指数追涨杀跌程度差异(A500轻微、A50几乎无)及估值提升利于高估止盈"
+},
+{
+"t": "BOvzw913iisf3DkDmltcG0M1nLf",
+"n": "美债收益来源构成与人民币投资者的汇率风险敞口"
+}
+],
+"C2 宽基指数": [
+{
+"t": "Mt8dwr4RJiMjZ2kUWt0czj1Onyd",
+"n": "中证规模指数体系（100/200/300/500/800/1000/2000）"
+},
+{
+"t": "FRbIwbb6XiO5WLkvUDFcHycjnme",
+"n": "沪深300：投资价值与定位"
+},
+{
+"t": "RBBPwhPoZimOoJkMMkTcoOZFnic",
+"n": "中证500：投资价值与定位"
+},
+{
+"t": "WsxkwleY5inYzSkgwZ1czhdQnkd",
+"n": "中证A系列（A50/A100/A500）怎么投"
+},
+{
+"t": "FTbvw9Ud6ip4Tlkm8SJcVGFonTc",
+"n": "创业板、科创板相关指数"
+},
+{
+"t": "M7PRw6F4oi1bXQkAS7jcWTeMnOc",
+"n": "北证50指数"
+},
+{
+"t": "FHh0wPip3igydzkLWxgc35uZnec",
+"n": "基本面指数、优选300等策略宽基"
+},
+{
+"t": "Te2iwuY6piXWMokkf9DcgpUpnOK",
+"n": "大盘小盘轮动、微盘股的风险"
+},
+{
+"t": "AjrkwV4YQihifgkWBt3c0SrcnMd",
+"n": "中证800全收益指数跑赢价格指数8.37% vs 6.24%,分红是宽基长期收益的重要来源"
+},
+{
+"t": "ES1dw2ufliUvvWkE7nGcMmN3nPc",
+"n": "沪深300当前估值16~17倍偏高(历史合理区间8~15倍),暂非低估买入时机,未来熊市可再关注"
+},
+{
+"t": "DEJHw2tDAilYJ8k9bfHcN1BInjg",
+"n": "中证800与A500的平替关系及规模指数体系构成"
+},
+{
+"t": "JgM1wQpuzi9a76k5IEccRSbPn8f",
+"n": "沪深300怎么投"
+},
+{
+"t": "OjGYwaRe2i3tJVkOygBcmCBnnhb",
+"n": "成长风格与红利品种的收益来源对比（盈利增长/分红占比及成长股盈利增速不均匀导致的波动）"
+},
+{
+"t": "WY8Hwf5s6iufz4kZx9WciW4xnvb",
+"n": "中证全指代码000985及覆盖全市场特点,其跟踪基金2025年才首次诞生,投资价值随星级判断"
+},
+{
+"t": "E8wswLLbciMpOBk61Qzc3bJzncc",
+"n": "中证1000本轮牛市涨幅远超上轮致今日首次进入高估、目前不宜买入应考虑止盈"
+},
+{
+"t": "DjESwV7quiB7Wqkhz79cRE00nke",
+"n": "星级最适配宽基/类宽基策略(全市场指数、300/500/800/A500、主动优选、指数增强),中证全指是标的但历史短需等4/5星规则完善;伯格全市场指数基金\"金针稻草堆\"理念——低估值买下整个稻草堆确保金针在内,故宽基/全指每轮牛市都不会缺席"
+},
+{
+"t": "SfoRwyVXdiXzfTkaqefcv2pknie",
+"n": "成长风格（科创50/港股科技等）为何暴涨暴跌？双杀双击买卖时机逻辑"
+},
+{
+"t": "Y2pwwKdFciDWMqk6bsWceSKJnuh",
+"n": "市值加权宽基指数为何规模仍最大（资金容纳量优势与国家队增持案例）"
+},
+{
+"t": "JRizwCTLciSy9wkVb1Rcl6wrnzf",
+"n": "中证1000：投资价值与定位"
+},
+{
+"t": "CYGXwuJf0iurCmkUrQ1czYyFnpc",
+"n": "不同规模宽基指数的平均市值与基金规模对比"
+},
+{
+"t": "IvajwB6B8izWA7kLCR9coHbxn8g",
+"n": "宽基指数按市值规模的具体分类"
+},
+{
+"t": "Ce3Twy9T4iTR85kvMmNcOsz4nid",
+"n": "大盘股（A50/沪深300）因国家队低买高卖有望走向慢牛；小盘股与行业主题仍是疯牛远非慢牛"
+},
+{
+"t": "VTYlwL5GcivFLjkOks4c1UP8npb",
+"n": "中证全指的构成（沪深300+500+1000+2000）及其指数基金发展历程（2025年首现基金）"
+},
+{
+"t": "Lplxw1BTqisjBjk8go7c0R5rn44",
+"n": "宽基指数收益来源一：盈利增长驱动（以中证800为例）"
+},
+{
+"t": "EUuQwCiSpiwHWAkgZbDcvCXAnff",
+"n": "中证800是什么？定义、规模与和沪深300+中证500的关系"
+},
+{
+"t": "FmqjwH4qpi0VK0knNYRcEVv3nqg",
+"n": "A500的龙头策略定位、与中证800的重合度及能否作为800的替代品种"
+},
+{
+"t": "GysYw6eKai3iDQkhHUhcvdNHnPd",
+"n": "创业板ETF纳入投顾组合试点的政策意义及创业板当前估值水平（40多倍PE，处于近十年较高位但未达2021年峰值）"
+},
+{
+"t": "BS6gwbMUAiMFYkkBgvlcgRYJn6b",
+"n": "宽基指数分红收益的长期累积作用(全收益指数与价格指数差距的时间放大效应)"
+},
+{
+"t": "K01Jw6uIUiQdnNkkFy8ciBvVnHh",
+"n": "A50当前估值状态（四季度回调后进入低估）及A系列估值排序特点"
+},
+{
+"t": "BAMqwhK75i516zkLefKcT6dnncb",
+"n": "全指估值可参考星级判断,全指指数基金2024年起才逐步出现、未来有望纳入估值表或组合"
+},
+{
+"t": "JSe8wuDOVijOv2k3xsOcCm6vnGh",
+"n": "沪深300名称由来：为何不叫中证300"
+},
+{
+"t": "P3CewF2owiyRQGkmOUjcIcBGnde",
+"n": "中证全指的构成逻辑(300+500+1000+2000覆盖90%+)与基金发车情况(2025年才出现指数基金,尚未发车)"
+},
+{
+"t": "QSQHwuq7SikOo7kdhFPc3eb1nUt",
+"n": "沪深300为何跑输300价值等策略指数——新股计入规则在牛市中后期对指数收益的拖累机制"
+},
+{
+"t": "BiR6w8xopiI7l7k2xu7cNha7nvh",
+"n": "A系列指数(A50/A100/A500)当前估值水平与品种特点分析"
+},
+{
+"t": "QHmQwqShSiyG28kwCA8cipPengc",
+"n": "中证800指数基金稀少，用沪深300加中证500按3:1配置模拟中证800效果"
+},
+{
+"t": "DExJwZ7Gui4pNUksdmmcwRI3nJf",
+"n": "中证A500成交量暴增的原因分析及A50/A100/A500当前估值状态对比"
+},
+{
+"t": "S8XEwIwaJiQLxykUcs2cLW9Fn6c",
+"n": "微盘股指数(中证2000/北证50)的配置价值与仓位比例建议"
+},
+{
+"t": "ZZbcwcHBtizT1IkGPU6caAR0nqb",
+"n": "宽基指数的收益来源拆解（估值提升+盈利增长+分红）与低估/高估买卖点判断"
+},
+{
+"t": "QQStwRqyYi3iEfkqd99cUyp0n0c",
+"n": "国家队增持压低大盘股(A50/沪深300)波动率,未来或走出红利式慢牛,其余宽基仍需高估止盈"
+},
+{
+"t": "NVA7wiRm8iXjOzklU90cKiwnnPg",
+"n": "面对\"涨指数不涨个股\"趋势加剧，如何用中证800等宽基指数定投+参考螺丝钉星级和指数估值表把握低估买入高估止盈"
+},
+{
+"t": "SenJwJhEFiqaXRk1oBDc0hBJnCe",
+"n": "中证全指的定义、与中证800的对比及配套指数基金发展现状"
+},
+{
+"t": "WYQSww3ADigHx6kRaHScBomTnyv",
+"n": "宽基指数按市值规模如何分类（沪深300/中证500/中证800/中证1000/中证2000/中证全指）"
+},
+{
+"t": "R2uTwgYvti4ZJPk7KCzcbbBlnRc",
+"n": "中证800的长期历史表现:历次牛市高点屡创新高(07→15→21→2026年5月)"
+},
+{
+"t": "QwBhwTQrCiFMqAkNMY9cnQejnCd",
+"n": "牛市中后期宽基调仓使成长股占比上升、宽基与成长风格相关性增强"
+},
+{
+"t": "P28xwXOtbiaCAVkDBLLc2oaInjd",
+"n": "中证全指历史涨跌幅与牛熊市波动规律"
+},
+{
+"t": "GNibwKpAPinyqykvNajcC6Ugnwe",
+"n": "中证全指与沪深300/中证800/A500的涨跌相关性及规模对比"
+},
+{
+"t": "UiilwGQp0iHmVskOM7Ucg92vnKg",
+"n": "中证全指与北证50待纳入估值表的现状与原因"
+},
+{
+"t": "E9QTwsBspihbT5kkYsHcOSiYnXd",
+"n": "中证全指的选股规则、行业分布特征及追涨杀跌缺陷"
+},
+{
+"t": "Z2T0wFX21iviyvkdMTYcAgqRnyb",
+"n": "中证全指：A股牛市暴涨超基本面后估值回调是正常现象，合理估值时投资价值重现"
+},
+{
+"t": "SQ8AwbegQiTJ6okSRnCcC7vnnce",
+"n": "中证全指盈利增长驱动：2020—2026Q1归母净利润同比增速"
+}
+],
+"C3 红利与策略指数": [
+{
+"t": "T5cmw1Pt7inWq1kW2NJc9LlPnyd",
+"n": "红利指数是什么、起源与演化"
+},
+{
+"t": "FQ6UwfyFWihEOSkyfpbcO6aknfh",
+"n": "红利指数的分类（单策略/多策略/类红利现金流）"
+},
+{
+"t": "MJX4whVbRigynhk3DyecYzC7n1c",
+"n": "红利低波、A股红利vs港股红利怎么选"
+},
+{
+"t": "SpCdwED8EiTMyCkV8iec3Q1XnVc",
+"n": "红利策略为什么长期有效（何时跑输跑赢）"
+},
+{
+"t": "BauewnSn2i8dqhkgQ4Jcqso1n3c",
+"n": "红利指数的四个收益来源"
+},
+{
+"t": "JGPJwj8vXiiAy5ktpA2cMvRcnsd",
+"n": "红利指数怎么估值、何时买（低估值陷阱与规则修改）"
+},
+{
+"t": "IGexwuGRii6YS6kwgYUcWKVPn5b",
+"n": "红利指数怎么止盈"
+},
+{
+"t": "HjeKwLqHFivcdSkGJ0kck30Cnfc",
+"n": "红利品种在资产配置中的作用"
+},
+{
+"t": "FibLwWQEiilO7Gkq6DqcHcgfnOh",
+"n": "港股红利的分红税与汇率注意事项"
+},
+{
+"t": "XHjZwECztiZ9dakPF1sc9HEjnyb",
+"n": "自由现金流指数"
+},
+{
+"t": "XKYYwRvrliOjOykh4fLcjhEnnDd",
+"n": "价值、质量、低波、成长等其他策略指数"
+},
+{
+"t": "N30iwurIZiwtgukTS0tcN2SZn3g",
+"n": "红利指数基金规模为何2022年后暴涨（存款利率下降驱动）"
+},
+{
+"t": "PaHQwVvOUiXAh9kydjqcbSKmnEe",
+"n": "红利类品种的最适合投资方式：低估买入持股收息"
+},
+{
+"t": "MEohwlAxCifHk2k4DIyc9R2Sn2c",
+"n": "标普红利低波、东证红利低波等不同红利低波指数怎么选（规模与相关性对比）"
+},
+{
+"t": "KQMCwZFjDiDSRikZKQwcKCAYnrf",
+"n": "新能源发展对红利指数收益影响有限"
+},
+{
+"t": "KrFdwBr74ig7lUknZ7ucHLJynid",
+"n": "红利股息率估值法：绝对值宜达4%~5%，且需比同期十年期国债收益率高出约2个百分点"
+},
+{
+"t": "LxNBw8xshi17tHkcgiNcyHBfnOg",
+"n": "红利被套在盈亏线上怎么办（拉长持有时间：分红与盈利增长跟经营时间成正比）"
+},
+{
+"t": "RbfjwrHg6i5eCsklaoGcSJFznPf",
+"n": "活动开场与讲解部分介绍"
+},
+{
+"t": "DwQxw4qOiiJk59kqcMncUK5Hnjg",
+"n": "红利长期收益源于盈利增长与股息分红(基本面),不受AI等成长资金短期流向影响(资金面归资金面)"
+},
+{
+"t": "IycwwHFWXixTXjk4JS9cQ4hEncc",
+"n": "红利指数的投资方法论：低估买入、持股收息"
+},
+{
+"t": "SHtgwUc6BimPRekSYKCcJ6iCntg",
+"n": "红利投资的核心逻辑：低估买入、持股收息（牛市滞涨、分红贡献与适合人群）"
+},
+{
+"t": "Gc4ZwDMS8iQ8hakBLktceOjxnRb",
+"n": "红利指数基金适合谁、买入要点与操作建议(股息率标准/避免频繁交易/红利低波与自由现金流搭配/定投)"
+},
+{
+"t": "R6vwww8SaiGGZPkpDiCcsWH9nRd",
+"n": "红利跑输的第二种情况：成长风格大牛市对红利的资金挤压效应"
+},
+{
+"t": "DnhKwNC4yiwNSok4AWcc2eZFnLg",
+"n": "红利指数分类演化谱系与螺丝钉红利估值表工具"
+},
+{
+"t": "TlOOwZ6diiX3g2kO6Bdceazsnhb",
+"n": "红利基金盈利来源：分红与估值提升是否等价、分红比例(40%-50%)从何而来"
+},
+{
+"t": "DS2lwFndsiY3v7k12jyceuGCnGs",
+"n": "红利投资策略口诀：低估买入，持股收息（及其波动特点)"
+},
+{
+"t": "WfSYwZMkfiYykKka4ttcSktXnOd",
+"n": "股票类资产的收益来源：估值×盈利+分红（长期看盈利增长，短期看估值变化，分红次要）"
+},
+{
+"t": "QUGKw0wXQipUspk3TWccG4fJnxc",
+"n": "红利类策略指数今年以来回撤对比：红利低波跌幅最小，龙头红利/红利质量/自由现金流波动大跌幅超10%（自由现金流达16%，受黄金白银回调拖累）"
+},
+{
+"t": "K3hwwijOtiT2D7klAnscneLvnic",
+"n": "自由现金流指数与红利指数的行业搭配互补（金融能源 vs 材料有色消费)"
+},
+{
+"t": "HLz4wzcsHie4rXkhrlHcfuixnBf",
+"n": "成长和价值风格轮动的底层机制——生命周期两端决定烧钱期与分红期差异"
+},
+{
+"t": "XCCOwbTjri0DfBkHLa7cI3tJnGg",
+"n": "红利指数最适合的投资方式是什么？(低利率环境下红利收益来源排序与\"低估买入、持股收息\"结论)"
+},
+{
+"t": "ViPlwN2Jnir5P4kqMFmcSCVZnHh",
+"n": "红利指数收益的三个来源及占比拆解（盈利增长5-6%/股息4-5%/估值调仓2%）与低估买入持股收息策略"
+},
+{
+"t": "CBv8wVTKvi3LzMkLONfcMWSan5e",
+"n": "红利指数的演化分化方向（追求分红稳定性:龙头/质量/成长）"
+},
+{
+"t": "LF3jwsJ7qikl7KkxKAycyyb5nxb",
+"n": "红利品种容易跑输大盘的原因"
+},
+{
+"t": "PuZiwjmoiiTGBPk8ioBcADZUnqd",
+"n": "红利类基金收益主要来自盈利增长+分红(类债券属性),决定其只适合低估定投长期持有,不宜因风格轮动追涨杀跌短炒"
+},
+{
+"t": "ASjewnL0Oi9b82k7Mz6cSjLwnth",
+"n": "策略指数调仓对估值的影响（价值风格调仓降估值、成长风格调仓升估值）"
+},
+{
+"t": "Z9Vpw6UD0iPW5Skmhticp0ctnve",
+"n": "红利指数调仓换手带来的收益增厚幅度"
+},
+{
+"t": "Yifrw4R0PiS7FykIw30cOutunvd",
+"n": "价值投资的原教旨定义与价值/红利指数的历史起源（格雷厄姆晚年策略、博格发明博格首创价值指数与红利指数）"
+},
+{
+"t": "ITgXwsh2OinfaWkcSbSc9LmXnMe",
+"n": "红利熊市抗跌表现与A股分红总额反超融资总额（政策鼓励分红趋势）"
+},
+{
+"t": "Rvszw3jMXirLFLk6GZyc3RScnKr",
+"n": "红利指数基金的商业模式与三大收益来源(估值提升/盈利增长/分红)"
+},
+{
+"t": "UWLfwEeQniXL2Ck3QVKcodAJnqe",
+"n": "红利指数近年出现哪些分化方向？（标准型/盈利质量型/限定选股范围型）"
+},
+{
+"t": "XCBKwYQnXiUDMGkU8pHcPUHVnpb",
+"n": "红利类工具怎么选：A股红利指数十几种但相关性强、任选1-2只熟悉的即可（首选中证红利/红利低波),港股红利与A股红利长期回报接近、走势相关性强,但因能源行业占比更高导致短期涨跌幅偏离(如油价涨跌时表现分化)"
+},
+{
+"t": "LeHcwPpk0iao0fklnBNcJff5nsd",
+"n": "红利指数为何很难到高估？——估值止盈的历史高估案例（2007、2015，沪港深红利低波18倍PE）"
+},
+{
+"t": "E2S1woYGaimjK9kUjaAc1IQvnQd",
+"n": "自由现金流指数与红利指数行业构成差异及原因（材料/有色/消费现金流特征对比）"
+},
+{
+"t": "DJPOwGIL4i8BKHksIcSc8wCBnnc",
+"n": "红利指数投资方法总结:低估买入、持股收息(八字诀)"
+},
+{
+"t": "B69Kw82lZiiww2ksNr7cNyN8n0g",
+"n": "低估买入后如何止盈：稳定分红品种长期持有拿分红，弹性成长品种分批卖出止盈"
+},
+{
+"t": "HydPwM7sSi3eN7kt45KcDM8infG",
+"n": "红利指数基金的核心投资方法：为什么要低估买入持股收息"
+},
+{
+"t": "TYpjw8nJtiTufJkxnmPc6EXznng",
+"n": "红利低波类指数（中证红利、沪港深红利低波、300红利低波）相关性强，自由现金流因不含金融股而差异较大"
+},
+{
+"t": "TqPgwp9NGivuzCkIeDuc9EKzn1b",
+"n": "红利品种为什么财务分析简单、适合新手入门（经营稳定+盈利增长贴近通胀+股息构成回报模式）"
+},
+{
+"t": "Qo9xwrSPRiaHPekrzkFckNyanGh",
+"n": "追求分红稳定性的红利指数三种演化方向（龙头/质量/成长）"
+}
+],
+"C4 行业与主题指数": [
+{
+"t": "E0yhwcb3DiIA0CkAPgTc6rrfnPh",
+"n": "行业指数为什么有优劣之分（高ROE行业）"
+},
+{
+"t": "MDmRwokMfi6b5gkRaa9coTd1nEf",
+"n": "行业指数的投资时机（盈利下滑时的低估机会）"
+},
+{
+"t": "FHkfw7PaRi2YaCkFN1Ycfp1Pnfh",
+"n": "消费行业（含白酒）的投资价值"
+},
+{
+"t": "KeSZwe152inj9vknqEHcQCZ3n8c",
+"n": "医药行业（含创新药、医疗器械、生物科技）"
+},
+{
+"t": "LzLYwjtJAiSBvokFrKycM98rnhe",
+"n": "科技类指数（信息技术、半导体、互联网、传媒）"
+},
+{
+"t": "N6a2wA3JliUBirkvhrXcNjOSnvd",
+"n": "证券、银行等金融行业"
+},
+{
+"t": "B4Qnwqtpui2pxekAm0Wc7BnTnzg",
+"n": "军工、家电、地产基建、新能源、环保等"
+},
+{
+"t": "L0ZWwj7QKi8GQbkS7qzcsYm5nlf",
+"n": "基本面周期（景气/复苏/低迷）对指数涨幅与估值的影响"
+},
+{
+"t": "Pub0wknV9ihe3Ekd5UycnumHnAe",
+"n": "能源金属行业波动特征与红利低波、现金流搭配配置的方法"
+},
+{
+"t": "IOwzwNR19ivsQekNurhcJupanVd",
+"n": "新能源/人工智能/卫星/机器人等热门品种估值动态"
+},
+{
+"t": "Uhgxw0QUvig2wAkHQrUcKreYn9N",
+"n": "新手不宜配置行业指数（比例难把控），应从宽基或策略指数（如红利）入手，波动更小"
+},
+{
+"t": "FBRYwWTWhigoEtkJUM9cuZTfnGh",
+"n": "银行/消费从成长风格转向价值风格，中概股按行业实为消费+信息技术构成而非独立行业"
+},
+{
+"t": "H6uZwVEuAixSxWkBuo2cnBWln5e",
+"n": "医药医疗行业没有连续下跌5年，近两年上涨情况及A股港股基本面对比"
+},
+{
+"t": "WlIjwqJdjirfZGkqQC8cWkPmnSf",
+"n": "三星级阶段行业低估机会减少，需等待基本面�。拐点出现行情"
+},
+{
+"t": "N8v9wNXwLi8WcykDp6JcxAGfnnd",
+"n": "基本面强弱三梯队与估值分化（科技/红利现金流/地产消费）及行业仓位控制建议"
+},
+{
+"t": "QaaQwqjNbi6U9NkpDdIcB4YJnhf",
+"n": "消费指数能否上涨取决于盈利基本面能否恢复正增长(港股恒生消费已靠盈利复苏上涨40%+,而A股食品饮料/白酒仍未走出盈利下滑，根源是2021年来房地产负债拖累居民消费能力)"
+},
+{
+"t": "UGegwZo5RiZiqhkjyAOcBhpIn8g",
+"n": "行业估值方法(生命周期阶段判断,不同阶段用不同估值指标)"
+},
+{
+"t": "NedjwyV1MiREqwkQAwmcZdRXnJd",
+"n": "本轮牛市中科技类指数(A股/港股)较5.9星级以来上涨约120%领涨、消费类指数因盈利同比下滑而涨幅靠后的对比及原因"
+},
+{
+"t": "RZ4pwDUcIibHBEkmbU9cppg3nge",
+"n": "低估行业主题品种的仓位控制与风格分散建议"
+},
+{
+"t": "MZlswMWYQiHMevkFN78cNfZanib",
+"n": "消费行业本轮跑输、估值从高位回落的原因与后续空间"
+},
+{
+"t": "IbUdwEcMfiOYTmkvZUbcieK9nxd",
+"n": "人工智能/芯片/机器人行业估值走势"
+},
+{
+"t": "L8DIwRSvviVDrJk37d3cVgm4n5c",
+"n": "化工、有色等周期行业估值已不便宜,有色因黄金上涨带动逼近历史最高80~90%分位"
+},
+{
+"t": "ZR1Tw30myiDddkkQRBKcjjXhnbb",
+"n": "行业盈利同比增速是判断低迷根因与复苏拐点的核心信号"
+},
+{
+"t": "CbHQwJtALiuKbzkkzw3cKF35nGe",
+"n": "周期性品种的双击上涨机制（低估确保便宜+基本面增长驱动上涨）"
+},
+{
+"t": "Nldww12A4i4jPKkEQd5cPBBcnRe",
+"n": "消费/白酒复苏拐点未至——三梯队复苏节奏判断（科技/红利现金流医药消费/地产消费）"
+},
+{
+"t": "BBslwY1Loi7D4Jkk4SacKdJLnYe",
+"n": "消费、医药行业当前定投现状与科技-医药-消费轮动节奏"
+},
+{
+"t": "BLL5wuBYbiQBIckf5AjcrOlBnnf",
+"n": "医药创新药生物科技基本面温和复苏对比红利涨幅，消费基本面仍下滑估值最低（2024年以来分化对比）"
+},
+{
+"t": "DNV8wvxoQiEu5Nko7CycBg5Ynwb",
+"n": "消费低迷的根源：房地产熊市通过居民杠杆传导拖累消费支出"
+},
+{
+"t": "U3ZgwOQlXiRTyOkekSecN1pMnPh",
+"n": "消费行业当前基本面所处阶段与复苏信号判断（港股消费领先复苏、A股食品饮料仍低迷）"
+},
+{
+"t": "ZZ2awybIMi5JrkkLJvCcS1cknxd",
+"n": "AI、机器人等科技类指数估值"
+},
+{
+"t": "Cj1Xw9aeIiTar5kzSBjcw8rAnSe",
+"n": "热门主题品种(AI/机器人/新能源车/芯片)从低估反弹翻倍后不便宜了，不建议现在追高，等下一轮熊市低估参与；行业主题占比建议控制在15%-20%以内"
+},
+{
+"t": "PHOrwR5rjilbR5kvHtOceZwsnBh",
+"n": "战争/地缘冲突期间油气指数的投资逻辑与红利能源品种替代方案"
+},
+{
+"t": "GPWrwEwOhi8no0kUESscXartnuK",
+"n": "港股消费(恒生消费)为何率先于A股消费走出基本面复苏(新消费公司赴港上市的结构性原因)"
+},
+{
+"t": "XTTRwTNbeiXSkbk8Ui6cs440nYb",
+"n": "消费行业基本面尚未出现复苏迹象，估值持平24年（与科技、红利/医药的三级涨幅分层对比）"
+},
+{
+"t": "AqQwwuyuFiTKeAkIHQBchzjTnGf",
+"n": "骑车上班摔成“杨过”，100多买的保险赔了150"
+},
+{
+"t": "GZpxwWsCwiQgEokV7TZcVPMnnfd",
+"n": "A股港股医药基本面复苏所处阶段对比（港股已高估回调，A股仍温和复苏）及未来盈利增速决定后续涨幅空间"
+},
+{
+"t": "Pgolw7h71iAxunkGTO9crHjun4d",
+"n": "房地产熊市拖累居民消费的传导机制(资产结构占比与低利率)及日本泡沫破裂历史经验(零利率二三十年、蜡笔小新案例)"
+},
+{
+"t": "QFIBwICauiMafEk5yZGcgBGFnJc",
+"n": "汽车零部件、封测(半导体)行业当前估值位置与止盈时机——以创业板/科创板为代理指数判断"
+},
+{
+"t": "RZW8wN0G5itXDmkMkpJcTsajnCh",
+"n": "行业指数调仓为何不如沪深300那样容易明显追涨杀跌（行业内个股相关性强、同涨同跌）"
+},
+{
+"t": "D8nhwmyeniqRgfk4R0fcg675nGh",
+"n": "军工行业估值从2023-2024年长期低估到近期反弹回到高估"
+},
+{
+"t": "D9ZGwltqciqINKkzC42coh4Anyh",
+"n": "医药行业投资价值与子行业(医疗/生物科技/创新药)收益比较"
+},
+{
+"t": "QMlqwU2kei6TdwkOQHHcPH5lnVg",
+"n": "银行股长期低估值的原因(坏账隐含预期)及估值修复可能性与红利指数中银行占比差异"
+},
+{
+"t": "V7HNwu9WnismwekKBCwcUjwfn6v",
+"n": "成长风格品种的风险分层(A系列<科创创业<行业主题)及是否将芯片/AI等主题指数纳入估值表"
+},
+{
+"t": "XwChwetJ4iohdlkt3e7czLm7nNd",
+"n": "消费白酒行业前景分析(含月薪宝相关问答)"
+},
+{
+"t": "L6sewyDt2ic46zk8c5lcwp45nz5",
+"n": "中国经济转型：从中低端制造业/房地产到中高端制造业，及工程师红利时间窗口"
+},
+{
+"t": "J5HlwNH5wivHtnkt8lncclwPn5g",
+"n": "宽基指数（中证全指等）的重仓股集中度与行业分布"
+},
+{
+"t": "Qcq1wMVWzi9XGQkcfm6c3Pv1nYg",
+"n": "A股银行股长期市净率小于1的现象及成因(资产质量不透明+房地产坏账担忧)与红利指数含银行股比例差异"
+},
+{
+"t": "OZuPw0cwuiNUVtknVmRcNZRknqh",
+"n": "中证A500指数"
+},
+{
+"t": "ZcIAwC0O0ilA95knC7CcfRQRnSd",
+"n": "盈利预期因子改善与消费企稳作为下半场基本面信号"
+}
+],
+"C5 海外与全球品种": [
+{
+"t": "KkKEwnMxBiM7ABkKLv6cJNDXnDB",
+"n": "为什么要做全球投资"
+},
+{
+"t": "RbjnwPkUNiRlWNkkeSwcnzE6nHY",
+"n": "三大指数公司与指数基金三巨头"
+},
+{
+"t": "TXt4wGLTrigyGtkWqlmcIFxwnff",
+"n": "港股指数体系（恒生、H股、港股科技、港股红利）"
+},
+{
+"t": "VV9swfl2zizmnhk5aCDcY53tnsu",
+"n": "美股指数体系（标普500、纳斯达克100、道琼斯、漂亮50）"
+},
+{
+"t": "U6TRwxUIVi0u36kavkpc5CUNnzC",
+"n": "其他市场（德法英、日本、印度、越南）"
+},
+{
+"t": "SXBPwTjY4ikUQiko9XlcQGBlnsb",
+"n": "内地投资海外的工具（QDII、港股通、互认基金）"
+},
+{
+"t": "SV8QwvD7RiqvFGkYb0YcgqOlnSd",
+"n": "全球资产配置怎么做"
+},
+{
+"t": "FXgRw0tpZieSoVk6wr7c7SHynkw",
+"n": "中概股的投资价值"
+},
+{
+"t": "ApIUwH1hsiwRn4kpNlUcuQWmnFb",
+"n": "互认基金是什么，有哪些代表性品种（汇理高股息股票、摩根亚洲5000）"
+},
+{
+"t": "JHq9wM7k3idLjwki5MEcZTNGnih",
+"n": "全天候策略：私募版本与投顾组合版本的额度限购对比"
+},
+{
+"t": "OEUFwt7iZim359kHl0Rc20lmnwb",
+"n": "美股风格分裂(成长高估红利低估)与内地投资美股红利品种的未来渠道"
+},
+{
+"t": "MnAbwt8DfiWsmzkEJMDcDcSlnKg",
+"n": "本轮牛市中概/港股科技与医药的涨幅分层及支撑逻辑（第一梯队科技医药涨80-100%+ vs 第二梯队红利现金流消费医药涨10-20%）"
+},
+{
+"t": "Tl6owdr1iiwI8tkjIUMcI23Bn6e",
+"n": "香港基金市场特点（高申购费、资产类别齐全）与红利类资产估值分析"
+},
+{
+"t": "ImpQw0ptkiAB94klWxhclmJ3nsg",
+"n": "美股指数体系(标普500、纳斯达克100、道琼斯、漂亮50)"
+},
+{
+"t": "IdZKwZEkOiYoRyklzxbcPh6qnmc",
+"n": "全天候策略私募为何常被评为R5风险级别（收益互换等衍生品导致评级与波动脱钩）"
+},
+{
+"t": "QGlGw9DTaiGFvWkKQE7cDrVhn8z",
+"n": "财报定期报告披露规律（A股与港股对比）"
+},
+{
+"t": "IqH7wbYk7ikA5AkBaYtckWhBncb",
+"n": "港股今年跑赢A股源于基本面率先好转,但新股发行节奏过多,加息周期恐面临流动性承压隐患"
+},
+{
+"t": "XNXbwGSxMiuVidkASAlc4a1Cn7g",
+"n": "外籍人士在国内的基金投资渠道与海外红利品种选择"
+},
+{
+"t": "DnV6wQT2xiJGJgk59sFcESven3G",
+"n": "港股（科技/医药/消费）与A股同类品种基本面对比及其对本轮牛市表现的影响"
+},
+{
+"t": "TwaQwAmdeibWOykCuWFc5gGInlg",
+"n": "AH股溢价指数原理与A股港股同类品种收益及汇率影响"
+},
+{
+"t": "MkdRwhNzLiD7r8kwPk6caZRNnhc",
+"n": "印度市场两年跑输全球的原因与单一国家/行业主题品种的配置比例控制"
+},
+{
+"t": "G3hewSfjwiMDPVkzLoPcq872nvh",
+"n": "港股科技/恒生科技估值现状（时点数据，星级位置）"
+},
+{
+"t": "HPCMwdKuoiW2j3khpM5chBjwnre",
+"n": "港美股投资的合规监管趋严：身份、资金来源与税务合规路径"
+},
+{
+"t": "MOWQwe6Kviquxyk9s7fclA7Xnkd",
+"n": "AH股（A+H两地上市）融资逻辑与AH优选策略、股息税差异"
+},
+{
+"t": "Xsn4we3PUilddmkUo34cCJUfnEV",
+"n": "恒生科技与港股科技的换仓时机（含限购与成分关系）"
+},
+{
+"t": "FpvowpFn2iW8yrkPmtEcLsiUnNg",
+"n": "全球指数组合当前星级与历史低估时点"
+},
+{
+"t": "U2DYwdzyzi1RLeko2VOcQUbdnFb",
+"n": "互认基金实现全球红利投资的具体产品案例（汇理高息股票基金、摩根亚洲股票高息基金）"
+},
+{
+"t": "XFj8wBlcjizsvakWaNTcwXKjnZf",
+"n": "港股近期波动为何由美联储流动性收紧驱动、AI资产为何逆势不受影响"
+},
+{
+"t": "VoQ1wg1gPitznJkCjRhcEYvWndc",
+"n": "恒生科技/港股科技类品种的阶段涨幅对比与波动率特征（定投适用性）"
+},
+{
+"t": "Oe0wwoFOGi1dhQkTIMBcdqcfnXe",
+"n": "标普红利指数体系（标普红利低波50、标普红利机会）估值与定位"
+},
+{
+"t": "SVW5wUjGWi5BEgksZG8cUDMjnJf",
+"n": "港股科技三波涨跌全览与成长风格波动应对（不适合可换低波动品种，对比科创50）"
+},
+{
+"t": "DdXEw9mdjiANTTkZcK9c0K5xnMg",
+"n": "互认基金：解决港美股受限的全球配置合规新路径"
+},
+{
+"t": "SQDawNLx5iRNbykTThfc7KN7nle",
+"n": "AI应用爆发（如Manus）为何被类比为\"移动互联网爆发时刻\"，并带动港股科技龙头股上涨？"
+},
+{
+"t": "TKJGwpuR9iHSIkktIXZc2L0Zngb",
+"n": "港股科技盈利增速放缓时指数阶段性低迷（勿将去年上半年翻倍增长当常态基准）"
+},
+{
+"t": "XXs1wg2Jvinf0DkrRNEcgP41n8g",
+"n": "公积金贷款大变革，有商贷也不影响买首套房了"
+},
+{
+"t": "P2NKwQVYtiBlmBkzZpHcP1JFnZb",
+"n": "港股与A股同类品种的波动幅度对比及今年(2025)相对表现"
+},
+{
+"t": "VdTBwxkM9iGfGSkKiiRc4pSmnpd",
+"n": "韩国市场杠杆泡沫与爆仓案例（杠杆基金挂钩个股、指数跌25%但杠杆基金跌70%、30人中1人爆仓）"
+},
+{
+"t": "MlagwFNDHiSjmZkqewvcS39Cnxc",
+"n": "全球红利市场的投资机会和美国红利估值分析"
+},
+{
+"t": "ZfpRwy1LpiG37ekr3fdc21DonQg",
+"n": "港股红利的汇率风险：内地公司人民币资产属性 vs 外资成分股汇率敞口"
+},
+{
+"t": "Q5v9w70KdiPFk2kVzmuciLi8nmb",
+"n": "中证全指/A股产品高估临时开放赎回机制:估值达偏高位置(市盈率20多倍)时开放临时赎回窗口"
+},
+{
+"t": "KsmlwTmlbiqcmBkhnYycnILznpc",
+"n": "子账户可购买多个限购品种吗（按身份证名下合并计算，无法绕过限购）"
+},
+{
+"t": "Loz3wV1KPiWP1VkluLycxV5hnPh",
+"n": "待人工"
+},
+{
+"t": "XNJSw36KsiqspBkpm8XcYqDWn2g",
+"n": "红利是否需要跨地区配置及与海外红利的联动关系"
+},
+{
+"t": "NP1uw5G3qiNkw4kb6fccksuqn4d",
+"n": "普通投资者需要配置印度、东南亚等海外市场吗？"
+}
+],
+"C6 主动基金": [
+{
+"t": "CVPBwCn7fiH3SZkFTTzca291nfc",
+"n": "什么是主动基金、与指数基金的区别"
+},
+{
+"t": "X2R7wgTrgiWX0rktbFCcGyaBnLc",
+"n": "买主动基金就是买基金经理"
+},
+{
+"t": "S9mmwIrOhicDVJkCseccZRfDn99",
+"n": "5种投资风格（深度价值/成长价值/均衡/成长/深度成长）"
+},
+{
+"t": "Xr9BwriO1igvjCkAzpxcFt5Ynhb",
+"n": "如何挑选优秀基金经理"
+},
+{
+"t": "NTypw6oY0imruWkplsDc5Y2fnSe",
+"n": "主动基金的费用与规模对收益的影响"
+},
+{
+"t": "OVlGwfZdEiw8zCkra0UcsPf1nSc",
+"n": "如何规避风格漂移"
+},
+{
+"t": "UwLEwFaImiv83okt3o9c2DB6nue",
+"n": "主动基金为什么要用组合方式投资"
+},
+{
+"t": "PfRCwVwQqiJr9kkcKptcvFf0nxY",
+"n": "主动VS指数，哪个收益更高"
+},
+{
+"t": "E2a6wFalNiSfvtkgASmcMX03nBg",
+"n": "冠军魔咒产生的原因"
+},
+{
+"t": "KcBKwk9pJiUL9GkIX6hceNy9nzg",
+"n": "主动基金经理离职风险与指数基金稳定性对比"
+},
+{
+"t": "VdFywoboCiWWCOkDGTac1TMxnib",
+"n": "价值风格与成长风格各自的代表品种有哪些？（含指数、行业、板块层面）"
+},
+{
+"t": "UW0awynyBikhJxkRuSAclIKknTe",
+"n": "主动优选与指数增强近年阶段性强弱切换及当前申购状态"
+},
+{
+"t": "OYbOw5lEwi7XOfkeBAic4BKAnvf",
+"n": "一类库二类库指数与基金经理业绩基准薪酬挂钩机制"
+},
+{
+"t": "QAaDw9dzfiZ052koneVcTcOun3b",
+"n": "基金经理激励机制与新基金发行决策权"
+},
+{
+"t": "CgALwmX0nivzQxko9iFczRZGnEc",
+"n": "成长风格与价值风格常见品种/行业分类（银行、能源转为价值；创业板科创板、龙头/质量策略指数、科技医药偏成长）"
+},
+{
+"t": "NK6ZwbSc7iTcIFk0vKwcs6mwnff",
+"n": "成长风格与价值风格的生命周期特征与风险差异"
+},
+{
+"t": "CLk0wzEmhiFjwIkTtoscrvZ8ncb",
+"n": "牛市中后期风格轮动(红利/小微盘回调与资金再分配)"
+},
+{
+"t": "Yrkiwwl4qibQ64kwi7YcbbGqnwd",
+"n": "主观多头(主动优选)的选股底层逻辑及公募/私募/FOF产品形态差异"
+},
+{
+"t": "LILEwfZm3i1Ys9kX3WhcRj42nKf",
+"n": "牛市中后期的止盈操作与波动应对"
+},
+{
+"t": "O8ulwkyCiihaydkj9MfcxBp1nee",
+"n": "公募基金新规下业绩比较基准约束对主动基金投资风格的影响"
+},
+{
+"t": "JQhHwTaa3iaihTkIAqnca9cLneb",
+"n": "股票基金FOF策略为何跑赢大盘：绩优股/微利股/亏损股ROE分类与短期跑输的原因"
+},
+{
+"t": "CbdeweJihiECNWkJG36c9Pf0nbc",
+"n": "主动基金跑输指数的原因及指数基金崛起的逻辑"
+},
+{
+"t": "RpFLweJcwiFdpkkXs4scP2OAn9f",
+"n": "基金经理离职的原因及对指数基金与主动基金影响的差异"
+},
+{
+"t": "QV3BwhdwOiWprkkHHudceZ7OnMd",
+"n": "主动基金组合为什么要分散配置不同投资风格？"
+},
+{
+"t": "KfaGwALwViFCZFkr3VQc14YenNd",
+"n": "FOF策略超额收益来源与基金经理精选贡献占比（仟上案例）"
+},
+{
+"t": "CLgjw7RojiQpydk5gCYcv60Xn3f",
+"n": "均衡风格的特点：牛市中后期为何减仓、以大比例分红代替止盈"
+},
+{
+"t": "Vl6PwxEtniFJU3kSWJJcRMFLngf",
+"n": "风格轮动的原因(资金面偏紧集中一个方向)与价值成长长期收益趋同规律"
+},
+{
+"t": "K7TAw5EzFiA68Zkhvt8cZxyEntc",
+"n": "私募基金排名可比性与冠军魔咒风险"
+},
+{
+"t": "WcXEw2wYuiKwtRkkbgyc9QYGnBf",
+"n": "成长风格（费雪式）是什么，怎样才算成长风格？"
+},
+{
+"t": "JtYIwec9jiF33xkxb2lc0ucSnUb",
+"n": "挑选老将与中生代基金经理的具体标准"
+},
+{
+"t": "VyUlwterMiUESQkhvDDcAyx3nic",
+"n": "换手率过高为什么不利于基金收益"
+},
+{
+"t": "Se5Xw3yL1iTEDCkxWstcXMm7nyc",
+"n": "私募股票基金FOF策略的五类风格基金精选、估值动态调仓与拓展收益工具方法"
+},
+{
+"t": "E8FnwurWDiK6c0kiHeHcSxPbnOd",
+"n": "风格分化的本质是估值\"橡皮筋效应\"与情绪资金正反馈循环导致的极致轮动，应对方式是保持均衡、不押注单边"
+},
+{
+"t": "P90PwNKasiUMQnkG1h4cXVt3n8c",
+"n": "风格漂移"
+},
+{
+"t": "NyFZwwwfQiXwyWka9wUc6znPnKe",
+"n": "追涨杀跌导致风格漂移的形成过程与判断标准（区分短期偏离与真实漂移）"
+},
+{
+"t": "YvRtwHnXgiph8hkbGeucP4OUncc",
+"n": "成长与价值风格的融资分红特点差异"
+},
+{
+"t": "YaXowmmziiJ7nAkpVGjcASvXnVh",
+"n": "基金经理为何必须专注单一风格（风格漂移的成因与危害）"
+},
+{
+"t": "C8qmwuf2BiHVzPkNevEcesEBn0b",
+"n": "成长与价值风格的生命周期差异及长期回报对比"
+},
+{
+"t": "AC99w4MfWiSQY6kTUFrcJeGCnyc",
+"n": "基金经理能否坚持价值投资取决于话语权：巴菲特三阶段与私募老板案例"
+},
+{
+"t": "SOgOw0KjmiU1ZAkFoyncd7aSnDg",
+"n": "基金经理专注度与投资业绩的关系（长期专注vs追逐热点对比）"
+},
+{
+"t": "VmIwwpF55i4JMZki861c5aejngc",
+"n": "股票类资产投资的两大难点问题（跑赢指数收益与买入估值择时）"
+}
+],
+"C7 指数增强基金": [
+{
+"t": "CchSw68IcibifVk8UX7cCMWYnGf",
+"n": "什么是指数增强基金、与指数基金的区别"
+},
+{
+"t": "GnmowZwTliQYcjk8t8ScGhkDncd",
+"n": "常见的增强策略有哪些（基本面增强、量化、打新、滚贴水）"
+},
+{
+"t": "NUzcwkjECisTqmkWet5ccTFyn3g",
+"n": "指数增强基金怎么挑选"
+},
+{
+"t": "EVUuwcnpxifMJ8kWS61crk0xnyg",
+"n": "指数增强一定能跑赢指数吗"
+},
+{
+"t": "LmPEwZEZkiWVmKklk9HcqY2nnMc",
+"n": "指数增强ETF"
+},
+{
+"t": "TXfDwNoRaizTaikJPlyc2KNJnXg",
+"n": "什么样的指数适合做指数增强（沪深300机构占比高难跑超额，中证500/1000/2000等中小盘指数超额更明显）"
+},
+{
+"t": "EnuywX2T0idSbjkFVw5cotZQn7f",
+"n": "红利指数增强基金分公募与私募两类，私募增强手段更丰富、资金门槛更高"
+},
+{
+"t": "M4bmw55obiymSQkoofJc5kS3nxh",
+"n": "全市场指数增强基金整体跑赢率与今年跑赢率(截至2025-11-25,317/453只自成立跑赢、299/453只今年跑赢)"
+},
+{
+"t": "VrbkwLdQlizXRwkVKoHc4McAnuf",
+"n": "指数增强产品投资三要点(中小盘增强更易/规模匹配/估值择时)"
+},
+{
+"t": "QnXIwB8IHiei06kTS4Zc2ttin6b",
+"n": "指数增强基金有哪几类，各自如何做增强？"
+},
+{
+"t": "QnEQwFqHwivb6VkIdPFcXpjNnqf",
+"n": "指数增强基金的三大收益来源"
+},
+{
+"t": "XZihwEDn2iZ3njkRki7cmbyTnnG",
+"n": "什么样的指数适合做指数增强(沪深300机构占比高难跑超额，中证500/1000/2000等中小盘指数超额更明显)"
+},
+{
+"t": "WsHXwMMn2i7NW4kDPQCcVJvAnXb",
+"n": "投资收益公式：好品种加好价格加长期持有"
+},
+{
+"t": "JzF3wsHJuiLZI6khANAcXsUKnMg",
+"n": "协议增强（收益互换）的原理与超额收益来源"
+},
+{
+"t": "WPY3wTXj2iY9NhkN5pqclCzNn6c",
+"n": "指数增强策略在不同宽基指数上的效果差异（沪深300/A50大盘增强难、超额低 vs 500/1000/2000中小盘超额明显，且新发指增基金也集中在后者）"
+}
+],
+"C8 债券与固收": [
+{
+"t": "ZyaewUUmNiuJNiksM9kcwy7gnrg",
+"n": "什么是债券基金、收益与风险特征、分类"
+},
+{
+"t": "N5ulwO5ALiSJkvko9fsc5pmTnvc",
+"n": "利率债（国债、政金债）与信用债（城投、企业债）"
+},
+{
+"t": "DzAiwioiGiV2nrkra07c64PUnfd",
+"n": "货币基金、短债、中长期纯债的区别"
+},
+{
+"t": "EOVXwTxXiiTEqRku00kchvydngh",
+"n": "一级债基、二级债基、偏债混合"
+},
+{
+"t": "KAgqwCEqRi5muckAT9nczemmnv7",
+"n": "固收+是什么、底层逻辑（股债配置+再平衡）"
+},
+{
+"t": "Iwktw7eqFioLrRksfhSchULDnzg",
+"n": "可转债基金"
+},
+{
+"t": "QwDpwlrjbit9mzk2GcTcpHm2nuc",
+"n": "美元债/中资美元债怎么投"
+},
+{
+"t": "MZfkwMnSuiAm4fkLyS6cnn2OnQh",
+"n": "同业存单指数基金"
+},
+{
+"t": "WSySwMklqiB4kXkT5qzcvgJonsb",
+"n": "债券基金的踩雷风险、利率对债基的影响"
+},
+{
+"t": "RtaawRHnoidLhEkbCjDcdbPDn2b",
+"n": "存款+是长期趋势的三种主要策略（短债/CPPI/固收+）"
+},
+{
+"t": "Z079wZ73gi4hVgk6BfAcQSIVnPA",
+"n": "三种\"存款+\"策略（短债/CPPI/固收+）的对比与选择"
+},
+{
+"t": "MgbYw8gOyi6jD3kPHNtcy6WVnnh",
+"n": "机构持仓占比对债券指数基金的影响及个人投资者如何判断风险"
+},
+{
+"t": "RNJ2wtfJOiWQUQkytP9cjuHXnBc",
+"n": "固收+策略的四种再平衡规则(定期/偏离度/估值/波动风险)如何选择"
+},
+{
+"t": "YYxBwDcMLi1oj0kpdfQcVfGRnkf",
+"n": "存款利率下行下的三种增强策略（短债收蛋逻辑、保本基金本金保障法、固收+）"
+},
+{
+"t": "SfdnwHBxui65SjkVCxVcr9vHnDe",
+"n": "股债恒定比例（\"固收+\"）指数首批纳入的股票指数有哪些、呈现什么风格特征"
+},
+{
+"t": "LtGYwEhF2id8QwkPcA0cgZ0ynnb",
+"n": "到期收益率与最大回撤作为债券估值核心指标：当下人民币债/美元债评估及汇率对净值影响"
+},
+{
+"t": "AGYSwMXJ1igDdkkwIG0clF0vnzf",
+"n": "固收+的定义与识别方法"
+},
+{
+"t": "SzWMwBQiTiwZkgkEKDccz5C2nIe",
+"n": "资产配置策略的分类与全球规模"
+},
+{
+"t": "FHeGw5v9mi1WvxksJA0ciefXnkc",
+"n": "固收+恒定比例指数产品化进展与自制方法（15%红利低波+85%货币/短债+定期再平衡）"
+},
+{
+"t": "HQmmwjgOkifW3kkOohdc0POan7i",
+"n": "短债与长债的收益判断逻辑、久期期限划分与历史最大回撤"
+},
+{
+"t": "WP6pwjT2NimWglkIAVsc7LeUncf",
+"n": "短债、CPPI保本、固收+三档策略的风险梯度对比与选择"
+},
+{
+"t": "QKSwwUBpBiJL1LkUbbPcB40xnSe",
+"n": "短债与长债基金的收益来源区别（利息 vs 利息+价格波动）"
+},
+{
+"t": "K7gBwzrZ3iyQuOk2XqGcDLSOnmd",
+"n": "存款为什么不会大规模直接进入股票市场"
+},
+{
+"t": "T8LjwrDslia70EkVoU9cGdFjnsh",
+"n": "债券基金的分类方法：期限维度与债券类型"
+},
+{
+"t": "JAXOwyOKQidIdUkB1NGcN09DnSc",
+"n": "「固收+」基金是什么、投资逻辑（债券打底+股票可转债进攻）及近年规模暴涨的原因（低利率环境下存款到期资金流向R2/R3资产)"
+},
+{
+"t": "PwCMwsLC7ijmhQkCH8Lc6XksnFf",
+"n": "固收+股票比例配置的收益风险回测（10%~90%十档年化与最大回撤）及近年规模增长驱动"
+},
+{
+"t": "THIcwlvxUij13TkU7Akc801LnSl",
+"n": "债券估值表怎么看：为什么债券高估不会像股票那样腰斩，长债现在性价比如何"
+},
+{
+"t": "VoNjwmMJSiCHJqk851hcBL36nag",
+"n": "短债与长债的收益结构对比：为什么短债波动小、长债性价比不高（10年/30年期国债回撤对比）"
+},
+{
+"t": "DYy3w85NwiA81qkQYC4cbNRAnvg",
+"n": "三种「存款+」策略(短债/CPPI/固收+)按股票占比与波动风险的对比排序"
+},
+{
+"t": "IpFJwFzEbiMtxxkzqwKcaxfJnHd",
+"n": "短债基金/短债指数基金的挑选方法（期限筛选）"
+},
+{
+"t": "CxA0wle4diUD6IkMehZclXJhn2d",
+"n": "2025年纯债基金低迷背景下固收+为何是当下更优选择"
+},
+{
+"t": "L01kwutZwiQqLPkTwSxcvjQ1nGh",
+"n": "固收+品种怎么挑选（股债比例、债券类型、久期与10年期国债收益率参考）"
+},
+{
+"t": "KXHsw9RHpisBlckDYt3cgchxnce",
+"n": "超长期特别国债的性质与利率,及与增额寿资金增值对比"
+},
+{
+"t": "Dghvw8Ukgi8LkmkriK7cqSUOnAg",
+"n": "全天候策略与固收+在牛市中后期的适用性——2024年银行推荐时机不当的复盘"
+},
+{
+"t": "ZqT7wMKvRi8pFykPXHMcrBuGn4c",
+"n": "广义「固收+」品种的分类构成(一级债基/二级债基/偏债混合/全天候策略)及短债、长债、固收+三大债券工具的选择框架"
+},
+{
+"t": "SF7VwZRzQiCSX9kqbKocZNjwnyf",
+"n": "长端利率下行推动纯债牛市但期限越长最大回撤越高,当前长期国债性价比不高"
+},
+{
+"t": "NjI9wJigwiRKDRkuz5lc4L7lnkg",
+"n": "固收+基金股票部分风格的判断方法(风格轮动对照法与持仓行业法)"
+},
+{
+"t": "FHsUwdc5ri9P0kkkr06cpfFOnmd",
+"n": "美元债基金的配置方法与汇率风险应对"
+},
+{
+"t": "EDDnwvD84iKKn6kVIfycJwFWnTd",
+"n": "利率债与信用债的区别：为什么信用债会踩雷暴雷，利率债不会"
+},
+{
+"t": "GMMEwZmnqiM8xRkAjjZcQUv2nre",
+"n": "不同资产类别的波动风险等级对比（货币基金→短债→365组合→月鑫宝→权益类的风险阶梯）"
+},
+{
+"t": "BydNwoKCRiRnSbkzeCScvlAinLc",
+"n": "365/月鑫宝等现金增强类产品与货币基金、存款的收益对比"
+},
+{
+"t": "OFz3wxCUzi8ZO8kOywmc9BHwnue",
+"n": "低利率环境成因(房贷降息传导)下的债券收益特征与短债/长债风险差异"
+}
+],
+"C9 货币与现金管理": [
+{
+"t": "UkAHw5SVXiBWhJkwWFScgZvonPf",
+"n": "国债逆回购怎么用"
+},
+{
+"t": "FIZpwpNqgiWcpBkmQXVcY5J8nnh",
+"n": "短期/应急资金的打理工具选择"
+},
+{
+"t": "D04FwPz0IidsQKkt8nWchW4YnTF",
+"n": "国债逆回购接短债基金实现假期\"一鱼两吃\"组合策略（含短债赎回费与C类选择注意点）"
+},
+{
+"t": "VEurw6KMeiW82vk2RTMc2RwRnUP",
+"n": "按资金闲置期限分层选择存钱工具：短期零花钱用货币基金，1-5年资金用国债/银行定存"
+},
+{
+"t": "WG5TwZdZai2fm0kHfxjc4dOVn5l",
+"n": "存款利率持续下降的现状与数据（国有大行1年期定存、活期利率变化）"
+},
+{
+"t": "CCTywAHq6ih5adkcvwnc4Dv5nle",
+"n": "银行协定存款/通知存款利率下调与\"特种兵式存款\"跨城套利现象"
+},
+{
+"t": "C8y1wSKwkidtEUky56DcgnILn2f",
+"n": "异地跨省存款套利是否划算：本地与外地银行存款利率差价测算（案例：40万存5年，本地3% vs 异地4%，多赚2万 vs 往返路费）"
+}
+],
+"C10 商品与另类": [
+{
+"t": "FuoYwWW6hiQWFDkEiStcqQJ2niD",
+"n": "黄金的投资价值与估值、要不要止盈"
+},
+{
+"t": "WhkWwr3sEiWzcmk3nI4cHNXjnNh",
+"n": "黄金的牛熊周期"
+},
+{
+"t": "DF1NwzuUPi7p2fkiSHica0M3nUh",
+"n": "原油等商品基金（期货追踪误差）"
+},
+{
+"t": "EmsDwWficiIRLvkEBwscKTBlnjd",
+"n": "REITs是什么、有没有投资价值"
+},
+{
+"t": "VWOrwqwBKiUKI8kBZ1bcTWMcnih",
+"n": "黄金投资品种：实物黄金与黄金基金的区别与选择"
+},
+{
+"t": "N3GuwH7RyibSFqkv0sXcxhnVnR1",
+"n": "黄金投资纪律——低估买入、高估卖出、耐心持有"
+},
+{
+"t": "UOlzwx4vMibzgckJOSscsTXtnKg",
+"n": "大宗商品涨价对股债影响与普通投资者的参与方式"
+},
+{
+"t": "DOOpwZWdZiMc6YkSIkYcPg88n7e",
+"n": "全天候策略与低波动策略的原理关联及命名对比"
+},
+{
+"t": "UAEkw3qnsi1rHskRmCDcRkdpnYR",
+"n": "黄金现状：技术性熊市判断标准与美联储政策连续性对黄金走势的影响"
+},
+{
+"t": "SegTwDizMi53AskE4YZco5uknxb",
+"n": "REITs为何是国家鼓励的政策方向？开发商为何愿意打包上市回笼资金"
+},
+{
+"t": "CMS8woC5zi2jflkaz3xcuT8vnRh",
+"n": "黄金高位浮亏时要不要卖出换仓（黄金与主动优选波动对比及资金期限判断）"
+},
+{
+"t": "JJjtw5UFMipzNgkwJM8cpMuEnui",
+"n": "黄金估值变高后风险特征变化——从避险资产变成波动更大的风险资产"
+},
+{
+"t": "NlyiwDLM3iix3Yknt85cgGiGnPg",
+"n": "实物黄金（金条/熊猫金币）与黄金基金怎么选：防伪风险与追踪误差对比"
+},
+{
+"t": "LRaLwVHv4iCKqqkFOf6c8e7oncg",
+"n": "黄金基金/实物黄金/积存金三种持有方式的费率与利弊比较"
+},
+{
+"t": "BH3Mw5x7mi2YeakdTQQcdOZvnWc",
+"n": "REITs为何是国内鼓励发展方向、国内市场发展现状如何？"
+},
+{
+"t": "GskUwSNYEioBX3kjRk0c7Htjn6f",
+"n": "500低波"
+},
+{
+"t": "Sj6MwuQ4HiN2dfk1h7UcK9bSnBg",
+"n": "房地产的牛熊周期(15-20年)与租金收益率判断底部的方法（待建）"
+},
+{
+"t": "XEIRwCCMiiOYq4kdhRqc2A5Wnsc",
+"n": "黄金估值如何判断：交易价格与开采成本比值法（附白银波动对比与房产租金收益率类比）"
+},
+{
+"t": "S73HwEh1JioEgxklME0chEWWnf2",
+"n": "用底部提升速度估算黄金/红利/债券短期回撤修复时间"
+},
+{
+"t": "EfMsw0FMZi6iQbkiP2Tc1VxXnUd",
+"n": "REITs与红利指数收益风险特征的相似性"
+},
+{
+"t": "Zuq8wEKkdiFkiokj9iBcH377nGg",
+"n": "黄金基金怎么挑选——费率0.15%标准"
+},
+{
+"t": "QNk0w9ivAiCI2NkzENacDNpln13",
+"n": "不同资产（债券/港股/黄金/小盘）的波动特征"
+},
+{
+"t": "IB2wwVACViZVwEkngiZchPG0nlf",
+"n": "黄金熊市会持续多久？为什么不用预测涨跌、也别高位追涨"
+},
+{
+"t": "Tc2fwDefniuGzYkV8Gjc36q0nmf",
+"n": "黄金开采成本如何支撑其长期价格与估值判断"
+},
+{
+"t": "YpNcwGKemi26MnkvegOcQBisn0b",
+"n": "黄金与黄金股估值关系相反(黄金贵→矿商盈利升→估值反降)，且单一行业配比上限15%-20%"
+},
+{
+"t": "EbtxwzBBIiLnRGkZbIHcRvirnJf",
+"n": "能源占比高的红利指数在能源不受关注时更值得投资"
+},
+{
+"t": "ELEwwpZxriQfprkLMX5cv1ngnng",
+"n": "有色金属（黄金/白银）大涨后估值偏高不宜追高，等下一轮低估机会再买入"
+},
+{
+"t": "ZC1RwnqZni9Bgxktw2UcwU6lnZb",
+"n": "黄金除了开采成本还有哪些估值指标？为何判断贵贱不需要纠结精确数值"
+},
+{
+"t": "H7LswAmnOiPu3lkveByczEBFnMb",
+"n": "黄金当前估值水平（正常偏高）"
+},
+{
+"t": "YO7ywpP29iajpgk8A4Lc1HE5nhb",
+"n": "REITs与红利资产走势为何高度相关（低利率时代高股息资产逻辑）"
+},
+{
+"t": "T2n5w6k1EiZka9k8lmTcL8pOnjf",
+"n": "分批止盈的具体执行方法（按持有份额比例分批卖出，黄金与指数基金通用）"
+},
+{
+"t": "FVBbwzHRaiRjPCk6oIAceN6Nnyf",
+"n": "REITs的估值方法是什么？如何用股息率判断投资时机"
+},
+{
+"t": "BAdMwBG0aihHVbkRhCNcuOuzn6e",
+"n": "REITs与红利的联动性及REITs指数基金新发布"
+},
+{
+"t": "MHUBwTM8SidFjWkbsvCcEKZGnmd",
+"n": "房地产体量大、非标属性与难以整体普涨的关系"
+},
+{
+"t": "E01ywu6OyiZsLmk0o9tcWYpJnTc",
+"n": "住宅总市值规模庞大(300-400万亿)导致难现全国性普涨牛市,资金总量不足决定结构性行情(对比A股同理),但优质城市核心地段房价仍有上涨空间"
+},
+{
+"t": "QsdTwC7eKixi4pkPEQPc15Wynxb",
+"n": "REITs的购买主体是谁？为何受保险资金青睐及最新发展进度（数量近百只、指数基金开始募集）"
+},
+{
+"t": "JPXVwIVaaiyykekNAOCcCyxvnEf",
+"n": "黄金是金属类最适合投资的品种；白银波动大、白金/玉石/翡翠/钻石不适合普通投资者"
+},
+{
+"t": "Vbgjwsie3icod4kH9wncRhCanhb",
+"n": "黄金ETF规模扩张与价格助涨助跌机制"
+},
+{
+"t": "YUSawD29iiat3NkQk4Gc838OnKc",
+"n": "中国家庭资产配置结构现状：房产主导、黄金低配、多元资产占比极低"
+},
+{
+"t": "AMfcwRlvbidv3ykgNRPcjV1VnMe",
+"n": "房地产历史牛熊周期复盘(2003-2008熊、2009年4万亿刺激至2018年顶点、2018后限购转熊)及\"房住不炒\"的估值杠杆背景(450万亿市值相当于4个A股)"
+},
+{
+"t": "WYWPwg5dwinwQekZ1cNc3O0vnBb",
+"n": "美元与黄金的跷跷板效应"
+}
+],
+"C11 保险": [
+{
+"t": "LdPmwFQmTix6tYk6JDDcEIHinQg",
+"n": "让基金做理财，让保险做保险"
+},
+{
+"t": "LoB9wjkqWiXGY9kQpoLcVQYKnbd",
+"n": "四大保障型保险（重疾/寿险/医疗/意外）"
+},
+{
+"t": "O3lHwJvKWiXpL3kPPQTc8sLOnub",
+"n": "年金险与养老"
+},
+{
+"t": "FTR0wUKW0iDufbkABGbcMl58nsd",
+"n": "少儿商业保险如何配置（重疾险/医疗险/意外险三件套）"
+},
+{
+"t": "ZkBlwvv2VipVV5koDOocRqElnfb",
+"n": "香港/国际分红型保单的预期IRR（港币6.0%/美元6.5%复利）与红利基金作为低利率时代稳健资产的替代选择"
+},
+{
+"t": "KqIzwKJvsi26iUkWr9ncuhxynyc",
+"n": "香港分红险与基金的波动感知、流动性、收益分配、风险承担对比"
+},
+{
+"t": "QCO5w9Cw8iWDRXkrhbQcYCKMnDd",
+"n": "境外保单传承功能:更改受保人可无限次操作、实现跨代永续"
+},
+{
+"t": "AoXRwQzTliHE05kXW4ecVQhwnlb",
+"n": "香港保单分红平滑机制与GN34监管要求"
+},
+{
+"t": "KOd5weT9GiRN3IkQZezcwEStnXd",
+"n": "红利基金与分红保单（大额保单）的互补关系：隐私保护、多元货币对冲与资产传承功能"
+},
+{
+"t": "CZvgw6FONiSbhek9o76cc4Tmnv3",
+"n": "保险的资产隔离与定向传承功能（收益之外的核心价值）"
+},
+{
+"t": "UK7DwD6jFiPowMkkjCmcela9nJg",
+"n": "保单分红实现率透明性(GN16/GN34)、分红平滑机制与锁定长期复利逻辑"
+},
+{
+"t": "XiK7wffJ8i46WIkdTUOcL5d0nRg",
+"n": "保险公司投资的分散逻辑:地区、资产类别、及单一资产类别内部(如债券)按行业三层分散"
+},
+{
+"t": "CMNWwIAGQiJQ8Bke78ocl0yHnAf",
+"n": "公司投保用于税务筹划与资产转移"
+},
+{
+"t": "Idz3w7aKBiRdkbkwfO1cPFVNnFb",
+"n": "保险产品分红实现率的稳定性与透明度"
+},
+{
+"t": "DlBawqVJpiaZtzkaTFecTxQGnHf",
+"n": "保单相较于基金等投资工具的独特优势：能保证财富按本人意愿传承给指定的人,并具有司法隔离作用"
+},
+{
+"t": "KdKCwHAsBir5epkvLhjccY1mnBh",
+"n": "分红险相比基金的附加功能优势：保单可分拆给多人、支持多币种转换、可变更受保人实现传承,基金则收益归投资人自己且需赎回申购才能传承——适合无投资能力/怕波动的人群"
+},
+{
+"t": "DRNJwsN7RikyekklThWcn7vjnOd",
+"n": "香港分红保险的资产配置与分红实现率"
+},
+{
+"t": "P4zVwuPbFizX0fkr5h0c7fRrnBd",
+"n": "分红保单的隐私保护、多货币转换对冲功能及与红利基金的攻守搭配"
+},
+{
+"t": "ERUbwahPaiN8FJkPWPAc46rDnte",
+"n": "国际分红保单的收益结构与特点（保证部分+复归红利+中期分红，全球化投资达成6%-6.5% IRR）"
+},
+{
+"t": "E6DAwIkKkiLtYZkEWQacbfrrnT8",
+"n": "境外保单的资产隔离、司法防御与财富传承价值"
+},
+{
+"t": "WMIuwSSl7i8zghkWGm9cucbynKc",
+"n": "保险公司资产配置的多元化：债券为主，辅以基础设施/林地农地/商业地产ABS等另类资产"
+},
+{
+"t": "A0BpwUioniKNyZkTWh0cI6H7nfh",
+"n": "香港分红储蓄险与内地保险的底层投资逻辑差异(内地约90%债券+10%股票年化2~3%,香港股票占比可达30~70%并有演示利率与分红实现率机制)"
+},
+{
+"t": "R8r2wX1R7i9DkKk3N6AcahoZnPh",
+"n": "保单的灵活拆分与定向分配功能"
+},
+{
+"t": "KDX8wNzFFixsOzk2xQ6cmUBlnWb",
+"n": "保险公司投资的地区与行业分散策略"
+},
+{
+"t": "VNDEw5tWhiIOspklpZEc5cD6nld",
+"n": "香港保单的债务隔离、定向传承与税务筹划功能"
+},
+{
+"t": "Cxtow0K49iKWxokMpDvcfgK8nqh",
+"n": "香港/新加坡保单可将持有人与受保人更改为无关人士,内地保单不可"
+},
+{
+"t": "RmCtwt2p9iwp8ckQnemcbOOynvR",
+"n": "香港保单通过全球化资产配置和多元货币转换(涵盖全球8种货币)对冲人民币贬值风险"
+},
+{
+"t": "QVqGw8fl8imcPXkH867coXfcnve",
+"n": "基金与分红险在收益分配、波动体验和流动性/投资期限上的差异"
+},
+{
+"t": "TvI5wW21EiaedSkKu9ecv7hknne",
+"n": "香港分红险的底层投资与基金的相同性"
+},
+{
+"t": "OOWRwDQ8FiidDhkGwnNcTqk0n1e",
+"n": "终身保单锁定长期复利、穿越经济周期的逻辑(分红实现率透明+锁定低利率)"
+},
+{
+"t": "EFFkwpmQui4ZJxkMZnncCJrLnRh",
+"n": "保单的高级功能：灵活分配、更换受保人/持有人、暂托人安排"
+},
+{
+"t": "P227wJ0C7i1xAukq4LCcmpeEnqg",
+"n": "保单的长期复利收益水平(6~6.5%)及叠加年化能否过10%"
+},
+{
+"t": "MnzowPTvBiwpK4kz2dJcAuZfnOf",
+"n": "国际分红型保单结构分保证部分+分红部分，收益高低不算风险；国内分红险因投资范围受限、利率上限收紧(即将不超过3.5%)而低于海外产品"
+},
+{
+"t": "RdYrw3943iFbp6krznKcUgJ3nGR",
+"n": "香港分红险与内地分红险的股票仓位配置差异"
+},
+{
+"t": "AQf7wYvP0idvKKk5oYjckLcMnHe",
+"n": "保险的资产隔离与债务隔离墙功能（破产案例）"
+},
+{
+"t": "OmPzw7TEJivdOvkFf62c4LN8n9e",
+"n": "保险公司投资固收/另类资产的实现率与零风险收益特征"
+},
+{
+"t": "Ubm4wiGoriIrNMkSA26cyr1XnJb",
+"n": "年金险和增额终身寿险各是什么，分别该怎么挑选？"
+},
+{
+"t": "Z91Bw45uSifI9jkQi5gcSr3onqh",
+"n": "增额终身寿险的复利收益率与减保取用"
+},
+{
+"t": "TjQkwzPKrivHBekvYbEc3KhXnBg",
+"n": "百万医疗险常见问题解答（医保报销缺口、免赔额设置原因、门诊不报销的原因）"
+},
+{
+"t": "ZUarw6xdKinyG7kI7Hhcl8ABndf",
+"n": "惠民保是什么、要不要买、和百万医疗险怎么选"
+},
+{
+"t": "Uj9EwHc5miBtkRkyj6Rc24mqnfe",
+"n": "增额终身寿险如何用于养老规划？减保功能怎么用？"
+},
+{
+"t": "PYALwMBEBi83AokJbImck5sznHe",
+"n": "重疾险的本质作用是弥补收入损失而非报销医疗费，为什么建议保额买3-5倍年收入、哪些人需要买"
+},
+{
+"t": "KMq3wi6DDick60kjhaHcc2GAneg",
+"n": "全国癌症发病地图：地区/性别高发癌症差异及防癌体检与保险规划建议"
+},
+{
+"t": "GJHrwbwJhiN2wTkNA7gc5ZOmn7e",
+"n": "增额终身寿险/储蓄险的锁定利率与增值特点"
+},
+{
+"t": "NTy6wVkyGiKjDXkrjVtc5bApnC7",
+"n": "预定利率下调如何影响保险产品收益与定价"
+},
+{
+"t": "DZJVwFRU9iTZLnkhHPBcuLNJn5g",
+"n": "保单管理与减保操作指南（金满意足臻享版）"
+},
+{
+"t": "BmGSwqCeTiKpdekaya8ckVd5nHh",
+"n": "少儿门诊险怎么选（基础版/优享版的区别与适用人群）"
+},
+{
+"t": "GhPswX0arip51akbZ5lcdENhn8m",
+"n": "储蓄型保险(增额终身寿险)锁定利率对抗银行存款利率下行的存钱替代方案"
+},
+{
+"t": "PU36wP3Grig7avkgFwmcOAMgnlc",
+"n": "小额住院医疗险作为百万医疗险的补充如何搭配"
+},
+{
+"t": "SUbmwYigWi5Jp3kUFfwchsDFnqf",
+"n": "重疾险的本质作用（弥补收入损失）是什么，该如何根据预算和健康状况挑选？"
+}
+],
+"C12 私募与高净值产品": [
+{
+"t": "V08BwIxGGi8miEkQVFZcIWFCn6c",
+"n": "什么是私募基金、与公募的区别"
+},
+{
+"t": "RKfDwWlY2iTpcikVRrOcIZ0Pnhf",
+"n": "私募的清盘线/止损线是好是坏"
+},
+{
+"t": "OXuIwZJppinvW4knNMHcSkXKnAd",
+"n": "对冲基金、雪球结构产品"
+},
+{
+"t": "WjR5wDDMIi5cK3kRm1Pc8COBnmd",
+"n": "信托产品与暴雷风险"
+},
+{
+"t": "UQ2dw6HR9iaO6pkv7VMc2HGfnsd",
+"n": "战略配售、打新基金"
+},
+{
+"t": "JBiFwvfAEip5k8k30LhcdbKansf",
+"n": "全天候策略公募版与私募加杠杆版的杠杆机制差异"
+},
+{
+"t": "Bh7CwVNLSiRIj1k1aJWch18En1z",
+"n": "私募基金/固收+/月薪宝/365天等策略回调多少算正常水平"
+},
+{
+"t": "FJ3twif84it4ZpkEQG9ckIEenqh",
+"n": "私募高频量化与公募量化增强的区别、品种选择逻辑（偏好中证500/1000/2000）及超额衰减与监管趋势"
+},
+{
+"t": "FclZwCAwoiO34nkBThdcoROgnsh",
+"n": "私募基金\"持有短债+北交所打新\"套利策略"
+},
+{
+"t": "GWO8wAepTi3bzVkE4L3cBEAAnNd",
+"n": "主动优选与指数增强策略：公募与私募的差异及各自适用场景"
+},
+{
+"t": "V8OYwjsroiTJPXkXA6qcxI5OnxT",
+"n": "全天候策略公募与私募的差异：私募可投更多资产类别(如美股、美元债)且额度更高，风险平价降低波动但收益提升有限，门槛更高"
+},
+{
+"t": "YHTjw6a0nir2N9kgA9vcHXmCnCh",
+"n": "私募专户定制服务有哪些方向、起投门槛是多少"
+},
+{
+"t": "HG5Swmgu2i5JXgkiAFJc2rGgnNe",
+"n": "私募基金与公募基金收费模式的区别（含仟上投资低费率设计）"
+},
+{
+"t": "J2pawCvIoi4YYHkF5jDcycDFngg",
+"n": "合格投资者资产证明如何准备（金融资产证明/收入证明开具方式与流程）"
+},
+{
+"t": "S0x8wnNzPiDaA3ku2NVciwfnn9c",
+"n": "投资私募基金要注意哪些常见风险（公司经营/集中投资/杠杆/衍生品与高频量化等）"
+},
+{
+"t": "RG46w1vxTipEwRkTN6dcGWKHnhd",
+"n": "2022年新规后私募基金成立与运营门槛大幅提高"
+},
+{
+"t": "SejJwMqiziVrLoklirAcxEJwnje",
+"n": "私募中性策略与DMA策略为何用杠杆、下跌时为何放大回撤"
+},
+{
+"t": "Vx0kw3Klqi9iMFkBiWQcz7RgnCf",
+"n": "主动优选增强策略为何跌幅比大盘小（低估值风格配置+同风格优选高ROE品种）"
+},
+{
+"t": "L1eYwCq4JitYJdktDpPcaSVInie",
+"n": "合格投资者资质证明材料与操作流程"
+},
+{
+"t": "DNbZwL0gjiNl91kNKxYcjiunnPh",
+"n": "私募基金的申购与赎回规则(封闭期、定期开放、锁定期)"
+},
+{
+"t": "CcbOwhI93igd7hkoWrGc2zi4n9b",
+"n": "私募基金为何有时跑赢有时跑输大盘(周胜率、仓位与风格原因解析)"
+},
+{
+"t": "BKLowYQp3ieADfksn4KcXMupnrh",
+"n": "私募基金购买为何需在开放日前打款(24小时冷静期与信息核对)"
+},
+{
+"t": "WXqnwmD6liQjTUk6I6ycdSiznye",
+"n": "如何验证私募基金是否为正规机构、不会跑路？"
+},
+{
+"t": "AT1Fww7ofi6olSkWrexckj7enNe",
+"n": "私募股权投资是什么、有何特点与参与方式"
+},
+{
+"t": "F2ojwrdGDi8BL8kunMGcq2PdnPg",
+"n": "私募基金的常见费用与仟上0管理费的收费模式"
+},
+{
+"t": "KlJDwcgBTiJV7akZzo7chptxntd",
+"n": "私募基金行业发展现状：数量规模增长与策略占比分布"
+},
+{
+"t": "TM2XwjhzJiUL0TknboGcu2obn7d",
+"n": "企业（含合伙企业）购买私募基金需满足的合格投资者条件"
+},
+{
+"t": "Ley3wP0AsitwqMkS9MLcnZqNnab",
+"n": "仟上私募FOF费率结构(管理费/托管费/业绩报酬)与公募降费的影响"
+},
+{
+"t": "ElJfwYvh2ipAmokyR4mcbOFxnxc",
+"n": "私募产品为何分期(1期/2期/3期)发行，该选哪一期"
+},
+{
+"t": "QIJ0wlEk7iHTKpkIysKchSncnSd",
+"n": "公募转私募的考量：星级配置阶段(4-5星)与私募规模小带来的超额收益优势、100万门槛及一对一服务"
+},
+{
+"t": "TDg5wIQF8iKM2ekiaQOcAWmFnah",
+"n": "遇到投资好时机，追加购买该怎么做呢？"
+},
+{
+"t": "TkH1wTOJXiDrdWkMYzCcRlNSnof",
+"n": "私募证券投资基金的资金安全保障机制（基金募集账户→托管账户→证券账户单向进出闭环路径）"
+},
+{
+"t": "F2uiw1dfLi5rCJk7OLpcMUEGn7c",
+"n": "仟上策略私募产品费率结构与投资者利益绑定机制"
+},
+{
+"t": "P9qFw7jKGi04PDkyyMMcjzpTn8f",
+"n": "私募基金赎回时业绩报酬如何计提（按每笔资金分别计算浮盈，非按账户整体盈亏计提）"
+},
+{
+"t": "LAEiwKLimihKgzkQZ1McVxlmnLe",
+"n": "全天候策略下私募与公募基金的区别（门槛/资产类别/杠杆运用）"
+},
+{
+"t": "JZrfwq6zUiamnlkazQFcOWDEnug",
+"n": "私募基金的6个常见风险（公司经营/集中投资/杠杆/衍生品高频量化/清盘线）"
+},
+{
+"t": "WZtswbfW2iAr0ckZjO7ctVTfnac",
+"n": "私募基金如何避免跑路、暴雷风险(托管机构与投向)"
+},
+{
+"t": "GY7iwPqp3iZQMWkcmq5cyFn8nNg",
+"n": "私募基金业绩报酬(提成)收取比例、时点与单客户高水位法"
+},
+{
+"t": "DnOFwM0wliFeKOkDbJQcl2XCnMh",
+"n": "公募/私募基金清盘的常见原因与触发机制"
+},
+{
+"t": "V9sswspgKiUcKVkjDqrcKkRdnPg",
+"n": "私募登记备案新规(2022底征求意见稿):实缴资金/募集门槛提高至1000万,及证券类私募87%管理规模不足5亿的行业分化格局"
+},
+{
+"t": "V4s5wlG6ai2wnPk7wqYc41olnIc",
+"n": "震荡行情（风格轮动难预测）下，股票基金FOF策略为何更具优势"
+},
+{
+"t": "E2qJwg295iGm3HkO9sScZcZMn0c",
+"n": "私募基金R级风险等级(R1-R5)与投资者C级风险测评如何匹配"
+},
+{
+"t": "IZ9CwmzxginZcTkAQb3cuSFtnyC",
+"n": "中国高净值人群规模增长与风险偏好特征（招商银行·贝恩私人财富报告数据）"
+},
+{
+"t": "QYrHwROzFiOijmkl5vycHu30nch",
+"n": "私募基金封闭期的利弊权衡(锁定资金匹配策略/避免追涨杀跌)与仟上天惠系列灵活申赎产品定位"
+},
+{
+"t": "OFkQwaO47ivz2MkjXn2c0APJnJc",
+"n": "仟上私募FOF底层为何以精选公募基金为主而非私募精选：费率对比与私募行业出清"
+},
+{
+"t": "UYTswMWQ7iXSbGk13eycYv3cn1f",
+"n": "2024年初大小盘风格切换引发DMA策略与雪球结构产品集中风险"
+},
+{
+"t": "FfHWwFO3ViEfMIkALIlcv7eGnlh",
+"n": "私募基金透明度与选择策略：优先选熟悉的策略,避免只看收益不明来源的私募"
+},
+{
+"t": "BJuNwK5qPiUIcqkaCFfcrPtCn1e",
+"n": "螺丝钉为何不管私募：财富管理是全市场选基而非单一管理人"
+},
+{
+"t": "A51awzHXRiclszkW7AbcYD1Pn4f",
+"n": "私募基金首次购买100万门槛与后续加仓无最低限额"
+},
+{
+"t": "AazzweWg0ilu2rk3J74cQQZZnSd",
+"n": "公募与私募的资金分配原则：按资金使用期限选择"
+}
+],
+"C13 基金通用知识": [
+{
+"t": "ZpFswJGxFiOQlFkHnCycGqhFnKF",
+"n": "基金的费率构成（申购/赎回/管理/托管/销售服务费）"
+},
+{
+"t": "H98TwPga0iVa73kJ96ucajwYn3e",
+"n": "基金分红是怎么回事"
+},
+{
+"t": "MbwHwV5zXigcIIkq4U1cp848n8g",
+"n": "怎么看基金的年报季报"
+},
+{
+"t": "AXgiwDQIciD7TjkBphccodF9nBg",
+"n": "基金规模、限购、清盘"
+},
+{
+"t": "AghwwRMJTiRHhFkD5v8cMircnlg",
+"n": "场内基金折溢价与套利"
+},
+{
+"t": "GylawDSEIibgfxkTuchcwpUqnGb",
+"n": "基金公司怎么挑、FOF是什么"
+},
+{
+"t": "Tlerw8uO8ihNe4kSBKkcZxaBnxg",
+"n": "基金净值高低、新基金建仓"
+},
+{
+"t": "Qk3fwZ6s3ikNo7kUXBXcCuLvnth",
+"n": "分红与工资的本质区别是什么？为什么公司分红而不直接给员工发钱？"
+},
+{
+"t": "A3egwpBIEi1wGKkYR42cTIE3nPc",
+"n": "基金分红的本质:分红前后总资产不变,好比摘苹果——树还在,来年重新结果,分红本质是上市公司盈利的一部分"
+},
+{
+"t": "XNl1wTKNSiPIKFkidmCcPhK2n0d",
+"n": "投资红利基金的收益（分红+净值上涨）是否需要额外缴税，印花税/分红税如何处理"
+},
+{
+"t": "DCTHwMTRDiBGrAkXs8FcIJKGnGh",
+"n": "股票分红的本质和历史演变"
+},
+{
+"t": "OnrfwQNH8iBImFkXl76cFQppnHe",
+"n": "场内ETF、场外联接、增强基金怎么选"
+},
+{
+"t": "HuUBww6CQi6wiCkJPPLcLox8nwe",
+"n": "分析股票类资产该关注哪些核心要素（估值高低、盈利增长速度、策略增强）"
+},
+{
+"t": "RLXbwUt7nixkWukBS5BcYYFOn5d",
+"n": "基金/理财产品风险等级体系(R1-R5)与存款、货币基金、纯债、含权品种的对应关系"
+},
+{
+"t": "W1QkwrEeni06tgkBDhqcsaEHnvf",
+"n": "子账户的虚拟记账功能"
+},
+{
+"t": "LFy5wu5ssiUxbykzcmJcwqQ1n3d",
+"n": "基金规模与业绩的反向关系(主动优选/私募FOF视角)"
+},
+{
+"t": "PsnLwZkYCi1tZyk4BKMcntnDn1b",
+"n": "公募与私募基金门槛、人数、收费、策略灵活度规则不同，导致两类基金各有优势策略（公募更擅长主观多头选股）"
+},
+{
+"t": "QxOfwAbUaiv4SPkVJYwcwh8Unwb",
+"n": "基金行业降费潮的进程及对投资者收益的影响"
+},
+{
+"t": "LsnGwUG45iZUH5khJ0iclP0En0d",
+"n": "风格漂移是否违反考核基准（宽泛型基金名称与风格漂移的合规性关系）"
+},
+{
+"t": "XanFwNnc9izf8LkR44lcJVqBn4c",
+"n": "主动基金的抱团率现象（电子+通信合计占比创新高，行业分类与指数不同）"
+},
+{
+"t": "BiJKwDyARiTm01kNn6ycReNxn9d",
+"n": "基金经理风格漂移导致的被动追涨科技现象"
+},
+{
+"t": "KmC3wHTT7iuvZJkI5KYc1TmmnCe",
+"n": "基金公司增设经理导致风格漂移的判定与投资者应对"
+},
+{
+"t": "Q4J9wrfMbi6XZ4kxuJmcWekznEb",
+"n": "私募基金分红能否计提业绩报酬取决于高水位法(单客户创新高)"
+},
+{
+"t": "Sx1iwq0FtiMW3ZkD9bpc1Xcynfd",
+"n": "分红止盈：指数基金、指数增强基金、主动基金的分红来源有何不同"
+},
+{
+"t": "Oo7PwINH9iMkQNkjnUscVQNRnld",
+"n": "主动基金分红与牛市的滞后关联规律(年报披露后集中分红)"
+},
+{
+"t": "M93KwFJ08iXNKFkQftNcQSIdnEg",
+"n": "商品期货LOF与QDII LOF的退市规则及原因"
+}
+],
+"D1 定投方法": [
+{
+"t": "B7HWw3JTti6ilAkxc55celD7nLc",
+"n": "什么是定投、适合哪些人"
+},
+{
+"t": "SFqGwHqLbiwWmDkAjxXcoxZonKf",
+"n": "定期定额 vs 定期不定额"
+},
+{
+"t": "AUZmwAoU2iXhdAkGByocA9VNnRg",
+"n": "按周还是按月定投、定投频率"
+},
+{
+"t": "LiQ6wSxqPiQWV7kdA1QcaBvCnwf",
+"n": "定投的收益率怎么算（IRR）"
+},
+{
+"t": "OXv0w4SdviRPNbkFXBfcv9XknZc",
+"n": "定投如何止盈、微笑曲线"
+},
+{
+"t": "F9ElwvUKNi7x57kOOUlcUkIXnnd",
+"n": "历史上下跌较多的指数，定投还能赚钱吗"
+},
+{
+"t": "QMHWw3b5di6T6Qklzwgc0zFLnrc",
+"n": "红利低波定投的完整规划:低估选品、设计分级定投计划、写下书面规则以对抗心血来潮式中断"
+},
+{
+"t": "NS8qwy5iQi7CfSkyZgrcwbmNnEg",
+"n": "三点几星低估阶段定投红利:可以定投但不宜一次性/借钱重仓,需预留资金应对未来更低估机会"
+},
+{
+"t": "GlZqw3Vg7ibtNxkFhe1cDaAYnqH",
+"n": "三点几星阶段只做低估行业品种的长期定投而非大额买入、单行业配比控制在15%~20%以内、达到4至5星才考虑加大配置比例，低星期富余资金转投「固收+」（月薪宝/365天/全天候）"
+},
+{
+"t": "SAhOwm9Bqild3QkFroxcnie8nrb",
+"n": "定投的终身性与定投品种随估值变化的原理"
+},
+{
+"t": "KMkqwyZj7iuS6PkENpYckAQynwb",
+"n": "三点几星低估定投的前提条件(能否坚持到回到4-5星时仍不断投)"
+},
+{
+"t": "P6xhwNbaWirUKjkwndScer7Zn1d",
+"n": "定投遇到波动如何判断加仓还是暂停（盈利增长判断法+宽基红利简化方案）"
+},
+{
+"t": "Xl6ywGCm0iaAArkqfY3cXJfOnJb",
+"n": "牛市高位阶段，低估品种（如消费、港股科技中概等）该用定投控制风险而非一次性买入"
+},
+{
+"t": "MkvnwOvzIiMVeEkZUj3csIalnFG",
+"n": "黄金下跌时能不能定投:操作本身没问题,但更建议低估时定投以避免下跌途中扛不住波动"
+},
+{
+"t": "A51swzDiJikJDAkrGi3c9aHOnyK",
+"n": "宽基作为资产配置核心的比例安排:理论上宽基可作为股票资产主力,搭配核心卫星策略配置个股/行业/其他策略"
+},
+{
+"t": "A0Uhw3nP0iADTLklWjpcWRyInOf",
+"n": "债券类品种能不能一次性买入不用定投（按各组合波动/回撤大小判断）"
+},
+{
+"t": "OQa7wtflFifYtUkv2KxcNy5SngD",
+"n": "止盈资金投向:止盈后资金转投稳健品种过渡,而非一次性加仓低估品种(定投分散投入不受此限)"
+},
+{
+"t": "E8lmwBTmEizO6BkC1HzcM7D1nFe",
+"n": "红利低波指数有没有必要定投（历史最大回撤与低估时波动对比）"
+},
+{
+"t": "Tw9lwMYNuihsWykiy1ac3HTSnXc",
+"n": "定投加仓频率的把握与危机应对"
+},
+{
+"t": "UOYUwG6rNigATkksSQoc4GzWn0c",
+"n": "定投比例如何控制：储蓄率概念与定投的本质（新增收入定投，区别于存量资金分批建仓）"
+},
+{
+"t": "GqcJw5jV1iYdrykxnIfcFw5DnQh",
+"n": "红利投顾组合的止盈与低估买入优化方向（组合相对单基金的增值点）"
+},
+{
+"t": "LshywK8XziQC0lkPXzgcXw7LnSd",
+"n": "不同星级买入定投的历史回测年化收益对比"
+},
+{
+"t": "OasHwtA16i5JU3kLfBbcpdM1nLe",
+"n": "大额资金一次性或分批投入的选择依据(风险承受能力/股息率满意度)及红利低估时不建议融资加杠杆的原因(个人投资者难获低成本资金,对比国家队1.75%借款案例,并区分提前还贷与借钱炒股)"
+},
+{
+"t": "OVpOwxhCki4iWak2pZKc8fIHnie",
+"n": "无低估品种时的小额定投策略及不同买入成本星级对应历史年化收益回测（22年-26年7月）"
+}
+],
+"D2 低估买入与估值投资": [
+{
+"t": "R0xzwP3cuiSNmMkWPGpcrdMOno0",
+"n": "低估买入、高估卖出的逻辑"
+},
+{
+"t": "VPgLwlLapirT2Xk3rKNcQVrenvs",
+"n": "为什么大多数人做不到（人弃我取）"
+},
+{
+"t": "YS9qwLrlgiRXMtkNWj4cHBuBnbe",
+"n": "买得便宜是一切投资的基础"
+},
+{
+"t": "DGh7w8CjNi2KCbk6LVIcYJaFn8e",
+"n": "用制度设计减少情绪操作"
+},
+{
+"t": "P3ryw0rrUihu07kSlCucdknCn0g",
+"n": "越低估配置越多、越高估配置越少的定投设计法（如黄金分星级递增定投金额，等到4~5星再重点买入）"
+},
+{
+"t": "E9IhwR2eGi44MYkAl0Sc7gWfnyd",
+"n": "长期投资不缺机会缺钱：不追高黄金，不试图说服别人，投资责任自负"
+},
+{
+"t": "U3C1wvhqBiXyKokQR7MclrGNn3b",
+"n": "指数基金低估买入-高估止盈的方法与案例（结构性牛市轮动、星级绿色占比变化、价值风格指数长期未现高估的特殊情况）"
+},
+{
+"t": "Ih1Iwv7zyiNFdrkWNuDcfEPIn5c",
+"n": "红利低波指数基金怎么选:先看费率再看规模最后看跟踪误差"
+},
+{
+"t": "PFm6w6NSuiWNt9km6hmcVqBWnnb",
+"n": "低估买入降低红利类资产持有波动风险（红利波动幅度与债券对比）"
+},
+{
+"t": "MRl0whmZEiqkSckCDVAc3sWLn5b",
+"n": "低估时买入红利类品种的三重好处:降低下跌波动风险、未来估值修复空间更大、股息率更高(以红利指数15年42%最大回撤及20年以来16-17%回撤为例)"
+},
+{
+"t": "LJWYwixXaiGhFEk7m2Qc5V0LnIh",
+"n": "现金流/红利类长期上涨品种为何仍要坚持低估买入而非任意时点长期持有(投资者平均持有3~5年不足11%,低估买入缩短盈利等待期且股息率更高)"
+},
+{
+"t": "Xy6Cw8OuoieiCAkWM1pcNubpnhh",
+"n": "配置红利+短债组合、工资结余定投时还要看估值吗？"
+},
+{
+"t": "QyRHwhIg3irljTkgF3XcacIGnAc",
+"n": "「固收+」品种买入是否需要考虑股票部分估值？"
+},
+{
+"t": "Mw7Ew1qRKiwbebkJBj9cXw6FnSG",
+"n": "红利类品种低估买入的效果与局限（估值波动区间窄，收益提升幅度有限）"
+},
+{
+"t": "N2TuwWp5JiYmY9kGBtScu1Bangb",
+"n": "四大资产（股票/债券/商品黄金）各自的估值指标与买卖时机判断标准"
+},
+{
+"t": "GKk6waOn4iqyQ2k7qXGcBKmLn2f",
+"n": "该按估值指标而非短期涨跌幅判断品种价值（含巴菲特名言与《史记·货殖列传》\"贵出如粪土贱取如珠玉\"）"
+},
+{
+"t": "W13OwjE4Ticxt4kGMQrcmb1qn4e",
+"n": "低估买入的优势：减少波动风险与获得容错空间"
+},
+{
+"t": "JpdWwPHPnivSKnklxHic7yCbnSe",
+"n": "红利买入估值决定长期回报，当前红利估值虽未到2020年最低点但多数已回到低估、股息回报不太受涨跌影响"
+},
+{
+"t": "HhFMw9gfuiXKqxkufrlcgSEJnMb",
+"n": "红利类品种估值提升收益来源:当前3.5星/PB分位10%与15年高估对比、指数调仓自带的低买高卖降估值机制"
+},
+{
+"t": "VaElwzuj8iJj3KkydDRcdduQnmb",
+"n": "红利指数基金投资方法：低估买入持股收息"
+},
+{
+"t": "R8vyw9IiLiAI2BkifY6c7LtlnYg",
+"n": "5星级闲置资金一次性买入还是分批投入:风险承受能力与后市涨跌对收益的影响"
+},
+{
+"t": "CYZVwlUTpijsCAkIg9Rc6fJwnPe",
+"n": "低估定投、高估止盈的估值择时纪律"
+},
+{
+"t": "MODTwfnTti7T8AkCEyQcQg0jnhe",
+"n": "宽基指数怎么用螺丝钉星级和指数估值表判断定投/持有/止盈阶段"
+},
+{
+"t": "Op62wvd6Li0IUAkGHXqc2wAEnsA",
+"n": "牛熊历史不可预测，如何用螺丝钉星级和指数估值表做好「低估买入-正常估值持有-高估卖出」"
+},
+{
+"t": "UhRQwZ3YsiPM9Oke5DYc6MHMnNh",
+"n": "好品种+好价格+长期持有公式的三要素定义（定投多年收益不佳的原因）"
+}
+],
+"D3 止盈方法": [
+{
+"t": "XGkLwUO7FiZHotk8m1ocAzsjnOc",
+"n": "两种止盈方法（按收益率 vs 按高估）"
+},
+{
+"t": "QMTewdZs6iUbX3ks0igcTS56npb",
+"n": "一笔卖出还是分批卖出"
+},
+{
+"t": "Sfmpw1c0ViEkrekq5kzckVDqnLe",
+"n": "不同品种/组合怎么止盈"
+},
+{
+"t": "SMrUwFRJfimyn8kv8LNcmlQ7nsP",
+"n": "自动止盈功能"
+},
+{
+"t": "ONTXwlCQ5iSanGkZC8Mcbp97nrf",
+"n": "指数增强和主动优选各自的具体止盈时机判断"
+},
+{
+"t": "VQaawRrCZi4ZRakuIO2c3jRNnRf",
+"n": "分批止盈的操作方法(每周赎回10%份额)与两种止盈标准:闲钱等高估、短期用钱按收益率(如30%)止盈"
+},
+{
+"t": "DShjwTx07iHac6kkEt7cO9Vfnlh",
+"n": "自动止盈生效时间与错过后的手动补做"
+},
+{
+"t": "WUZ8wXLtUiPB8jk0agxcz8Ddn8d",
+"n": "用\"生意思维\"持有红利品种:低估买入、分红正常、估值不高时无需止盈可继续持有吃分红;而成长风格波动大,到高估须及时止盈——二者止盈要求差异大"
+},
+{
+"t": "IhCowEveHiAj6nk131IcB6jgnbf",
+"n": "波动率与回撤特征驱动的慢牛/估值消化走势"
+},
+{
+"t": "S4JewsImHiy3d9kKKcSc8aajnxc",
+"n": "红利到高估该不该止盈——会止盈但因红利较少高估影响不大,止盈后转配债券等生息资产,红利本质仍是股票资产波动大于同期债券"
+},
+{
+"t": "SLSGwig4wiM9qgkcsWHcRrcwnA3",
+"n": "止盈方式因人而异:该按高估止盈还是收益率止盈,取决于自己的风险偏好"
+},
+{
+"t": "G5vqw8APziHYvnkxPaIcEFyAnHe",
+"n": "主动优选投顾组合"
+},
+{
+"t": "AGcMwR726iPvmKkoG1xcnpGLnSc",
+"n": "高估止盈与收益率止盈：没有完美止盈方法，按自身耐心和风险承受力选择（以500低波8年未高估、21年按30%收益率止盈为例）"
+},
+{
+"t": "NRpNwD7IXipazOkmKTxcyafunwe",
+"n": "止盈操作的容错窗口（跟不上当天止盈怎么办）"
+},
+{
+"t": "IizFwh1SDioxiPkxW7rcZLpMnUe",
+"n": "分批止盈后止盈资金如何配置：不宜大比例买入低估品种，大额资金现阶段不宜集中入市"
+},
+{
+"t": "QhLGwr6Izinh7jkEWIgcg20bn4f",
+"n": "收益大幅上涨后拿不住时如何决策:按资金用途/风险承受力判断留仓或止盈,若有低估品种优先调仓止盈(卖高买低)而非直接清仓变现"
+},
+{
+"t": "DwBqwnzzbieQgfkXVl2cVGxhn4c",
+"n": "没到止盈标准的品种中途回调下跌,要不要提前卖出离场"
+},
+{
+"t": "Ai1owUzHKi3XCykAsgTcq7i7nOd",
+"n": "单只指数基金进入高估后如何分批止盈:每周卖出总份额固定比例(如10%),估值越高比例可提高,以中证1000为例"
+},
+{
+"t": "Sw66wRrqdiIYiykLVeYc8MhXnyf",
+"n": "止盈资金能否一次性大笔加仓单一行业主题（如消费医药）"
+},
+{
+"t": "L1fpwfTHUiwqnIkCH0NcLQwineg",
+"n": "调仓止盈依赖市场存在低估品种,若普遍不再低估则转为对组合整体做高估卖出止盈"
+},
+{
+"t": "MDkywVhKSiCvLckwkLZcUoM0n1b",
+"n": "止盈为何能踩准高估点位、且同等估值位置的止盈收益逐轮抬高（核心收益来源=指数盈利增长+分红）"
+},
+{
+"t": "YUEuws30YiUCq5k3Gxgc6imznng",
+"n": "止盈后市场继续上涨怎么办:高位追涨风险递增(星级越低下跌风险越大),吃到\"鱼身\"收益即可、不必追鱼尾"
+},
+{
+"t": "PLVDwgO3CifHmaktAPxchgqWnsl",
+"n": "给自己设定盈利心理预期(如10%/20%)，达到后分批止盈，落袋为安才是真实收益、浮盈不算数"
+},
+{
+"t": "DhPgwK5j4iv8AMknvQEcU1YanGe",
+"n": "基金分红作为止盈方式：几种分红原因、现金分红与红利再投入如何选择"
+},
+{
+"t": "KqSjw7n28iJuj0kbCIocIfN5nBe",
+"n": "自动跟车与自动止盈是独立功能"
+},
+{
+"t": "VE2ywhHlviZwROkO1F3cu68Dn9d",
+"n": "成长风格与小盘股今年领涨，估值将率先到达高估区间，止盈机会随星级下降逐渐增多"
+},
+{
+"t": "QLBtwva4mikLb8kbaMScgHcmnEb",
+"n": "融资规模与保证金比例提升作为市场过热信号"
+},
+{
+"t": "HfMrw7uVeiVqHlkegPtcGqsonlf",
+"n": "沪深300/中证500/A500当前估值位置（正常偏高，距高估不远）及止盈方法选择"
+},
+{
+"t": "LMhxwQmJ2iJ5b5kRzELclYDDnae",
+"n": "定投策略与自动跟车功能说明"
+},
+{
+"t": "Y3H6wsfXHiBUIekDktGcnbK5n2e",
+"n": "分批止盈执行"
+},
+{
+"t": "WD30wfI4Pi7OxSknJEkckP2gn2g",
+"n": "主动优选双止盈叠加下的回撤对比数据（2026年6月18日-7月27日）"
+},
+{
+"t": "OgubwED7LiowXIkSPbgc71TtnEh",
+"n": "中小盘单只指数基金高估分批止盈方法"
+},
+{
+"t": "Y6EJwni3kiUslQkG7yGcdsF6nWc",
+"n": "中小盘类指数高估止盈的分批卖出方法"
+}
+],
+"D4 资产配置与再平衡": [
+{
+"t": "LXAIw1dEoiglOFkNsyLcdduqnIc",
+"n": "为什么要分散配置股票和债券"
+},
+{
+"t": "XVWgwSd29ianh5k0w0kc0B2en4L",
+"n": "股债比例怎么定（生命周期法、星级法）"
+},
+{
+"t": "Kz4VwJTFiiqxGkkJY2ic64CWnhf",
+"n": "再平衡为什么是\"免费的午餐\""
+},
+{
+"t": "VIx0whTMgiNY8rklOALcoVZjnee",
+"n": "分散配置会不会降低收益"
+},
+{
+"t": "ZnDdwulmYidEQQkisFocScwFnyh",
+"n": "一笔闲钱怎么配置"
+},
+{
+"t": "C2TWwmykRiNC9EkFZJlcnf08nPc",
+"n": "持有多只基金≠分散配置"
+},
+{
+"t": "PuydwSc7fiXeKokyILmcgSsInrF",
+"n": "CPPI策略：用稳健品种利息撬动高风险品种收益,构建保本组合的原理"
+},
+{
+"t": "SJtww6zo0iKwkYkdTf3cItGynnb",
+"n": "用宽基指数或预配置组合实现风格分散"
+},
+{
+"t": "MMuzwdhU2iIk2pkLeUScyELnnBd",
+"n": "用红利低波等股票指数基金按不同比例搭配债券并定期再平衡,可自制出媲美365天/月薪宝组合效果的「固收+」策略(如15%红利低波+85%债券≈365天组合,40%+60%≈月薪宝)"
+},
+{
+"t": "RS3ewCj4riD21BkNkKtcGeijn3f",
+"n": "存款是居民规模最大的资产类别，居民大类资产配置的实质是对存款的重新分配"
+},
+{
+"t": "RJBZw0BPGixCotk56iLcAKTXnmg",
+"n": "再平衡的概念与动因（风格比例漂移为何触发调仓，主动优选年初再平衡案例）"
+},
+{
+"t": "SzDUwrPDOiD79Ik0Ldvcm3VfnNe",
+"n": "全球四大主流资产配置策略是什么（估值配置策略/目标风险策略/目标生命周期策略/全天候，螺丝钉用目标星级实践估值配置）"
+},
+{
+"t": "VUlOwFMjWiOgJFk9Jl0cvKAknBs",
+"n": "资产轮动现象:大类资产收益排序每年变化,无常胜品种"
+},
+{
+"t": "AaA5w1kVtiwOB8kA3p8c6TAVnDF",
+"n": "目标风险策略（恒定股债比例）的回测数据与特点"
+},
+{
+"t": "OonxwWDVyi3JQ0kUDhSchoHin9f",
+"n": "全球配置的大类资产范围:股票(A股/港股+美德英法日等主要经济体股市)、债券(人民币债/美元债两大类)、商品(黄金/原油/白银),房地产因暂无REITs指数基金品种未纳入配置"
+},
+{
+"t": "FOvvwmKQTi00qkk6efPcQ26Cntd",
+"n": "全球主流资产配置策略对比（巴菲特估值配置、先锋目标风险、富达目标生命周期、桥水全天候等），及普通投资者适合的\"100-年龄\"目标生命周期叠加估值法在不同星级阶段的股债配置实操"
+},
+{
+"t": "H4sGwenmWiWxRJkCyBfckFhJnRR",
+"n": "不同资产大类收益排序轮动与不同涨同跌规律"
+},
+{
+"t": "EJhbwTTMkiWkgKku3BCc5RbhnGg",
+"n": "全球四大资产配置策略规模排名（全天候策略规模2000~3000亿美元，居第四）"
+},
+{
+"t": "NF24wBj8TihjL6kBCTscPhpmnhb",
+"n": "全天候策略的原理与风险平价逻辑"
+},
+{
+"t": "Rb0TwXo6kiTkWzkkjEUcaS4Bnse",
+"n": "CPPI策略：本金存银行/货币基金打底不动，每年利息做定投红利指数基金，实现近乎保本的「存款+」增值"
+},
+{
+"t": "GIjOwUkEzixgZokO13bcLhQvnMd",
+"n": "全天候策略中债券杠杆对最大回撤的影响"
+},
+{
+"t": "SoTAwDwzJitaAukl6SJc4E6CnDe",
+"n": "目标风险策略与估值配置策略对比:如何结合风险承受能力与估值确定股债比例,及不同波动特性指数的再平衡频率差异"
+},
+{
+"t": "NGFOwH60Qi8ytdkhUNLchjirnIb",
+"n": "全球资产配置策略有哪些流派？(哈里·布朗永久组合、塔勒布杠铃策略，及基于估值/目标风险/目标生命周期/全天候四大主流策略预览)"
+},
+{
+"t": "TsYewnKZDifJSlk45jEcmfgEnVc",
+"n": "股票资产配置比例怎么定？\"100减年龄\"原则与风险承受能力自测法"
+},
+{
+"t": "V7VKwulIEiiijnkgfTdcIjOonoc",
+"n": "低利率时代应提高权益类资产比重,拥抱红利等优质生息资产并分散至A股/港股/欧美等全球市场以应对单一货币贬值风险"
+},
+{
+"t": "We7xwYmAxiSxEpkhhgIcXNdBnpe",
+"n": "股债跷跷板为何会出现股债同向（暴涨暴跌下情绪驱动的资金搬家机制）"
+},
+{
+"t": "ZUa4wcjyCi2jBvkNclfcwAecn3d",
+"n": "年终奖等大额一次性资金的配置方法（短期资金配短债、长期资金按100-年龄比例分星级买入，星级不足时用固收+过渡）"
+},
+{
+"t": "T3Daw7iNRiNPMxkmhoIcXc88nUY",
+"n": "资产配置降低波动的核心原理(王大妈卖伞卖布,负相关性)"
+},
+{
+"t": "EtSCw6JEEi6YfhkFx7gcSIWPnDd",
+"n": "目标风险策略的原理、回测与月薪宝/365天组合的应用"
+},
+{
+"t": "LpwnwPbuAiy2GakzUpPc8XTRnTb",
+"n": "基金组合构建三步骤(低估+分散+再平衡)及风格轮动生效的前提条件(需有低估品种、市场流动性充足)"
+},
+{
+"t": "AnZOwaWetisKL3k9cFocDZiJnKf",
+"n": "基金资产配置怎么搭配：股票、债券、商品四大类框架与当前阶段建议"
+},
+{
+"t": "Q79JwDYjBiZjeUkAbvlcmb3dnNb",
+"n": "各类理财工具（基金/保险/信托/理财）穿透到底层，主要都是股票、债券、商品、房地产这四大类资产"
+},
+{
+"t": "OWPBwUcjiiOK82kXU6ociWirnih",
+"n": "风险平价：股票内部风格分散、股债再平衡到股债商风险平价的应用层次"
+},
+{
+"t": "B8jRwWSQ3iqDpxkpeW9cajU9noe",
+"n": "大类资产收益轮动效应与不能靠单一资产包打天下"
+},
+{
+"t": "MjuGwgZ6viIsi7kU6UGcSxmVn7c",
+"n": "核心卫星策略：主力资金与细分赛道仓位怎么配置"
+},
+{
+"t": "HThEwdCl7inKeckE2tFcTqHun5c",
+"n": "目标风险策略的起源与原理（博格1990年代先锋领航固定股债比例）"
+},
+{
+"t": "A5lBw0edtiXTP3k7nsJcgWqDnAY",
+"n": "红利与宽基作为压舱石资产的对比（国家队选宽基、保险选红利，牛市大跌红利是否跟跌）"
+},
+{
+"t": "TlAawwpi7iBo73kmU4aceqf9nFc",
+"n": "牛市中后期分批建仓策略：定投体验市场+按最大回撤匹配品种风险承受力"
+},
+{
+"t": "Tbffwr9QViDMTzkLS8Nctdx8nVY",
+"n": "红利仓位配置建议（存款与红利9:1搭配，模拟\"存款加\"策略）"
+},
+{
+"t": "Rdc8wYUOPi1BTskcwXicWKHznFf",
+"n": "全天候策略的风险平价原理与经典配置比例（达里奥/桥水）"
+},
+{
+"t": "XINhwE0aoiWQQhk6AUPcAhwYnVg",
+"n": "如何自制红利低波「固收+」指数？不同股债比例的历史回测数据"
+},
+{
+"t": "Pqg5wk41ai7pJgk4a8jcjg4EnWe",
+"n": "「固收+」策略的核心要点与简单实现方法（股债品种选择、常见比例、再平衡规则）"
+},
+{
+"t": "RIMdwxeIwi2YfTkHHfIcwknLnoe",
+"n": "大类资产轮动特点与配置难点(为何没有资产能持续领先)"
+},
+{
+"t": "EQCOwojaIi0X0Ik0cqecitz3nmy",
+"n": "同时持有高相关品种(港股科技/恒生科技/中概)本质是集中单一风格，需搭配低相关品种(如红利)才是真分散"
+},
+{
+"t": "DKjMwBxB5iZBGKkDUWycM9Jrnah",
+"n": "行业主题类指数仓位控制在15%~20%以内更稳妥"
+},
+{
+"t": "PrMQwhxbsiLKnmkXvY3clRsDnuh",
+"n": "全天候策略按债券杠杆程度分层(无杠杆公募基金版年化6~7%回撤9~10%，加杠杆类似桥水ETF，高杠杆为私募版本)，螺丝钉建议选不加杠杆版本、用作股票不便宜时的稳健策略替代"
+},
+{
+"t": "Qiiiw6dbwigFCGkjME6cckaonne",
+"n": "全天候策略要不要加杠杆:各机构杠杆程度不同导致回撤差异大,螺丝钉建议将其当作不加杠杆的稳健配置而非风险策略"
+},
+{
+"t": "UBWhwo27Oit6TPkExDzcJ8nUnge",
+"n": "大类资产的年度轮动特征(风水轮流转,均值回归)"
+},
+{
+"t": "U9VCwSfnoiYHMjkwRQac4UconPj",
+"n": "国家队/社保/巴菲特等大机构基于估值的分批建仓与分批止盈,验证股债再平衡策略"
+},
+{
+"t": "XmITwo4RTinBkhkAiSgcCs6Mnxd",
+"n": "全天候策略：按风险平价分配资产大类比例"
+}
+],
+"D5 风格搭配": [
+{
+"t": "Xbarw55WLixw61k6pqAcSINJnW2",
+"n": "5种风格的特点与适用"
+},
+{
+"t": "Ib63wnZ3oiABzlkLdFScc6genIc",
+"n": "价值与成长怎么搭配"
+},
+{
+"t": "WMfhwiwbdiW53AkPK6dcsxRGnfH",
+"n": "牛市买成长、熊市买红利能做到吗"
+},
+{
+"t": "NhSfwQCXuiAkdEkgWd3cZJTzntg",
+"n": "不同风格如何配置赚更多"
+},
+{
+"t": "ZmzkwiR9biAU8uk963XcsQlpnBh",
+"n": "港股科技等成长风格品种的波动应对（换低波品种或搭配红利低波价值风格分散）"
+},
+{
+"t": "Ieb5wdwXliFrV2kb3Rjcuv3bnlb",
+"n": "中概、恒生科技、港股科技等成长风格品种相关性强，应搭配低估价值风格品种分散组合波动"
+},
+{
+"t": "QxVKwrbK7i6GaIkF4q8caLQVnHa",
+"n": "红利与A系列指数搭配的再平衡原理及全球资产配置策略线分类（risk线/income线/全天候/目标生命周期）"
+},
+{
+"t": "J9AMwlOoVij5PiktRvjcUFlQnbd",
+"n": "只投红利或只投科技各有何利弊，为何需做风格分散配置"
+},
+{
+"t": "S09mwDpS2ixsOWknbkgcQLuEn94",
+"n": "红利类品种（老登股）盈利增长的来源是跟随通胀的提价逻辑"
+},
+{
+"t": "Ps33wTf2kizxqIkDglrcp38JnLm",
+"n": "用基金做风险对冲的三种思路（风格轮动、资产大类、衍生品）"
+},
+{
+"t": "WnVOwFJg2iT9GwkivZDcvHl6nbh",
+"n": "本轮牛市各品种涨幅分布与单一风格集中投资的收益-风险特征"
+},
+{
+"t": "XVY6wPJ0WiBSc9kLPiLcpMiyn5g",
+"n": "基金数量不是关键，按风格分类合并同类项来搭配才能降低组合波动"
+},
+{
+"t": "MUKxwAb27iYNW8kugVZc6PyHncf",
+"n": "牛市结束成长风格大跌是否会带动红利等价值风格同跌（2015年 vs 2021-2024年两种历史案例对比）"
+},
+{
+"t": "C0HhwNHPBibBeqk27GUcWV4pnce",
+"n": "红利跑输成长的资金结构与财务可预测性逻辑"
+},
+{
+"t": "Pa3Pwy1nXiJoWokHG5McwRzmnOP",
+"n": "自上而下vs自下而上的投资策略选择及适用场景"
+},
+{
+"t": "JAVDwW88DiMGpukpYrnccWAxndb",
+"n": "红利短期受成长风格轮动影响但长期表现稳定（含成长大涨占交易日比例及牛市中后期暴涨暴跌特征）"
+},
+{
+"t": "BksZwS8xbirYGSk9gLic1gxYnwf",
+"n": "当低估品种风格不全（如小盘成长普遍高估）时，如何用月薪宝等低仓位策略补位、并控制单一行业主题比例以维持组合稳定"
+},
+{
+"t": "BXv1w2Bjpi2X9bkLFAtcqzQnnTb",
+"n": "不想手动配置多风格时可选指数增强/主动优选组合或800/A500/全指等宽基替代,已覆盖主流风格但当前估值偏高"
+},
+{
+"t": "RlKZw9I0aiS9eGk6Muyc79r0nMc",
+"n": "风格轮动速度随牛熊阶段变化(熊市1-2年一轮/牛市中后期几个月一轮)及2026年轮动案例"
+},
+{
+"t": "D0z4wDL5FiHHmxkk8cucKWpTnld",
+"n": "怎么组织起一篮子低估品种获得稳定回报"
+},
+{
+"t": "IENrwfCKjiKOfykmEcbc6m4Ensf",
+"n": "海外市场普跌(韩股回调20%入技术性熊市)带动成长风格下跌，价值风格微涨、红利坚挺，港股逆势大涨超3%的风格轮动"
+},
+{
+"t": "HYSywoLwJiN908koQfSclwt5nrh",
+"n": "今年风格轮动的时间节奏特征（1-3月尚温和，4月后转剧烈）"
+},
+{
+"t": "Cq4qwXPkEiOWWnkB283cEr75nzc",
+"n": "风格轮动与跷跷板"
+},
+{
+"t": "EvliwnnMfittKgk0ucBc6djCnLg",
+"n": "成长与价值风格基础"
+},
+{
+"t": "PHB8wCIV2iqKlekpFy6cYVgvncd",
+"n": "风格长期回报比较"
+},
+{
+"t": "AkWrwP0fMi4yTZkum1kcyAFMn1d",
+"n": "主动基金价值风格的细分：深度价值（红利等高股息）与成长价值（消费、医药、工业、家电等高ROE品种）"
+},
+{
+"t": "KZjmw01YEiG570kOlX2cXysWnMh",
+"n": "现金流与科技成长相关性偏低，两者呈跷跷板关系（2026年4-6月科创创业大涨现金流大跌、7月反转案例）"
+},
+{
+"t": "BJcSwyGZ6ipfykkhpwxctqeYnpc",
+"n": "成长价值风格轮动的跷跷板效应（5-6月成长涨价值跌、7月反转）"
+},
+{
+"t": "OFnbw8pZbi2XsBktprHc8qMUnBh",
+"n": "成长价值风格轮动的应对策略：分散配置低估品种+按估值动态平衡（止盈止盈、加仓加仓）"
+},
+{
+"t": "TYNawVfvQi6jEakp3OFcSLdwnRf",
+"n": "A500和红利五五配再平衡的超额收益数据（相对沪深300）"
+},
+{
+"t": "KgW2w2W6Oic6q1kNbhjcaHMvnre",
+"n": "科创50与红利成立以来长期回报接近但涨跌时段错位的历史走势"
+}
+],
+"D6 波动利用技巧": [
+{
+"t": "DWvew4f1Fi0DTjkNcjkcs0w4nIg",
+"n": "网格交易是什么、适合什么品种"
+},
+{
+"t": "JRpDwNLuviC0YhkV7n9cT0ZUnKh",
+"n": "场内基金套利"
+},
+{
+"t": "P72Rwqqd9in4uwkSIH3cxtTKnfc",
+"n": "主动优选与指数增强的增厚收益方式（折溢价套利/打新/高频量化/期现套利）"
+},
+{
+"t": "L5KSwAl5cie3pVk3ucKcBumPnRc",
+"n": "牛市中后期的打新与套利机会"
+},
+{
+"t": "FnTuwFMIpiQxzakwlcJcpr0Tnfh",
+"n": "封闭基金折价套利的原理是什么，怎么操作"
+},
+{
+"t": "KZyWwsjuqiuz5lkRXI1cHv27n0f",
+"n": "牛市中后期保持耐心应对波动，逢杠杆爆仓「带血筹码」加仓——投资是资金从没耐心者向有耐心者转移的游戏"
+},
+{
+"t": "VuG0weCd8iAEeqkc1k1cwoatnbb",
+"n": "场内基金折溢价套利新规：高折溢价品种强制退市及散户误判风险"
+}
+],
+"D7 现金流策略": [
+{
+"t": "QhcewPt8iixWUokEyN2cD96dnQb",
+"n": "4%法则与养老提取"
+},
+{
+"t": "BHBcwZ4L9iogMsksx3Kc2yuqnmX",
+"n": "月薪策略：定期现金流怎么来"
+},
+{
+"t": "YOegwIrECiaQhUknuSRc77qanqf",
+"n": "CPPI策略的案例与实施注意事项"
+},
+{
+"t": "ZP3ZwJayiihy4wksUQccZqQHnYd",
+"n": "现金流产品线的完整梯度构建（货币→分红险/固收+→月薪宝→纯红利，及红利与月薪宝的股债相关性）"
+},
+{
+"t": "WUBywCiZoi7v1ckBq6scnekEnJg",
+"n": "存款增强策略（存款+策略）的风险工具选择"
+},
+{
+"t": "XWwewciy3iWzutk0qOCcBuFFnX8",
+"n": "低估买入、持股收息逻辑为何长期适用——现金流比较是普通投资者最易学的资产价值判断方法"
+},
+{
+"t": "J6HuweCKYid95Nknb2tcp0WynZH",
+"n": "螺丝钉AI发展计划：为什么金融AI需要专业训练而非通用大模型"
+},
+{
+"t": "CNgIwWnJ1iFog4kbnUScpS7ineb",
+"n": "教育金/养老金规划中现金流品种的选择与不卖出支付机制"
+}
+],
+"D8 选基方法论": [
+{
+"t": "UbzZwCschidcZRkMR6QcKHWtnRf",
+"n": "选指数：看估值与品种质地"
+},
+{
+"t": "SGOowau8CiFGeXkAXh4cyOogn2e",
+"n": "选基金经理：主动优选的标准"
+},
+{
+"t": "PsMZwLOQoiuW34kJcancOTjanUh",
+"n": "怎么挑基金公司"
+},
+{
+"t": "QOxAw6u3qifEVnkx1jtc8aIpn9b",
+"n": "选基金要不要买热门基金（明星基金）"
+},
+{
+"t": "LyqNwGIBpi9Zk8k1WmHcnpPInGh",
+"n": "基金名字不能代表实际投资风格，需看底层持仓（同名\"成长型\"基金业绩差距案例）"
+},
+{
+"t": "LEdFwaplIiPcqFkFAQgcKz6gnhe",
+"n": "基金分析的第二维度：行业配置比例与风险"
+},
+{
+"t": "CcmWwNW09i3lLtkIIqwcUP8Ynge",
+"n": "短期暴涨的热门基金要谨慎对待"
+},
+{
+"t": "Wsc3wpHN0ikAsUkPgkxcTc3Anvb",
+"n": "策略按复杂度分级:两基金搭配(宽基/红利+现金流)简单适合自己做,全天候类多资产复杂策略更适合做成投顾组合"
+},
+{
+"t": "I5D4wpmKTiFQUhks0nNc6Gh8nAf",
+"n": "根据自身投资能力与风险承受度,选红利基金还是分红险"
+},
+{
+"t": "KQzmw0C0xiA2Lrkb8TwcdVxonxf",
+"n": "新手投资入门顺序：先货币基金,再债券/固收+类,最后股票指数基金定投(从易到难)"
+},
+{
+"t": "B53wwSzRfiblkZkZeaQcjFILnuc",
+"n": "用近几年最大回撤幅度识别全天候策略的杠杆高低"
+},
+{
+"t": "TiNJwF3PxiD2LVkeviiccAN7nMf",
+"n": "新手入门指数选择：宽基与低波动策略指数(红利低波)"
+},
+{
+"t": "X0NtwZyc5ir4iRkxez7ceiqAnCd",
+"n": "策略指数分为成长风格与价值风格，价值风格中红利规模最大（还有自由现金流、价值、低波动）"
+},
+{
+"t": "JXPVwRh7ci2LB2k0hXPcsaarnMg",
+"n": "初筛环节如何通过6个途径挖掘优秀基金经理（关注重点机构/逻辑、公开资料挖掘、闲聊法、专题研究经验等)"
+},
+{
+"t": "FZ1XwjB43iVqdAkhzqjc3R57nmd",
+"n": "主动基金买入卖出案例复盘：基金经理规模变大、仓位信心下降是止盈换仓信号"
+},
+{
+"t": "OJfuwhOnPiYzKFkwa2tcOAU0nFe",
+"n": "挖掘黑马基金的初筛方法（六个途径）"
+},
+{
+"t": "DMU2wbsVIih33DkGuJlcUyxTn4g",
+"n": "选基金为什么要找物超所值的品种,而非追逐潮流的投资？"
+},
+{
+"t": "JNHwwehl0iG6Qukt0tRc7RtTnkb",
+"n": "家庭保险配置的险种分工（儿童保险不含寿险的原因）"
+},
+{
+"t": "EyVewqftRi4Y5dksfGwcO3Dsn7b",
+"n": "小而美基金规模效应(打新收益/双十规定)与折溢价套利作为FOF拓宽收益来源"
+},
+{
+"t": "LCarwFnVBiAJgskpZczcD1htnme",
+"n": "选基误区之一：为什么依据热门主题概念挑基金胜率不高"
+},
+{
+"t": "YdYLwPaZei1hb3kY9h8cY7TOndb",
+"n": "周胜率/月胜率概念解释策略阶段性跑输大盘的正常性，及高ROE绩优股短期跑输的原因"
+},
+{
+"t": "OC8lwswgXiDelak5Q62cqFMHnBf",
+"n": "仟上FOF策略卖出所投基金品种的两大原因(基金本身变化/估值到高估)及跟踪卖出的具体触发条件"
+},
+{
+"t": "HpypwrzzSioreDk7sVacB8lQnKd",
+"n": "基金经理风格考察"
+},
+{
+"t": "B5bnw9q62inOLUkrLItc0K0qnQh",
+"n": "选品不是收益核心,买入成本与能否坚持持有才是关键"
+}
+],
+"E1 养老规划": [
+{
+"t": "JkEsw5Sxri4AOpkEKQzc7RM7nhX",
+"n": "为什么要提前规划养老（收入-支出模型、养老金替代率）"
+},
+{
+"t": "Dw9VwVADGiLzc1kUOOvc1XoQn5f",
+"n": "养老三支柱与个人养老金账户"
+},
+{
+"t": "TTPYwbScBiJ2GVkwzZacpmC4nqb",
+"n": "个人养老金账户怎么开户、存钱、退税、取用"
+},
+{
+"t": "DfWVwvTwyi7EZBkrptuc9LLgnTg",
+"n": "适合养老补充的品种（存款/国债/保险/理财/公募）"
+},
+{
+"t": "GdGKwfrCJiV5rVkO0mlcoVSvnJd",
+"n": "养老目标FOF vs 养老指数基金"
+},
+{
+"t": "Ibb1wbhBMiwYeAktBKscY8FNngd",
+"n": "螺丝钉养老6步法、用月薪宝/年金险补养老"
+},
+{
+"t": "IhV2w9lSJi1H2akh50Ncbg9znBc",
+"n": "螺丝钉新书《个人养老金投资指南》上市及销量"
+},
+{
+"t": "J4hhw9jBIitYcQkUuvCczCaYnGe",
+"n": "《个人养老金投资指南》新书上市"
+},
+{
+"t": "FMw3wgEf4i6wc3kdxWicHAvlnum",
+"n": "养老第三支柱的四种金融产品方式"
+},
+{
+"t": "N6CmwNV9Xid3PRkPWqXcgy4Znyf",
+"n": "个人养老金账户自动定投功能缺失原因（费率经济账）"
+},
+{
+"t": "WD3QwqOeBiLMt9kn1mMcFMzQnHb",
+"n": "机构与个人配置红利逻辑及养老金替代率下降背景"
+},
+{
+"t": "EGPdwpWhoi3a4ukw1hHcyRbMnQg",
+"n": "个人养老金账户定投用什么品种，红利低波+A系列指数策略"
+},
+{
+"t": "LAJcwERnMiLNq3k0bwPcGfhlnWh",
+"n": "首批养老指数基金覆盖的17个指数分布(宽基300/500纳入数量最多)"
+},
+{
+"t": "DR7rwdaj7iQRL0kAtAMcukqunbb",
+"n": "红利能否作为养老品种（海外经验与低估买入止盈方法）"
+},
+{
+"t": "I192whVyViRleHkg03TcjTUpn4c",
+"n": "香港保险与内地保单的利率差异及其成因"
+},
+{
+"t": "GKmMw2GIOizs6XkRhxWcWcBvnQc",
+"n": "个人养老金每月定投节奏与年度额度上限管理（低估加大投入、达上限即可、活期储蓄过渡）"
+},
+{
+"t": "QTJbwlxugiUbtNkxcwWcMx1EnVg",
+"n": "个人养老金账户期待新增货币基金/债券指数基金等短期零钱品种"
+},
+{
+"t": "NQsaweF2BiJAk4ky11tcSPbtn2c",
+"n": "月薪宝作为养老方案的可行性与老龄化地区现金流基金占比高的现象（含台湾强制分红条款）"
+},
+{
+"t": "Ui4UwDYeMihS87kOhxzcAtXvnUf",
+"n": "养老金账户策略指数纳入情况(红利/龙头)与沪深300中证500估值对比"
+},
+{
+"t": "T0nNwqgMRi3Gf6kggUiccDSQnCd",
+"n": "个人养老金账户定投实盘的收益表现与特点（长期资金限额小账户，不受资金量影响）"
+},
+{
+"t": "FagSwh71LiqG50ko55dcErO5ntc",
+"n": "个人养老金账户\"轻投顾\"(投顾青春版):机构选指数四指引与自助搭配"
+},
+{
+"t": "WzemwcVRpiiRLlkGJ8McWNYcnqf",
+"n": "4%法则倒推养老所需本金:年支出÷4%即可算出"
+},
+{
+"t": "Rx3KwkowTiXHyIkQrt5cycn3nad",
+"n": "个人养老金账户跟投功能受限与养老指数基金购买渠道拓展"
+},
+{
+"t": "LOCbwtN2Gi6U9HkOMZIcN0ctnie",
+"n": "目标生命周期策略的起源与100减年龄配置原理（富达基金/彼得·林奇，含最低30%股票下限）"
+},
+{
+"t": "Z1TMwRPxpiTlBzkezROcvLcPnRd",
+"n": "个人养老金账户的钱是复利还是单利"
+},
+{
+"t": "XjWSwuvwxiXdMIkVngqcy7WVnXd",
+"n": "养老指数基金当前低估品种跟踪（A50、红利低波等估值状态)"
+},
+{
+"t": "KUKywSGYwifyZjkDvV7clhMmnhg",
+"n": "年终奖的定义与配置原则"
+},
+{
+"t": "KHJQwtA7XiMnbBkO5cMcH7rinxb",
+"n": "红利适合什么样的投资者（保守型/保险资金/个人养老金账户定投逻辑）"
+},
+{
+"t": "KbTXwaK5riKa3Vk8ZQnccw5DnUg",
+"n": "个人养老金账户养老指数基金品种少、未来扩容方向"
+},
+{
+"t": "ZyzAwoHKRi93yWk0Ho4cd52tnAf",
+"n": "为什么社保养老金不够用及个人提前准备养老金的3种方式（基金定投/商业养老保险/个人养老金账户）"
+},
+{
+"t": "DhczwCv4ZigRjfkhp2Vcisdrnph",
+"n": "2023年养老保险个人账户记账利率降至3.97%"
+},
+{
+"t": "FwNSwKnNaiS8R0khVltcin14nkg",
+"n": "养老金替代率下降与延迟退休趋势下，为什么养老规划要趁早开始"
+},
+{
+"t": "A8HZw6RDEiM6IpkDN22clnP3nBh",
+"n": "用国务院小程序测算退休养老金能领多少（个人账户+基础账户计算公式与查询方法）"
+},
+{
+"t": "IeKwwKRt5iorrok9Lo3caVVQnsc",
+"n": "个人养老金制度定义与三支柱定位"
+},
+{
+"t": "Kus3wPqZtiCdfLkkHrmcRCG9nqg",
+"n": "人事档案出生日期与身份证不一致影响退休时间"
+},
+{
+"t": "G4ZSwoRP1ibD6wkW6ItcbvgZnRc",
+"n": "个人养老金值得参加吗？账户额度有限(每年1.2万)是否还需搭配商业养老保险"
+},
+{
+"t": "R6qBwR3gEiIHL1kk9ZIc8Adbn3d",
+"n": "居家养老/社区养老/机构养老三种养老模式的优劣势对比"
+},
+{
+"t": "LmTKwEnLYidvWykIVD9cEUi9ngh",
+"n": "专属商业养老保险的产品特点（交费灵活、60岁后领取、退保规则）"
+},
+{
+"t": "JG3Twpsh9iC0vykWW5TcE0P3nXd",
+"n": "视同缴费年限如何影响养老金领取（过渡性养老金计算）"
+},
+{
+"t": "WVC2wnykwiuIrBkPGbBcZyP5nJu",
+"n": "居家、社区、机构养老三种养老模式怎么选"
+},
+{
+"t": "DLk4wU9WsitCDCk5RZHcOgQEnib",
+"n": "医保个人账户资金的3种使用方式与余额查询方法"
+},
+{
+"t": "XbQCw8Vq9iPxQVkk8WpcvSXFnUd",
+"n": "各地养老金上涨怎么调整、四个组成部分是什么"
+},
+{
+"t": "KvUEwo4mIiVUT9kUPUScc5RFnes",
+"n": "用增额终身寿险规划养老的运作机制与优势（锁定利率复利增值+减保灵活取用）"
+},
+{
+"t": "IJcewIzAcirj0tkE3tKcY2uZnae",
+"n": "城镇职工养老金全国平均水平与5000元的档位判断"
+},
+{
+"t": "PZwAwg4RviHzZVkeztdcAc77nKf",
+"n": "社保（职工/居民养老保险）没缴满15年怎么补缴"
+},
+{
+"t": "SdyBwJLRHituyXkvEs8cXcPincb",
+"n": "职工基本养老金怎么计算（基础养老金+个人账户养老金+过渡性养老金）"
+},
+{
+"t": "SAVUwuno2iqzVakh9EIcmpzlngc",
+"n": "生育率下降与现收现付制:为什么年轻人变少会影响未来养老金"
+},
+{
+"t": "FhGHwE09kihSgTkc4zHcg17vnIf",
+"n": "重疾险配置的必要性：得重疾概率与治疗代价的测算"
+},
+{
+"t": "BsWsw9CDbiVpSvkfzCWcsJvznBf",
+"n": "用官方计算器测算退休金及养老金缺口的具体方法"
+},
+{
+"t": "CvLiwoAhXiAz1akngM9cTKionEc",
+"n": "养老金计算公式与影响因素(职工社保)"
+}
+],
+"E2 税务与社保": [
+{
+"t": "G0phwl56QiclmXkWrhMc7Xbgn2b",
+"n": "个税汇算清缴怎么操作享优惠"
+},
+{
+"t": "UqoMwfu6FiNWiukqwduchlUgnsc",
+"n": "社保五险是什么、退休金在哪领"
+},
+{
+"t": "KWb3wbQ2Gi9EBRkfKoKcQCudnnh",
+"n": "商业保险原则上不可税前扣除,仅企业/职业年金个人缴费部分及税优健康险(税优识别码)可在个税汇算中抵扣"
+},
+{
+"t": "Vkbkwpn0HiYTpEkUCzccmK4gnLg",
+"n": "个税税前扣除机制与专项附加扣除项目（房贷利息/子女教育/赡养老人/大病医疗/婴幼儿照护）"
+},
+{
+"t": "IL7gwdNAJigJj2kcJ8rcxkNQnle",
+"n": "医保个人账户的钱有哪些用法、怎么查余额"
+},
+{
+"t": "Ofw6wjsqhiSRDckzGMIc0qAHnnh",
+"n": "职工退休金怎么算：基础养老金+个人账户养老金+过渡性养老金的计算公式与案例"
+},
+{
+"t": "RmzIwSIwzi0GedkAAg0cn1GlnGf",
+"n": "退休前准备事项(确认退休地、提取人事档案、申报材料)"
+},
+{
+"t": "WPnWwcjkdigPFok1GIrcykTjnGe",
+"n": "换工作如何避免社保断缴及断缴影响"
+},
+{
+"t": "XmQ0wJnLRigEBxkgbu5ca8UHnLd",
+"n": "异地就医备案怎么操作，如何用医保卡直接报销"
+},
+{
+"t": "OJVwwf9sjiEOPkkVd8VchUxZnAh",
+"n": "公积金贷款利率下调与提取规则"
+},
+{
+"t": "Kh23wgNRGiW2gGkQtCZck002n0e",
+"n": "医保卡余额除看病外还可用于按摩针灸推拿、购买惠民保等消费"
+},
+{
+"t": "RQjRwhAPpiN0YQkvmGnc88K3nFI",
+"n": "养老资格认证怎么做、多久认证一次"
+},
+{
+"t": "GWuBwlBQCimdFgkmHSVcffGgnic",
+"n": "社保各险种最低缴费年限要求（养老/医保/失业工伤生育）"
+},
+{
+"t": "IdcBwVsyhisqF8kMxeEcttyNned",
+"n": "换工作如何避免社保断缴、断缴有哪些影响"
+},
+{
+"t": "ZtdGw7Xofi2OdBknLUocj5VDnic",
+"n": "职工退休养老金怎么计算(基础养老金+个人账户养老金+过渡性养老金公式)"
+},
+{
+"t": "I1U6w87PpiUB2Okr55vc5oqMnVy",
+"n": "退休金怎么算：基础养老金+个人账户养老金+过渡性养老金计算公式"
+},
+{
+"t": "QneowHeGDixcxWkelF1cZ40Inct",
+"n": "职工养老保险退休金怎么计算（基础养老金+个人账户养老金+过渡性养老金公式与计发基数、计发月数）"
+},
+{
+"t": "L4K5wBxTviFfcGkawxkcJqyFnlf",
+"n": "自由职业者异地参保户籍限制取消"
+},
+{
+"t": "KQr0wToxOibO0mkzoqpcLkGrnPe",
+"n": "养老金（退休金）计发规则与计算公式"
+},
+{
+"t": "LSpJwTocRiKDgkkhHQ3co6KdnOh",
+"n": "公积金贷款额度与账户余额/缴存年限的关系(分城市规则)"
+},
+{
+"t": "INL8wj3b7inGlGk37V9cznCInRc",
+"n": "职工养老保险与居民养老保险每月分别交多少钱"
+},
+{
+"t": "MZWOwnG6viS9bOkJIHQcMtqhnia",
+"n": "公积金贷款购房提取怎么操作、需要哪些材料、能提取多少钱"
+},
+{
+"t": "CHcVwdirjivPDLkTVQzcsHZqnTe",
+"n": "医保消费记录查询方法（本人+亲情账户）"
+},
+{
+"t": "S6epwGcWViSRxBk8lKDcTfiVn7b",
+"n": "慢性病如何申请\"特殊门诊/门诊慢特病\"，报销比例和额度有何提升"
+},
+{
+"t": "PI9gwaRM2ipGFaklmEYcyKw9nwf",
+"n": "灵活就业人员是否应该缴纳社保及缴纳方案选择"
+},
+{
+"t": "OtTNwiQifiFUE2kL2GIcxCMinGc",
+"n": "自由职业者自己交职工社保要注意的3件事(缴费基数变化/申领社保补贴/避免断缴)"
+},
+{
+"t": "NoXQwDq0XimC1skZ4iNc9LmBnS4",
+"n": "新农合（城乡居民医保）是否算社保、能报销多少医疗费"
+},
+{
+"t": "UfR4wAdvdiBhZmkxdbMcvSmin6b",
+"n": "灵活就业人员（自由职业者）怎么自己缴纳公积金，需满足什么条件？"
+},
+{
+"t": "EllywnkMRiNlh6ktx9gcQB98nxg",
+"n": "法定退休年龄条件（缴满15年+达到法定年龄）及职工/居民养老保险合并退休规则"
+},
+{
+"t": "LdDZwaP7diphsmkUrOocKZcqnrc",
+"n": "医保之外补充商业医疗险:百万医疗险+防癌医疗险搭配"
+},
+{
+"t": "Lnk5wI0iUibILUkgXtEc3uI6nEF",
+"n": "个税汇算清缴退税3个技巧：年终奖计税方式选择、夫妻二选一扣除测算、房贷房租二选一"
+},
+{
+"t": "RAQYwuPFtiIB3MkNCOkcmJxinRg",
+"n": "养老金（退休金）计发计算公式：基础养老金+个人账户养老金+过渡性养老金"
+},
+{
+"t": "K4PMwHk67irwnqkEmo1cU5EenJg",
+"n": "专项附加扣除如何在个人所得税App申报"
+},
+{
+"t": "GNGqw7lAWiAH4akRdpkcTlZrndh",
+"n": "养老金领取金额的决定因素（缴费年限×缴费基数×退休城市，年轻一代难交满年限的现实）"
+},
+{
+"t": "Wo0QwnX4FiP6w5kp4L7cfG7znmb",
+"n": "工伤保险哪些情况能赔、怎么申请"
+},
+{
+"t": "X18Nws0Ufi4RY5kUnDqcjaJlnNc",
+"n": "青年人保险如何搭配（重疾+定寿+百万医疗+意外险）"
+},
+{
+"t": "Cm2awME84ivTilkeR65cATkgn3g",
+"n": "养老金计算公式（基础+个人账户+过渡性）及退休核定表核对方法，避免社保局算错漏算"
+},
+{
+"t": "Xdk6wd3Y3iouN8kRPlec7KGNnch",
+"n": "育儿补贴申领指南（对象、金额、流程）"
+},
+{
+"t": "UEQAwKOJZiWsrCk4EpkcbRchnih",
+"n": "社保多缴是否划算：缴得越多福利越多吗"
+},
+{
+"t": "H95SwWmgSiq2MzkjkEIc6zdqnfh",
+"n": "社保养老保险身故待遇:家属可领丧葬费/抚恤金/个人账户余额三笔钱"
+},
+{
+"t": "EQ0HwudotidcYTkk0EJcN3AhnUh",
+"n": "公积金租房提取的条件、材料与办理流程"
+},
+{
+"t": "Zhxzwu1OGivSUZkCbLJcocLLnPh",
+"n": "医保消费记录（个人及亲情账户）查询方法"
+},
+{
+"t": "V0QPwUyzMiRqOxkIxvicqVr6nvh",
+"n": "重疾险的本质作用是弥补收入损失而非医疗支出"
+},
+{
+"t": "SasKwz0oRiPiO8ktTC2cSpM8nUf",
+"n": "退休核准表工龄核对：实际缴费年限与视同缴费年限"
+},
+{
+"t": "CgJkwU3VBixmK2kbbZHc9Rt3nac",
+"n": "职工退休金（养老金）计发公式与计算方法"
+},
+{
+"t": "ZreJwljqbiMT43kNMF4cnedwnHh",
+"n": "退休养老金怎么计算（基础养老金+个人账户养老金+过渡性养老金）"
+},
+{
+"t": "Tq3uwrxW8iB6g3kgdghcdemxnWh",
+"n": "新生儿医保怎么办理"
+},
+{
+"t": "S4HWweQ2WiFSW6kSJf0cBgCYnrf",
+"n": "异地就医备案怎么操作，最高能报销多少"
+},
+{
+"t": "RGydwQWv4iBIB2k9hPfc82ABnHd",
+"n": "医保断缴的影响与如何避免断缴"
+},
+{
+"t": "J3pdwDqPziTWO1kZMZFcHQxvnye",
+"n": "门诊特殊疾病(门诊慢特病)政策及报销申请"
+}
+],
+"E3 家庭资产配置": [
+{
+"t": "Qu8vwktcfi6id3kWwdHcccaLnJd",
+"n": "股债房商四大类资产怎么分配"
+},
+{
+"t": "QsgHwn4ygi8KOskzkH9c8HlFnZe",
+"n": "大额资金/不同年龄家庭怎么配"
+},
+{
+"t": "B5qXw5Ck9izHtok3ve2chO9QnHg",
+"n": "家庭资产配置与个人养老金的结合"
+},
+{
+"t": "Bm6dwOA9dio8CnkIioVcLPkNnEb",
+"n": "资产规划有进攻(收益策略)和防守(保单资产保护)之分:两者本身不冲突可相辅相成,但防守失守时(资产因风险归零)进攻收益的一切策略都失去意义"
+},
+{
+"t": "GrznwWxfwiIZsfkhdBXc5WnWns8",
+"n": "高净值客户资产配置四大策略框架"
+},
+{
+"t": "FElBwnXj7iAIkAkWpeac4etwnqc",
+"n": "孩子专属账户成年后资产移交,平时按4%法则取用作零花钱"
+},
+{
+"t": "C9alwUmJaiCVFpk5QsEcTZfqnPe",
+"n": "家庭资产配置的四大资产类别（股债房商）及其可投资工具概览"
+},
+{
+"t": "OntOwNHPbi1dETkPSDxc9Yjbn3e",
+"n": "目标生命周期基金产品的识别（基金名称年份数字）与个人养老金账户选择"
+},
+{
+"t": "Pyz4wiBceii1INkUoGLctUGHnHe",
+"n": "现代家庭资产配置四层框架（流动性/保障杠杆/进攻/保守）"
+},
+{
+"t": "XHbkwekfpilgU1kXgMPcwBtingh",
+"n": "压岁钱按孩子认知阶段分层规划：幼儿代管→小学期培养消费储蓄习惯→中学后引入复利与基金股票理念→大学后自主做投资计划"
+},
+{
+"t": "C8eGwBxAaiSxSDkTJ6ccW8zdnhF",
+"n": "牛市期间应趁机降低家庭负债率、提前还房贷"
+},
+{
+"t": "BHs3wyVAtiHa0KkUtMucXVQAnVh",
+"n": "大额闲置资金当下配置建议：稳健策略为主(固收+/红利低波)，美元资产按家庭实际需求决定是否配置"
+},
+{
+"t": "FY5UwNSatiI6BakcAu5crVaZnad",
+"n": "家庭财富构成与资金流向（地产低迷、存款低利率下资金转向股债类资产）"
+},
+{
+"t": "S2WswbLtSihvHvk9r2bcAgFDnge",
+"n": "家庭资产配置的国内外结构对比与存款优化、股票两头发力的思路"
+},
+{
+"t": "ShSvwQ1V0ib8zNkqprvcPDXtnxb",
+"n": "子女教育金规划：估值偏高阶段以稳健策略（月薪宝）为主，出现极端低估（五点几星）时切换为高权益的主动优选/指数增强策略，并可为孩子设专属账户培养投资习惯"
+},
+{
+"t": "RxPuw0UDmilCUwk5hMqcAB03nsg",
+"n": "标准普尔家庭资产配置四象限（短期活钱10%/保命杠杆钱20%/进攻型资产30%/稳健打底资产）"
+},
+{
+"t": "Lh2ZwSsciiUASIktKVockTl7ngf",
+"n": "家庭经济支柱为何需要定期寿险（转移人力资产的身故风险）"
+},
+{
+"t": "Bx52ww4piijsDfkYXidcB03gnBg",
+"n": "重疾险不划算要不要退保重买（判断步骤）"
+},
+{
+"t": "HyBtwZdYJi0RtAkgLv6cvUlunOh",
+"n": "家庭四账户法（现金/保险/投资/稳健账户）如何确定购买储蓄险的金额"
+},
+{
+"t": "X3ccwd0kAiGVv9ke9MNcxcZ0nCc",
+"n": "婚前资产隔离方法"
+},
+{
+"t": "BqasweMjbi7D3Kk0fXucCLm9n7h",
+"n": "储蓄险选品参考(增额终身寿/年金险/分红险)"
+},
+{
+"t": "TitRwWz6tiZmDck2hDlc9xpin8w",
+"n": "五大经典资产配置策略概览(全天候/CPPI/大类/生命周期/风险策略)"
+},
+{
+"t": "Okobwx3idigVObk7JH6cB2upnXd",
+"n": "用四账户法（现金/保险/投资/稳健）确定储蓄型保险配置金额"
+},
+{
+"t": "HP3Tw6sSjilewQkHdslca5o7nzb",
+"n": "用增额终身寿险作为家庭资产的稳健压舱石,应对股市大幅波动和失业风险"
+},
+{
+"t": "K6pYwXrRyidRtqkECjHcRo7Fnzc",
+"n": "四账户法确定储蓄型保险(年金险/增额终身寿险)配置金额"
+},
+{
+"t": "ARJXwo9m3icb42kouX9cU54znic",
+"n": "家庭资产配置三步走法(规划存量增量资金→存量按100-年龄→增量做定投)"
+},
+{
+"t": "FW7cw0X14imUckk8fjGcJa7znSe",
+"n": "老年人保险按健康状况如何配置（防癌组合 vs 标准级组合）"
+},
+{
+"t": "ExNowVTM9iu1dXkd6Ujcwio9nPb",
+"n": "储蓄型保险选品:年金险与增额终身寿险如何按资金用途和需求场景挑选"
+},
+{
+"t": "VcOJwgaEyiN8b1k3HmqchO5Fn2c",
+"n": "压岁钱长期不用部分做定投(孩子+父母共同),取用时按4%法则"
+},
+{
+"t": "Bn1tw6LlEiZn7YkmixCci6R4nPe",
+"n": "压岁钱专属账户的定投策略（4-5星买入、月薪宝切换）与父母1:1配捐激励机制"
+},
+{
+"t": "AxVvwhmWCiALxwkJpL0cakiznae",
+"n": "4%法则用于财务自由目标倒推与支出约束(牛熊市动态化)"
+},
+{
+"t": "REJwwffJ1i7wkMkASRVcBJS3nIS",
+"n": "房贷月供比例与债务对选择权的影响"
+},
+{
+"t": "JOGIwX6UYiV55vkIkFGc5jyEnVd",
+"n": "商品类资产（黄金）不产生现金流，价格由供需关系决定；开采稀缺性赋予其货币替代属性"
+},
+{
+"t": "W9iXwAxNRio7BmkdhWZc0NabnRh",
+"n": "高净值直播的内容安排(前半段知识分享+后半段互动答疑)"
+},
+{
+"t": "RTtwwVdwTiWMqCkXSyacuHQTnOc",
+"n": "指数基金投资对居民家庭财富的意义（美国家庭配置对比）"
+}
+],
+"E4 短期与应急资金": [
+{
+"t": "VXn7wxYh1i3zI2kplQWcKakrn0c",
+"n": "儿童财商培养第二阶段(2-7岁)以养成消费习惯为目标,通过零花钱与商品对价建立\"花钱有代价\"的认知"
+},
+{
+"t": "TU51wfrSrixNjukk7tQcMJBXnDR",
+"n": "儿童财商培养：家长分次给生活费培养孩子延迟满足与消费习惯"
+},
+{
+"t": "RUbUwt5sriscOkkOJR2cF9Ckndg",
+"n": "分散发放工资改善月光消费习惯"
+},
+{
+"t": "ZIKNw2xzniMyePkwdvlcWRHnndh",
+"n": "6-12个月应急资金垫与自由保证金"
+}
+],
+"E5 子女教育与人生大事": [
+{
+"t": "OdKLwbegDirOo5kdd1dcQY9znUO",
+"n": "用货币基金给孩子做资产启蒙（购买力体验法）"
+},
+{
+"t": "Ww87wWkwRivvqikojgDcYc7Hn7e",
+"n": "从小培养孩子财商:通过阅读书籍进行理念启蒙,让孩子在实践中践行"
+},
+{
+"t": "GqfZw5QzJiquJ6kZqurcZkvZnzh",
+"n": "压岁钱打理与孩子财商教育（直播开场介绍）"
+},
+{
+"t": "GbtywF1cui8LuBkd2FmcLvAtnAh",
+"n": "第一阶段（0-2岁）：建立客体永久性概念"
+},
+{
+"t": "LwMqwjvkxiDZj1knDkgcNFmfnEj",
+"n": "父母1比1配资孩子定投计划,类比企业年金匹配机制培养储蓄习惯"
+},
+{
+"t": "EMoXwL8hKi3pjykRvAaclgWqnJb",
+"n": "压岁钱怎么打理：财商启蒙书单+全面保障+教育金规划三件事"
+},
+{
+"t": "D3qnwYvUUiGYLEkHkS5cDiOGnwf",
+"n": "孩子压岁钱打理方法:三三分配思路(即时消费/灵活备用金/长期存钱)+按期限匹配工具(活期/存款/增额寿)"
+},
+{
+"t": "A9HZwREIiiUQUhkbG1EcX71SnWb",
+"n": "用货币基金给孩子演示储蓄增值，从小培养消费观与财商启蒙(书单+方法)"
+},
+{
+"t": "S9c1wW0K3iH0cVkCHu9cdLxvnkg",
+"n": "用储蓄险规划教育金：长期锁定利率+专款专用+强制储蓄的优势"
+},
+{
+"t": "CHkxwvItLicQokkdEJucvH2BnJb",
+"n": "养一个孩子到大学要花多少钱（生育成本测算与花费构成）"
+},
+{
+"t": "IH2lw7tAbizTLKk2gtwcNEZtndf",
+"n": "教育金现金流：红利指数基金分红的运用方法"
+},
+{
+"t": "FyAEwuDC8izBSXk1yTTcfqs7nlf",
+"n": "教育金需提前规划：支出确定性强,避免家庭经济变化影响孩子教育"
+},
+{
+"t": "DpqxwHCRkilPOZkC5XhcF2pdnEd",
+"n": "大学阶段如何培养投资理财意识（巴菲特早年案例与书籍推荐)"
+}
+],
+"F1 估值表与信号板": [
+{
+"t": "OVo6wAkWQiOGZ5kSCaFcQKtBn87",
+"n": "估值表怎么看、规则说明"
+},
+{
+"t": "EvzpwB19niOJ8Jkd0xicWA0gnih",
+"n": "牛熊信号板/今天几星工具"
+},
+{
+"t": "JjKdwaG1siuZYgkHqDecb5ejnMf",
+"n": "专题估值表(红利/港股/美股/全球)的规划与后台指数覆盖范围"
+},
+{
+"t": "RJ0zwplbiiaoHVkTGAxcB435nVb",
+"n": "AI查询指数估值为何常有偏差：金融终端市值加权法与策略指数专用规则的差异"
+},
+{
+"t": "Jel4wkpECirKWTk06FucTDmXn2c",
+"n": "中证2000为何未纳入估值表：基金数量稀少、监管暂停对高估值细分指数批新，未来将随重点指数库扩容并上线\"今天几星\"小程序查询"
+}
+],
+"F2 投顾组合介绍与运作": [
+{
+"t": "TFgUwEYXEiBOsnkG0RgcwlhTnkh",
+"n": "五个投顾组合各有什么特点"
+},
+{
+"t": "UV5vw8e5JiLjh6kri9pc1GPKnlJ",
+"n": "主动优选投顾组合"
+},
+{
+"t": "De32w7H6jiHrlWk3qgIcQgcrnxf",
+"n": "指数增强投顾组合"
+},
+{
+"t": "IMQXwfdC0iTJrukmxdkc8iqAnuf",
+"n": "365天投顾组合"
+},
+{
+"t": "ZmnHwxP7Aibaguk1IllcREbXnxb",
+"n": "90天投顾组合"
+},
+{
+"t": "Pj1Wwm4ZNiw5rFkO7utcApbynqb",
+"n": "月薪宝投顾组合（含现金流来源）"
+},
+{
+"t": "C33UwmFg4ilefpkyM3ScjzDAnre",
+"n": "金钉宝指数/全球指数投顾组合"
+},
+{
+"t": "QFnrwrF1kiC4u1k1xKJczN1xnCW",
+"n": "投顾组合怎么调仓、收益来源、成绩单"
+},
+{
+"t": "LIz1wL2MMi6UXxkq30dcLv8Bnrh",
+"n": "月薪宝与365天投顾组合的股债比例对比（如何按固收+风险偏好选组合）"
+},
+{
+"t": "W9b2wVwAkizqEWkg9GVc8uUznPh",
+"n": "主动优选与指数增强组合的申购开放/关闭星级门槛"
+},
+{
+"t": "T5WSwvHSKiAfBSkwJWpcOzuhnbh",
+"n": "螺丝钉组合的购买渠道有哪些平台（雪球/蚂蚁/天天）及未来发展趋势"
+},
+{
+"t": "Lhiiw8DzfilBcGk2COlc9AAEnDc",
+"n": "90天/365天/月薪宝三档组合如何选：按历史最大回撤匹配风险承受能力"
+},
+{
+"t": "B6q5w7GZ5ivPmtkhH66cjpxYncg",
+"n": "私募策略（指数增强/主动优选FOF）如何通过基金分红实现止盈减仓"
+},
+{
+"t": "REyMwAVBEiR6wDkanzQcqE2Mnhb",
+"n": "调仓止盈的原理与操作逻辑（以红利指数自带低买高卖类比投顾组合调仓）"
+},
+{
+"t": "IXz3wSYJaihA0jkvKhac9q2wnXf",
+"n": "月薪宝与365天组合混合配置的风险水平如何计算"
+},
+{
+"t": "NYqjwQgXWi8VcwkaCxUcnPvMnLd",
+"n": "主动优选与指数增强的增厚收益策略"
+},
+{
+"t": "K5bSwCjKqiEbf3kt7jKcp0zKngc",
+"n": "组合在市场过热阶段暂停申购/发车的判断与操作"
+},
+{
+"t": "MoP4w4BSZim23XkCjyGcOWNon4b",
+"n": "月薪宝和365天组合的区别（股票比例不同、风格相似）及红利补涨背景下的可投资性判断"
+},
+{
+"t": "CwmrwVyNoiTe9UkMkawchnw0nlh",
+"n": "投顾费合并封顶机制、费率对比与阶段演变"
+},
+{
+"t": "VCORwpJeYiUmAOkV0rxcleaZnde",
+"n": "全天候策略杠杆版本选择:参照股票基金最大回撤水平,倾向选不带杠杆的稳健版本"
+},
+{
+"t": "DGASwi5GMi4IOGk1O1wc7G5hnJf",
+"n": "投顾组合的流动性安排：无封闭期随时申赎"
+},
+{
+"t": "AAdMwXQVLiGMRCkPC1Dc8lVcnMf",
+"n": "365天投顾组合净值与亏损原因分析"
+},
+{
+"t": "RmXRwMcn8isEekkYW8pcX09Knqc",
+"n": "黄金组合的未来规划（基于黄金星级加仓止盈）"
+},
+{
+"t": "C2Lpw0bkdiSIuXkXNc5cFApdn7d",
+"n": "月薪宝投顾组合"
+},
+{
+"t": "JdPzwd8J7iZHcBkRDutcGeghnYd",
+"n": "年终奖等一次性大额资金该如何选择投顾组合配置"
+},
+{
+"t": "Fo3wwj3e8isNAxkK0bwcKC99nOe",
+"n": "365天组合的波动幅度与作为股票替代品的避险价值"
+},
+{
+"t": "KW0rwVAmoinzGKk9ustcezyznmd",
+"n": "大笔资金适合选择哪种固收+产品"
+},
+{
+"t": "Hbygw7HHzimm7Pk9GbjcO0cGncg",
+"n": "月薪宝/365等固收+组合股票部分为何偏价值风格、股票仓位比例与回撤波动的关系"
+},
+{
+"t": "K8BVwOTd0i126NkMuQ8c1UFfn7f",
+"n": "主动优选的估值再平衡机制与2025年初风格切换调仓案例（成长37%降至23%，风格切换带来上涨）"
+},
+{
+"t": "CnrkwHXvki69vjkh6JfcAhK9nCg",
+"n": "子账户功能介绍"
+},
+{
+"t": "TefpwcuapivlZMk4ZgiczAf4nBg",
+"n": "主动优选/指数增强在市场过热(高星级)时暂停申购、低估时开放的运作机制"
+},
+{
+"t": "NSEowie2iiFqyKk52DUcyTqGnyf",
+"n": "当前星级偏低时私募/股票类策略不适合，固收+组合（月薪宝/365天/全天候）风险控制原理对比"
+},
+{
+"t": "SdFMwLueXiX8iWkN4KVcyEqJnde",
+"n": "全球股票指数投顾组合"
+},
+{
+"t": "BRIkw6NpgiWK75kSj13cyHXInlg",
+"n": "牛市中后期信号(单日申购破百亿/上调保证金比例/机构减仓)出现前后，主动优选如何暂停申购并止盈成长加仓红利价值风格"
+},
+{
+"t": "IbHvw1mKCiz10ZkmxnPcQ6grnHb",
+"n": "投顾组合高位限购机制与逆人性操作"
+},
+{
+"t": "Txktwk7cKitR1TkCKhTc6oamnWe",
+"n": "投顾组合与单只指数基金的核心差别（买卖时机指导，非收益超额）"
+},
+{
+"t": "ZKfzwkV8tic2kJk1vnFcCXo3nPe",
+"n": "全球指数投顾组合（估值、限购与止盈方式）"
+},
+{
+"t": "AmGGwK3hsicrkukfN4XcLbRrnaf",
+"n": "风格轮动带来的调仓获利与整体止盈信号"
+},
+{
+"t": "HZfewEzudiQcUdkdfAzclBpcnQb",
+"n": "主动优选与指数增强组合的申购开关星级阈值(何时重新开放、何时关闭申购)"
+},
+{
+"t": "RxWKwylJMiiiRwkS5vocaZPNnld",
+"n": "主动优选、指数增强暂停申购的星级触发机制"
+},
+{
+"t": "Hz3IwcWLqid1sAkwnricCZmlnib",
+"n": "投顾组合未来能否在其他平台上架"
+},
+{
+"t": "OPK0wvhTcipFhzk4TXccpORun8g",
+"n": "固收+三类选择方式对比（主动基金/投顾组合/指数产品）及月薪宝与365天组合的仓位与回撤数据对比"
+},
+{
+"t": "GwoqwkssZiNXJ4kSUlKc4Fx3n1g",
+"n": "月薪宝股票部分的估值参考指标与高估罕见的原因"
+},
+{
+"t": "FhDMw7sb8iCKlCkny1KcGpPwnVf",
+"n": "不同品种波动率区间对比（宽基/行业/红利/月薪宝365）及月薪宝365的定投适用性"
+},
+{
+"t": "FvUkwTZNSikDXYk8jvUcporqnPc",
+"n": "中证1000指数增强定投案例：收益63%后高估分批止盈的操作方式"
+},
+{
+"t": "WCdiwjkGVi25gsk1hQwcvlYXnHg",
+"n": "主动优选、指数增强为何在市场过热时彻底关闭申购功能（而非仅停发车）"
+},
+{
+"t": "NUppwaMSli1gj0kBIdTc7wAmnXf",
+"n": "365天组合适合一次性投入还是定投过渡"
+},
+{
+"t": "LcyDwIDYWip7EQk7YP2cRTMRn9e",
+"n": "投顾组合的自动止盈跟车功能"
+},
+{
+"t": "YGG8w84oHirVV9kiH4wcoUKenTd",
+"n": "五个投顾组合最大回撤对比及365天组合波动对标长期纯债基金"
+},
+{
+"t": "I0xKw3sFHi4ByEkBUslcBcWanQg",
+"n": "主动优选指数增强为何暂停申购、以及关闭后的运作与影响"
+}
+],
+"F3 投顾行业与制度": [
+{
+"t": "BWJgw4BYpi03PEk1QFRc2GuKnXc",
+"n": "什么是基金投顾、为什么会发展起来"
+},
+{
+"t": "K6V2wub2ZiRsz2kSeoMccv9fnue",
+"n": "投顾费怎么收、对投资者更有利"
+},
+{
+"t": "OFUOwSbFziKrkTkCukFcGV5enNg",
+"n": "投顾组合的安全性"
+},
+{
+"t": "XasOwLQZjiP6huk5zEscO7sUnVg",
+"n": "投顾与FOF的区别"
+},
+{
+"t": "Wq5VwVDAei5smLkZakGccs2PnHh",
+"n": "投顾资金监管链条:公募基金归证监会监管、银行/大型券商托管,投顾本身是服务而非独立产品,调仓止盈均在投资者自有账户内完成"
+},
+{
+"t": "TvkiwqkqaiARXmkHhaMce3zlnMf",
+"n": "螺丝钉为何逆势关闭申购、以规则化机制抵御行业竞争与KPI压力"
+},
+{
+"t": "PUibwCCmQiixmukUIulcfjSinle",
+"n": "目标星级策略专户定制服务(手动/自动再平衡)及门槛演变"
+},
+{
+"t": "C7Vjw05wKit02OkhFphcF0scnpe",
+"n": "仟上FOF策略如何通过星级区间与一对一提醒帮助投资者长期持有"
+},
+{
+"t": "Jt6DwSmvBiKFfWkiN62cqtW6nOc",
+"n": "投顾组合和私募基金该怎么选？（门槛要求、私募增厚收益技巧、专属服务差异）"
+},
+{
+"t": "Ml2gw4uWminb4rkRglLcQf4inOf",
+"n": "固收+组合（90天/365天/月薪宝）的资产配置逻辑、分红/赎回特征与历史年化收益水平"
+},
+{
+"t": "L24bwww1uiKBxRkdLwCcrJCbnBe",
+"n": "90天组合为什么在金融危机时不会大跌"
+},
+{
+"t": "DhFZwqvV2iOSLHkvb8OcTLiqntc",
+"n": "固收+5%-10%比例组合尚未推出、口袋书发布计划，及投顾策略上架平台的时机选择（避开牛市高星级关闭期，倾向熊市/低估时上线以规避追涨杀跌投资者）"
+},
+{
+"t": "NHkNwJvhEimo37koHYQc1VUTnZd",
+"n": "现在（2025年）哪些组合适合一次性投入——股票基金组合黄金期已过，可投月薪宝/365天/90天组合及月薪宝对标沪港深红利低波估值状态"
+},
+{
+"t": "GCZEwUZNbianilkPtJBcRfjVnLc",
+"n": "投顾费与优惠政策"
+},
+{
+"t": "YGQBwliHgih9hCkFxhycVswMnNd",
+"n": "组合申购开关规则"
+},
+{
+"t": "ULtCwxnMWiG3rWk5HiYcUgvSnNd",
+"n": "螺丝钉的全勤日更与长期承诺"
+},
+{
+"t": "PVVaww5t5iHSRxkSpT5cTSqXnSc",
+"n": "投顾与私募/公募的关系（上下游而非平行，底层资产构成）"
+},
+{
+"t": "HdwQw6TWYidiOEkHMvfcjmdgnqd",
+"n": "投顾组合限购保护客户利益与机构规模损失的商业两难(基金公司自营基金与投顾业务的利益冲突)"
+},
+{
+"t": "DPH6wAludiJppokSdvScbrsvnFe",
+"n": "高净值私募数据查看权限与线下活动规划"
+},
+{
+"t": "KW7xwxnSBiUQuokxxHOcRHXGnEf",
+"n": "星级投资机会提示服务(回复关键词获取多资产大类的机会提醒)"
+},
+{
+"t": "GLQAwbYvVi84IykWOMacSlxTntj",
+"n": "高净值投资者线下活动的城市与时间安排"
+}
+],
+"F4 学院·课程·书籍": [
+{
+"t": "NbMHwy12UinEpXklX1IciSaYn9c",
+"n": "学院、入门课、训练营"
+}
+],
+"F3 投顾组合介绍与运作": [
+{
+"t": "Vy9kwEjf0izya8kBfRqcms2pnZd",
+"n": "螺丝钉投顾组合的分散配置方式对比(主动优选/指数增强靠股票风格轮动，365天组合靠股债间配置)"
+},
+{
+"t": "Wnj6w8DmSi5XzektBIPcUxManBh",
+"n": "固收+组合（90天/365天/月薪宝）的资产配置逻辑、分红/赎回特征与历史年化收益水平"
+},
+{
+"t": "BUFPwhSZhiNkDXkZ8zec55z0nah",
+"n": "90天组合为什么在金融危机时不会大跌"
+},
+{
+"t": "MiNqwGF6jiyqL7kEtRucCKGNn5b",
+"n": "现在（2025年）哪些组合适合一次性投入——股票基金组合黄金期已过，可投月薪宝/365天/90天组合及月薪宝对标沪港深红利低波估值状态"
+},
+{
+"t": "VftswHc6piJwEMkWqWRcBrJvnjg",
+"n": "红利指数基金组合的筹备与研发进展（后台策略2025年成立测试中）"
+},
+{
+"t": "DadPwrwLliQOmckOvcScgGxvnTh",
+"n": "固收+5%-10%比例组合尚未推出、口袋书发布计划，及投顾策略上架平台的时机选择（避开牛市高星级关闭期，倾向熊市/低估时上线以规避追涨杀跌投资者）"
+}
+],
+"F5 学院、课程与社群服务": [
+{
+"t": "SnjAwVyLCi3YSTkofEKcUqWInSd",
+"n": "线下见面会是否收费、人数规模限制与主题征集机制"
+},
+{
+"t": "BZZ1wFqgOiFszWkCxF4cHHWfnQf",
+"n": "苏州站线下活动免费报名"
+},
+{
+"t": "IkEawKRnLimyn0k6lS2cuXjinfc",
+"n": "线下活动报名登记方式与小助手报名入口"
+},
+{
+"t": "QJwDw6k5DiQEs5kTaxuchNIrncA",
+"n": "高净值客户直播与线下活动开展计划及城市分布"
+},
+{
+"t": "WvDVwjTcPijGGQk1nM0c6dZencb",
+"n": "直播课时间安排(周二周五预告)及2026年线下活动城市计划"
+}
+],
+"F6 书籍与出版动态": [
+{
+"t": "JGzmwGz7fi6T2pkYF7ecqHeZnwe",
+"n": "口袋书形式的由来及《红利指数基金投资指南》选红利为首本主题的估值背景"
+},
+{
+"t": "GFxvwOYbFixmCNkmRCOcs2NOnUh",
+"n": "螺丝钉新书出版计划与进展(红利/个人养老金已出版成畅销书,固收+书籍二季度交稿三季度出版)"
+},
+{
+"t": "FU3Cwg1e7ige9GkNHEnc3aminid",
+"n": "螺丝钉两本代表作定位:《指数基金投资指南》体系方法论与《红利指数基金投资指南》红利品类切入的适用人群与出版背景"
+},
+{
+"t": "IeNewYuetigVfykg8ZgcL33lnVg",
+"n": "投教内容创作来源与演变：碎片化日更文章沉淀用户共性问题，催生《红利指数基金投资指南》《个人养老金投资指南》等书籍出品"
+},
+{
+"t": "QWbLwMHokiDFMDkaiuvcPHaPnZc",
+"n": "《4000周》书籍介绍（罗星带你读书曾介绍，用4000周量化人生时间以强化定投紧迫感）"
+},
+{
+"t": "WEuVwoSP4imQKFkimryctTqlnEd",
+"n": "《红利指数基金投资指南》2026年上半年登顶投资理财类新书销量第一"
+}
+],
+"G1 投资大师与理念": [
+{
+"t": "N9rDwcjI6iNqvskXUPpcYAk9noh",
+"n": "巴菲特的投资理念（含卖出的三种逻辑）"
+},
+{
+"t": "Kr17wgppEihhjnkhC7DcElP8nTm",
+"n": "查理芒格与《穷查理宝典》"
+},
+{
+"t": "BlpRwubwriVz3RkQLK4cPi7bnjd",
+"n": "指数基金之父约翰·博格"
+},
+{
+"t": "HLr1wurTui00Qkkz09icqNDjnWb",
+"n": "格雷厄姆与深度价值、施洛斯"
+},
+{
+"t": "XIVdwwxT0iD6R5k2dbXc9rs3nIb",
+"n": "彼得林奇与均衡风格"
+},
+{
+"t": "P62qwXgCyiMZn2kAK9IcGwmPnuh",
+"n": "科斯托拉尼、西格尔等"
+},
+{
+"t": "X51jwiVkWi0vKhkAk6dcBaQvnkV",
+"n": "四分法(永久组合)、杠铃策略等另类策略原理，及为何主流最终回归宽基指数基金"
+},
+{
+"t": "ZREUwtOcRiVWtqkrikmcZYFFnT3",
+"n": "达里奥个人投资经历(漂亮50泡沫破裂、股市已死、切换黄金后20年熊市)催生全天候风险平价理念"
+},
+{
+"t": "NTT7wfB2KiCijVkncTWcpIubnKb",
+"n": "达里奥提出全天候策略的诞生背景:早年经历漂亮50长熊市与两次投资挫折"
+}
+],
+"G2 基金经理精讲": [
+{
+"t": "RAu6wUuDSiFwpmkklUIcM2Kanlh",
+"n": "主动优选基金经理逐位精讲（朱少醒、张坤、谢治宇、葛兰等）"
+},
+{
+"t": "WKupwnKHUiEpyOkLjDQc0EL5n2d",
+"n": "目标星级策略可定制专户，门槛1000万元"
+}
+],
+"G3 历史事件与市场复盘": [
+{
+"t": "AIs1wlwUeiQpv5kghCGca7f7nOc",
+"n": "以史为鉴：日本股市大泡沫"
+},
+{
+"t": "ZZ0JwtdiPikZATkCZMqcJoq7nbh",
+"n": "金融机构故事（嘉信理财、先锋领航、黑石）"
+},
+{
+"t": "LnzDwuIB3iUef1klEzfcUFtfnuf",
+"n": "（目标主题暂无匹配节点，待建）"
+},
+{
+"t": "OciBwIHqiixFggkU6Kuc6Ewan9T",
+"n": "股份制公司分红的起源与股票交易所的诞生"
+},
+{
+"t": "BDoDwotIeizvSfkeYvEcWibun5c",
+"n": "十年十倍怎么实现：早期小资金靠可转债打新/ETF套利/分级基金套利,资金增长到二三十万后靠分账户打新增厚收益(2015-2021历史策略,今已不适用)"
+},
+{
+"t": "UpJLwuHjci4cZgk1FAMcmIpOnBf",
+"n": "牛熊市定义(20%涨跌惯例)与中证全指作为A股代表性回测工具说明"
+},
+{
+"t": "XJfnwAHPVikYs3k4O3ic45sXnMd",
+"n": "A股过去20年经历了哪五轮牛熊市？"
+}
+],
+"G4 带你读书": [
+{
+"t": "MfqOwWkuNi9TWokv4uGcXMlVnch",
+"n": "《股市长线法宝》《耐心的资本》《持续买入》《原则》等逐本解读"
+},
+{
+"t": "CgMowRavGibHGkklxV2cBo0dnag",
+"n": "阅读的价值在于广泛掌握不同领域的基础方法论,避免\"手里拿锤子看什么都是钉子\"的思维局限(查理·芒格理念),且需甄别哪些方法论真正适合自己"
+},
+{
+"t": "LVCwwZ3yuif9XVkNa2XcO3bWncd",
+"n": "用\"100减年龄\"法分配娱乐与学习时间,选书优先经典投资书籍并反复阅读内化框架"
+},
+{
+"t": "Xov8w1J5BitrlTkdAMlcTek7nrg",
+"n": "识别好书与阅读内化的三层读书法(翻阅目录黑体字判断兴趣→通读标注重点→写读书笔记或复述分享)"
+},
+{
+"t": "WwR0wVBBmiO2IjkMayucE0vWnIQ",
+"n": "钉大最近读的好书推荐：《金钱心理学》优化理财行为习惯、《创造性破坏的力量》解读AI等新技术对社会生产力的影响"
+},
+{
+"t": "Ci8HwGz7yiXJfxkGwubcvOKXngh",
+"n": "《非凡的成功》：史文森的耶鲁模式资产配置法（多元化、偏股、被动管理组合）"
+},
+{
+"t": "Kg7ywg8Rwi7ObikwFgScucXUnxf",
+"n": "《简单致富1/2》普通人实现财务自由的八大原则"
+},
+{
+"t": "Grfvw97ikikMDFkS1mDcs1pYnOg",
+"n": "螺丝钉带你读书栏目简介与内容定位"
+},
+{
+"t": "SBEywTBDoiJcuIkSLypcWGHpnYe",
+"n": "金钱本身不具备价值，能产生现金流的资产才会长期增值（《金钱大侦探》）"
+}
+]
+}
+}
