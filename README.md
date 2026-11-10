@@ -1,6 +1,6 @@
 # course-refresher
 
-历史课程／册子／电子书的**时效性与合规更新** skill，供 Claude Code 使用。这是一个私有仓库，是 `course-refresher` skill 的**源代码托管地**——本地生效路径是 `~/.agents/skills/course-refresher/`（`~/.claude/skills/course-refresher/` symlink 到这里）。
+历史课程／册子／电子书的**时效性与合规更新** skill，供 Claude Code 使用。这是 `course-refresher` skill 的**源代码托管地**（公开仓库）——作为「课程&书籍」项目的项目级 skill，本地生效路径是项目的 `.agents/skills/course-refresher/`。
 
 > ⚠️ **必须保持私有。** 仓库里含身份合规红线、投顾组合的内部运作规则（🔒标记）、飞书知识库的 space id 与文档 token。不要转公开、不要把 `assets/kb_index.json` 单独外发。
 
